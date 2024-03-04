@@ -28,12 +28,13 @@
 ## **The Kingdom of Zemland**
 
 ### **Lore** 
-
+ - [[Kingdom of Zemland/5. Lore/History/History\|History]] 
 
 ### **Locations** 
 
 
 ##### Cities
+- [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]] 
 
 
 ##### Continents 
@@ -46,12 +47,38 @@
 
 
 ##### Places of Interest
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Black Forrest\|Black Forrest]] 
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Shingen Manor\|Shingen Manor]] 
 
 
 ##### Towns
+- [[Kingdom of Zemland/3. Locations/Town/Dim Harbour\|Dim Harbour]]
+- [[Kingdom of Zemland/3. Locations/Town/Evita\|Evita]] 
+- [[Kingdom of Zemland/3. Locations/Town/Rose Falls\|Rose Falls]] 
 
 
 ##### Villages
+- Shadow Crest
 
 
 ### **NPC's**
+
+#### Allies
+- [[Kingdom of Zemland/2. NPCs/Allies/Jasmine\|Jasmine]] 
+- [[Kingdom of Zemland/2. NPCs/Allies/Lord Barbas\|Lord Barbas]] 
+- [[Kingdom of Zemland/2. NPCs/Allies/Reki\|Reki]] [[Kingdom of Zemland/2. NPCs/Allies/Shadow\|Shadow]] 
+- [[Kingdom of Zemland/2. NPCs/Allies/Zacora\|Zacora]]
+
+#### Enemies 
+- [[Kingdom of Zemland/2. NPCs/Enemies/Ella\|Ella]] 
+- [[Kingdom of Zemland/2. NPCs/Enemies/Nightingale\|Nightingale]] 
+- [[Kingdom of Zemland/2. NPCs/Enemies/Pariah\|Pariah]] 
+- [[Kingdom of Zemland/2. NPCs/Enemies/Starlight\|Starlight]] 
+
+#### Neutral
+- [[Kingdom of Zemland/2. NPCs/Neutral/Diana\|Diana]] 
+- [[Kingdom of Zemland/2. NPCs/Neutral/Donjon Family\|Donjon Family]] 
+- [[Kingdom of Zemland/2. NPCs/Neutral/Flower\|Flower]] 
+- [[Kingdom of Zemland/2. NPCs/Neutral/Rasbroth\|Rasbroth]] 
+- [[Kingdom of Zemland/2. NPCs/Neutral/Rus\|Rus]] 
+- 
