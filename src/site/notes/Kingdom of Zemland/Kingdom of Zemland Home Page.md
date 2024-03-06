@@ -32,6 +32,12 @@
 
 ### **Locations** 
 
+### Map
+
+[[Kingdom of Zemland/3. Locations/Zemland Map\|Zemland Map]] 
+
+
+
 
 ##### Cities
 - [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]] 
