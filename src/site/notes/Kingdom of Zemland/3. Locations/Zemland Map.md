@@ -3,6 +3,6 @@
 ---
 
 
+[Larger version of map]( https://imgur.com/HbZMfSy)
 
-
-![Zemland.webp|1300](/img/user/Kingdom%20of%20Zemland/z_Attachments/Zemland.webp)
+![Zemland.webp|800](/img/user/Kingdom%20of%20Zemland/z_Attachments/Zemland.webp)  
