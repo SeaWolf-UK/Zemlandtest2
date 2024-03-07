@@ -6,6 +6,6 @@ A group first come across in the city of [[Kingdom of Zemland/3. Locations/City/
 
 Believers/followers of the god of light. [[Kingdom of Zemland/ImportCLI/compendium/deities/Uboss\|Uboss]] 
 
-Believers in the prophecy of the [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Last Dragon Slayer\|Last Dragon Slayer]] and that the return of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Dracor\|Dracor]] will be the end of all.
+Believers in the prophecy of the [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Last Dragon Slayer\|Last Dragon Slayer]] and that the return of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Drakor\|Drakor]] will be the end of all.
 
 Oppose the [[Kingdom of Zemland/5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]] 
