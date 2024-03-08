@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cloud Giant Smiling One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cloud Giant Smiling One
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
