@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hutijin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hutijin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175*  
