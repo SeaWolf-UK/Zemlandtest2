@@ -12,6 +12,7 @@ tags:
 aliases:
   - Nilbog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nilbog
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
