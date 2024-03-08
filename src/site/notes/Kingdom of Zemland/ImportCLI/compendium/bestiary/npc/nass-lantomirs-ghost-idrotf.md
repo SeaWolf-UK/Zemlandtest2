@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nass Lantomir's Ghost
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nass Lantomir's Ghost
 *Source: Icewind Dale: Rime of the Frostmaiden p. 272*  
