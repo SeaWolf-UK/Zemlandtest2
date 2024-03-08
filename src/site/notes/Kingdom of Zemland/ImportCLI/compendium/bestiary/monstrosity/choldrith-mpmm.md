@@ -10,6 +10,7 @@ tags:
 aliases:
   - Choldrith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Choldrith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
