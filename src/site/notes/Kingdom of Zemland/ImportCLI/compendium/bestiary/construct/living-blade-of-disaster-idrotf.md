@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Blade of Disaster
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Blade of Disaster
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  
