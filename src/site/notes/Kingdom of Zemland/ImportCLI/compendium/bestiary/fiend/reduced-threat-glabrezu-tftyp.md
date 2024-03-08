@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Glabrezu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Glabrezu
 *Source: Tales from the Yawning Portal p. 113*  
