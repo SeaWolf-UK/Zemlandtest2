@@ -9,6 +9,7 @@ tags:
 aliases:
   - Donaar Blit'zen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Donaar Blit'zen
 *Source: Acquisitions Incorporated p. 201*  
