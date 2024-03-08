@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gold Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gold Dragon Wyrmling
 *Source: Monster Manual p. 115. Available in the SRD.*  
