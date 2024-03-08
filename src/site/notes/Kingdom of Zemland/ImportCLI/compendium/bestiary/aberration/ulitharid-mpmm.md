@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ulitharid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ulitharid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  
