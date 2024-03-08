@@ -9,6 +9,7 @@ tags:
 aliases:
   - Balor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Balor
 *Source: Monster Manual p. 55, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
