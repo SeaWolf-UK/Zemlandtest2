@@ -11,6 +11,7 @@ tags:
 aliases:
   - Axe Beak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Axe Beak
 *Source: Monster Manual p. 317, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
