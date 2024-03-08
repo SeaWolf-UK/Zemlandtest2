@@ -9,6 +9,7 @@ tags:
 aliases:
   - Death's Head of Bhaal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death's Head of Bhaal
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
