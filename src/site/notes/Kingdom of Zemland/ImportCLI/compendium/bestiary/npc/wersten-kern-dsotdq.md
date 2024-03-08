@@ -9,6 +9,7 @@ tags:
 aliases:
   - Wersten Kern
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wersten Kern
 *Source: Dragonlance: Shadow of the Dragon Queen p. 209*  
