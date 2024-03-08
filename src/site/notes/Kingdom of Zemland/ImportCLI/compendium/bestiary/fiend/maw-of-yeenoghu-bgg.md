@@ -9,6 +9,7 @@ tags:
 aliases:
   - Maw of Yeenoghu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Maw of Yeenoghu
 *Source: Bigby Presents: Glory of the Giants p. 159*  
