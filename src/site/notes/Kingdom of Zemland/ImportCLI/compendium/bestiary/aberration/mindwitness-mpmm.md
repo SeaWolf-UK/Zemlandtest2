@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mindwitness
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mindwitness
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
