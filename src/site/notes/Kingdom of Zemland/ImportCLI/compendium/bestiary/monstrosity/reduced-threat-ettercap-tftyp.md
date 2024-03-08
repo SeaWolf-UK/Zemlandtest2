@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Ettercap
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Ettercap
 *Source: Tales from the Yawning Portal p. 113*  
