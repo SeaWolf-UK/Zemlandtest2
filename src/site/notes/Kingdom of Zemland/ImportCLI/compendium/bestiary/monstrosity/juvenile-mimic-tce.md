@@ -9,6 +9,7 @@ tags:
 aliases:
   - Juvenile Mimic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Juvenile Mimic
 *Source: Tasha's Cauldron of Everything p. 167*  
