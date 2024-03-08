@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kieren
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kieren
 *Source: Tales from the Yawning Portal p. 157*  
