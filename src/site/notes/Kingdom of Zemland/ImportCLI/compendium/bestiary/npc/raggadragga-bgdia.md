@@ -10,6 +10,7 @@ tags:
 aliases:
   - Raggadragga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Raggadragga
 *Source: Baldur's Gate: Descent Into Avernus p. 87*  
