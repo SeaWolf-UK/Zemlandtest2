@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stone Dragon Statue
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Dragon Statue
 *Source: Tales from the Yawning Portal p. 85*  
