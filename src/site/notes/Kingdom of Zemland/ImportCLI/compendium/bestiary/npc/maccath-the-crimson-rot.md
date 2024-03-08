@@ -9,6 +9,7 @@ tags:
 aliases:
   - Maccath the Crimson
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Maccath the Crimson
 *Source: The Rise of Tiamat p. 33*  
