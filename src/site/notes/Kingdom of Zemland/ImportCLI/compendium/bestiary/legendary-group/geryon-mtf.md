@@ -7,6 +7,7 @@ tags:
 aliases:
   - Geryon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Geryon
 
