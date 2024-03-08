@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gnome Squidling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnome Squidling
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  
