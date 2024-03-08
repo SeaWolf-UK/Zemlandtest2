@@ -12,6 +12,7 @@ tags:
 aliases:
   - Gorgon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gorgon
 *Source: Monster Manual p. 171, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
