@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Bronze Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Bronze Dragon
 *Source: Monster Manual p. 108, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
