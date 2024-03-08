@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ontharr Frume
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ontharr Frume
 *Source: Hoard of the Dragon Queen p. 28*  
