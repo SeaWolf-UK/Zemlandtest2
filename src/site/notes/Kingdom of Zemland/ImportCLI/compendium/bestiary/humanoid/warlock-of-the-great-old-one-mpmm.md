@@ -14,6 +14,7 @@ tags:
 aliases:
   - Warlock of the Great Old One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warlock of the Great Old One
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*  
