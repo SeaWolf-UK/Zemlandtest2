@@ -9,6 +9,7 @@ tags:
 aliases:
   - Octopus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Octopus
 *Source: Monster Manual p. 333, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
