@@ -9,6 +9,7 @@ tags:
 aliases:
   - Master of Souls
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Master of Souls
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
