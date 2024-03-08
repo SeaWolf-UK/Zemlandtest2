@@ -9,6 +9,7 @@ tags:
 aliases:
   - Deathlock Wight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deathlock Wight
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
