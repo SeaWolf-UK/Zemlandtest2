@@ -9,6 +9,7 @@ tags:
 aliases:
   - Death Slaad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Slaad
 *Source: Monster Manual p. 278, Curse of Strahd, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen*  
