@@ -11,6 +11,7 @@ tags:
 aliases:
   - Swashbuckler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swashbuckler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  
