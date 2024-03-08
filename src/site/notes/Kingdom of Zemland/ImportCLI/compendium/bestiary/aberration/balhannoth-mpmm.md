@@ -12,6 +12,7 @@ tags:
 aliases:
   - Balhannoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Balhannoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*  
