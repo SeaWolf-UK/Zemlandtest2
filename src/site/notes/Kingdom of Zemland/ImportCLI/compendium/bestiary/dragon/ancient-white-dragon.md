@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient White Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient White Dragon
 *Source: Monster Manual p. 100, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
