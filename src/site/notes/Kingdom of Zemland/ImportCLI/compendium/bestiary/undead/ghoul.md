@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ghoul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ghoul
 *Source: Monster Manual p. 148, Curse of Strahd, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
