@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bulezau
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bulezau
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
