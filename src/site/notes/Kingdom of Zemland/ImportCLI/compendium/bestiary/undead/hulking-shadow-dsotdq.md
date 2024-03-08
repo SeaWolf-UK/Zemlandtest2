@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hulking Shadow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hulking Shadow
 *Source: Dragonlance: Shadow of the Dragon Queen p. 174*  
