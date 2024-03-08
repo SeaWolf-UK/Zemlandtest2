@@ -12,6 +12,7 @@ tags:
 aliases:
   - Githyanki Supreme Commander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githyanki Supreme Commander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  
