@@ -13,6 +13,7 @@ tags:
 aliases:
   - Swarm of Bats
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Bats
 *Source: Monster Manual p. 337, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
