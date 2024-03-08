@@ -10,6 +10,7 @@ tags:
 aliases:
   - Deep Rothé
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Rothé
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  
