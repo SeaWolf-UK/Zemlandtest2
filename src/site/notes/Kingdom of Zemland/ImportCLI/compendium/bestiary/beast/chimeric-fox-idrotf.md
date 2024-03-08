@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Fox
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Fox
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
