@@ -9,6 +9,7 @@ tags:
 aliases:
   - Malformed Kraken
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Malformed Kraken
 *Source: Tales from the Yawning Portal p. 239*  
