@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eyedrake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eyedrake
 *Source: Fizban's Treasury of Dragons p. 199*  
