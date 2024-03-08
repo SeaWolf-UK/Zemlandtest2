@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bat
 *Source: Monster Manual p. 318, Curse of Strahd, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
