@@ -3,6 +3,8 @@
 ---
 
 
+![dragon-banner.webp](/img/user/Kingdom%20of%20Zemland/z_Attachments/dragon-banner.webp)
+
 ## Player Characters 
 
 - [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] 
@@ -15,15 +17,11 @@
 
 ## Sessions 
 
-1. [[Kingdom of Zemland/4. Sesssion/2024-02-04\|2024-02-04]] 
-2. [[Kingdom of Zemland/4. Sesssion/2024-02-11\|2024-02-11]] 
-3. [[Kingdom of Zemland/4. Sesssion/2024-02-18\|2024-02-18]] 
-4. [[Kingdom of Zemland/4. Sesssion/2024-02-25\|2024-02-25]] 
-5. [[Kingdom of Zemland/4. Sesssion/2024-03-03\|2024-03-03]] 
-6. [[2024-03-10\|2024-03-10]]
-7. [[2024-03-17\|2024-03-17]]
-8. [[2024-03-24\|2024-03-24]]
-9. [[2024-03-31\|2024-03-31]]
+``` dataview 
+LIST
+FROM #Session_note
+```
+
 
 ## **The Kingdom of Zemland**
 
@@ -59,7 +57,7 @@
 
 ##### Towns
 - [[Kingdom of Zemland/3. Locations/Town/Dim Harbour\|Dim Harbour]]
-- [[Kingdom of Zemland/3. Locations/Town/Evita\|Evita]] 
+- [[Kingdom of Zemland/3. Locations/Town/Avita\|Avita]] 
 - [[Kingdom of Zemland/3. Locations/Town/Rose Falls\|Rose Falls]] 
 
 
