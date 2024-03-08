@@ -13,6 +13,7 @@ tags:
 aliases:
   - Spirit Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spirit Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
