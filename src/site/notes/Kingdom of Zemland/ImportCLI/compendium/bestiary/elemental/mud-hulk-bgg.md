@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mud Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mud Hulk
 *Source: Bigby Presents: Glory of the Giants p. 161*  
