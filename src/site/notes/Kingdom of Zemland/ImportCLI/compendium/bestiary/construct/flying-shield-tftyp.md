@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flying Shield
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flying Shield
 *Source: Tales from the Yawning Portal p. 224*  
