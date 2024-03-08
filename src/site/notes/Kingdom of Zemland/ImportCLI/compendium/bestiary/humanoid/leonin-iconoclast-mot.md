@@ -9,6 +9,7 @@ tags:
 aliases:
   - Leonin Iconoclast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Leonin Iconoclast
 *Source: Mythic Odysseys of Theros p. 232*  
