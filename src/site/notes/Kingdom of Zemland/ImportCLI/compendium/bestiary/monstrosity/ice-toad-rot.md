@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ice Toad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Toad
 *Source: The Rise of Tiamat p. 90*  
