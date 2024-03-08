@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jessamine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jessamine
 *Source: Tomb of Annihilation p. 26*  
