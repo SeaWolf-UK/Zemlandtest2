@@ -9,6 +9,7 @@ tags:
 aliases:
   - Altisaur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Altisaur
 *Source: Bigby Presents: Glory of the Giants p. 129*  
