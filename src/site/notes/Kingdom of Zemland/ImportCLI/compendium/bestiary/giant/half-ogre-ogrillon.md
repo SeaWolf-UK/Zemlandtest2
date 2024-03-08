@@ -16,6 +16,7 @@ tags:
 aliases:
   - Half-Ogre (Ogrillon)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Half-Ogre (Ogrillon)
 *Source: Monster Manual p. 238, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
