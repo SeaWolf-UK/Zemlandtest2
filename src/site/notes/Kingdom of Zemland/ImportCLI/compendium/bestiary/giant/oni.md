@@ -11,6 +11,7 @@ tags:
 aliases:
   - Oni
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oni
 *Source: Monster Manual p. 239, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
