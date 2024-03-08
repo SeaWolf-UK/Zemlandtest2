@@ -9,6 +9,7 @@ tags:
 aliases:
   - Winged Bull
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Winged Bull
 *Source: Mythic Odysseys of Theros p. 214*  
