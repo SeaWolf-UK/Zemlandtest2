@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Object (Tiny)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Object (Tiny)
 *Source: Player's Handbook p. 213*  
