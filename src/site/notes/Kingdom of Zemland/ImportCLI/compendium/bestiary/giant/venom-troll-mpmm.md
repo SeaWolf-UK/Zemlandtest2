@@ -12,6 +12,7 @@ tags:
 aliases:
   - Venom Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Venom Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*  
