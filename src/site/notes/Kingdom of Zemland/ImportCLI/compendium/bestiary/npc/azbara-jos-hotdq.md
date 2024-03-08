@@ -9,6 +9,7 @@ tags:
 aliases:
   - Azbara Jos
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Azbara Jos
 *Source: Hoard of the Dragon Queen p. 88*  
