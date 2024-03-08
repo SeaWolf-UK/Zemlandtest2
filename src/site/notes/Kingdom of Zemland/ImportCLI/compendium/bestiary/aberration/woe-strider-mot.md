@@ -9,6 +9,7 @@ tags:
 aliases:
   - Woe Strider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Woe Strider
 *Source: Mythic Odysseys of Theros p. 247*  
