@@ -13,6 +13,7 @@ tags:
 aliases:
   - Wereboar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wereboar
 *Source: Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
