@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bugbear Gardener
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bugbear Gardener
 *Source: Tales from the Yawning Portal p. 29*  
