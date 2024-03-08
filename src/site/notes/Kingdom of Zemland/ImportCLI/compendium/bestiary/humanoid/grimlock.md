@@ -10,6 +10,7 @@ tags:
 aliases:
   - Grimlock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grimlock
 *Source: Monster Manual p. 175. Available in the SRD.*  
