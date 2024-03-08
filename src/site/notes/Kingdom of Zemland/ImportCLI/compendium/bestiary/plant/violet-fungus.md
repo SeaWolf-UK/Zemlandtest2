@@ -10,6 +10,7 @@ tags:
 aliases:
   - Violet Fungus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Violet Fungus
 *Source: Monster Manual p. 138, Hoard of the Dragon Queen. Available in the SRD.*  
