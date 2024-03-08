@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconic Shard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconic Shard
 *Source: Fizban's Treasury of Dragons p. 181*  
