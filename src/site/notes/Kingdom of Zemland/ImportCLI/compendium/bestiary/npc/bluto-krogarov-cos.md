@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bluto Krogarov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bluto Krogarov
 *Source: Curse of Strahd p. 38*  
