@@ -9,6 +9,7 @@ tags:
 aliases:
   - Topaz Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Topaz Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 201*  
