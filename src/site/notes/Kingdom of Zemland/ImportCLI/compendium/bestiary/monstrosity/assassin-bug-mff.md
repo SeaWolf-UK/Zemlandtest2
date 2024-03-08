@@ -9,6 +9,7 @@ tags:
 aliases:
   - Assassin Bug
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Assassin Bug
 *Source: Mordenkainen's Fiendish Folio p. 4*  
