@@ -11,6 +11,7 @@ tags:
 aliases:
   - Adult Gold Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Gold Dragon
 *Source: Monster Manual p. 114. Available in the SRD.*  
