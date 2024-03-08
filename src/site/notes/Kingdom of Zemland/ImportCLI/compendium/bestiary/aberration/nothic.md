@@ -10,6 +10,7 @@ tags:
 aliases:
   - Nothic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nothic
 *Source: Monster Manual p. 236, Curse of Strahd, Lost Mine of Phandelver, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules.*  
