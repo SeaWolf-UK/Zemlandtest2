@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll Flesh Gnawer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Flesh Gnawer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
