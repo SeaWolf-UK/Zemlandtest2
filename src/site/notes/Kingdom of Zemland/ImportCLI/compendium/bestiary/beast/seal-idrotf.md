@@ -9,6 +9,7 @@ tags:
 aliases:
   - Seal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Seal
 *Source: Icewind Dale: Rime of the Frostmaiden p. 308*  
