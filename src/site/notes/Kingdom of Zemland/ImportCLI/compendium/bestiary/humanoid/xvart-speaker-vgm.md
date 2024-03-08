@@ -11,6 +11,7 @@ tags:
 aliases:
   - Xvart Speaker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xvart Speaker
 *Source: Volo's Guide to Monsters p. 200*  
