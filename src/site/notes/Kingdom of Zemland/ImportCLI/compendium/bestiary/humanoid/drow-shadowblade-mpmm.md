@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow Shadowblade
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Shadowblade
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  
