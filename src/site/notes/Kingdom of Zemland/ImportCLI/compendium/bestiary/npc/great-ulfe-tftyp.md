@@ -9,6 +9,7 @@ tags:
 aliases:
   - Great Ulfe
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Great Ulfe
 *Source: Tales from the Yawning Portal p. 42*  
