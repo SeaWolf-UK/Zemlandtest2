@@ -11,6 +11,7 @@ tags:
 aliases:
   - Champion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Champion
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
