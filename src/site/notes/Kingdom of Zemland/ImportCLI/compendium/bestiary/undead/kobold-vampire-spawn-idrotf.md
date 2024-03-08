@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kobold Vampire Spawn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold Vampire Spawn
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  
