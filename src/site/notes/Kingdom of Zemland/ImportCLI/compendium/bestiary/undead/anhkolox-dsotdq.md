@@ -9,6 +9,7 @@ tags:
 aliases:
   - Anhkolox
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Anhkolox
 *Source: Dragonlance: Shadow of the Dragon Queen p. 192*  
