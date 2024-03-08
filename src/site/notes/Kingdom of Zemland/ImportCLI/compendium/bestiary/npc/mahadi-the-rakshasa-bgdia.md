@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mahadi the Rakshasa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mahadi the Rakshasa
 *Source: Baldur's Gate: Descent Into Avernus p. 127*  
