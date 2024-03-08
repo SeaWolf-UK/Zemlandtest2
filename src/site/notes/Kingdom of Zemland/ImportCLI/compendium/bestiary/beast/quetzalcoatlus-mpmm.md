@@ -12,6 +12,7 @@ tags:
 aliases:
   - Quetzalcoatlus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quetzalcoatlus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
