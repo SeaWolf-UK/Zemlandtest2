@@ -10,6 +10,7 @@ tags:
 aliases:
   - Owlbear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Owlbear
 *Source: Monster Manual p. 249, Lost Mine of Phandelver, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
