@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crawling Claw
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crawling Claw
 *Source: Monster Manual p. 44, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
