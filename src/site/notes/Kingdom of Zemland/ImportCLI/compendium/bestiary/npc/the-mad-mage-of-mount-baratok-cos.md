@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Mad Mage of Mount Baratok
 dg-publish: "true"
+DG-publish: "True"
 ---
 # The Mad Mage of Mount Baratok
 *Source: Curse of Strahd p. 39*  
