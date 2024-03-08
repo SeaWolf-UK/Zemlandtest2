@@ -9,6 +9,7 @@ tags:
 aliases:
   - Knight of the Black Sword
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Knight of the Black Sword
 *Source: Icewind Dale: Rime of the Frostmaiden p. 259*  
