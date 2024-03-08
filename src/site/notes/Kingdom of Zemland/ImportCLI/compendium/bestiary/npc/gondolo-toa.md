@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gondolo
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gondolo
 *Source: Tomb of Annihilation p. 34*  
