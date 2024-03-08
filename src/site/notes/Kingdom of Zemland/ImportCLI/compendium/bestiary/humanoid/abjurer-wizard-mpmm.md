@@ -10,6 +10,7 @@ tags:
 aliases:
   - Abjurer Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Abjurer Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*  
