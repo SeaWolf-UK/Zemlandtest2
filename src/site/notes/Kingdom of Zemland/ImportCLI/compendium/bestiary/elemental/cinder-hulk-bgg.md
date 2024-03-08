@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cinder Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cinder Hulk
 *Source: Bigby Presents: Glory of the Giants p. 123*  
