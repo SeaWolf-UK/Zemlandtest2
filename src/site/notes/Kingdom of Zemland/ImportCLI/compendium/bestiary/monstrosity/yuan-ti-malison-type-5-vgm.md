@@ -13,6 +13,7 @@ tags:
 aliases:
   - Yuan-ti Malison (Type 5)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Malison (Type 5)
 *Source: Volo's Guide to Monsters p. 96, Tomb of Annihilation*  
