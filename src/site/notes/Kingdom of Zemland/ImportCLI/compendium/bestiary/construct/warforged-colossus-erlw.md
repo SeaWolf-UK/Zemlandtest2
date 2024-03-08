@@ -9,6 +9,7 @@ tags:
 aliases:
   - Warforged Colossus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warforged Colossus
 *Source: Eberron: Rising from the Last War p. 314*  
