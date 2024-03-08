@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hill Giant Subchief
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hill Giant Subchief
 *Source: Tales from the Yawning Portal p. 170*  
