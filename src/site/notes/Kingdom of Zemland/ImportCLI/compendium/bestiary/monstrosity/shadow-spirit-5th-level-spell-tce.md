@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shadow Spirit (5th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadow Spirit (5th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 114*  
