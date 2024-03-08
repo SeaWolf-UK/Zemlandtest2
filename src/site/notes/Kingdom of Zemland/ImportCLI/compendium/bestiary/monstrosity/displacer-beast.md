@@ -10,6 +10,7 @@ tags:
 aliases:
   - Displacer Beast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Displacer Beast
 *Source: Monster Manual p. 81, Tales from the Yawning Portal, Eberron: Rising from the Last War*  
