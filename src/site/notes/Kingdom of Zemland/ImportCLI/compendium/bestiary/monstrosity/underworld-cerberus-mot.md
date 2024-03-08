@@ -9,6 +9,7 @@ tags:
 aliases:
   - Underworld Cerberus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Underworld Cerberus
 *Source: Mythic Odysseys of Theros p. 215*  
