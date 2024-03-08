@@ -9,6 +9,7 @@ tags:
 aliases:
   - Terracotta Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Terracotta Warrior
 *Source: Tomb of Annihilation p. 161*  
