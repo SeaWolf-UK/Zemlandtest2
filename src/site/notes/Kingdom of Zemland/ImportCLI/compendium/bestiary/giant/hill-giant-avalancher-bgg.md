@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hill Giant Avalancher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hill Giant Avalancher
 *Source: Bigby Presents: Glory of the Giants p. 157*  
