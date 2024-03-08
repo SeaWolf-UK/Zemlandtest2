@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Copper Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Copper Dragon
 *Source: Monster Manual p. 112. Available in the SRD.*  
