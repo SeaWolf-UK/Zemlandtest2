@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Aboleth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Aboleth
 *Source: Tales from the Yawning Portal p. 113*  
