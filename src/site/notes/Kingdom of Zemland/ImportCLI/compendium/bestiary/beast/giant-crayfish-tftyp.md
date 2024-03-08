@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Crayfish
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Crayfish
 *Source: Tales from the Yawning Portal p. 235*  
