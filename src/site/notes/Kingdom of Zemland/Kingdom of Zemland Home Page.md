@@ -14,8 +14,6 @@
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
 - [[Kingdom of Zemland/1. PC's/Cory (AKA Checkers)\|Cory (AKA Checkers)]] 
 
-[Party Funds](obsidian://open?vault=Obsidian&file=Kingdom%20of%20Zemland%2F6.%20Party%20Funds%2FParty%20Funds.sheet)
-
 
 ## Sessions 
 
