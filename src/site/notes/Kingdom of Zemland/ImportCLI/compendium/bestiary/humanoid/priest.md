@@ -10,6 +10,7 @@ tags:
 aliases:
   - Priest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Priest
 *Source: Monster Manual p. 348, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
