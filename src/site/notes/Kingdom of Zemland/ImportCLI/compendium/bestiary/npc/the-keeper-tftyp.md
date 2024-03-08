@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Keeper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # The Keeper
 *Source: Tales from the Yawning Portal p. 173*  
