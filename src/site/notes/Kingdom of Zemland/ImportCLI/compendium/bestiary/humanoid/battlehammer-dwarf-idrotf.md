@@ -9,6 +9,7 @@ tags:
 aliases:
   - Battlehammer Dwarf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Battlehammer Dwarf
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  
