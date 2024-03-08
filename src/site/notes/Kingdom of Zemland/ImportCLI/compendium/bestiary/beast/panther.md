@@ -12,6 +12,7 @@ tags:
 aliases:
   - Panther
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Panther
 *Source: Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
