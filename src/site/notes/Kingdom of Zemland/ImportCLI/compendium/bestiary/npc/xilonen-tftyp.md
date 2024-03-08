@@ -9,6 +9,7 @@ tags:
 aliases:
   - Xilonen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xilonen
 *Source: Tales from the Yawning Portal p. 83*  
