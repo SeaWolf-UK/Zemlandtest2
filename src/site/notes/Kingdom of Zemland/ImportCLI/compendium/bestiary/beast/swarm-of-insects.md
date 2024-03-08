@@ -16,6 +16,7 @@ tags:
 aliases:
   - Swarm of Insects
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Insects
 *Source: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
