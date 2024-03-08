@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sword Wraith Commander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sword Wraith Commander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
