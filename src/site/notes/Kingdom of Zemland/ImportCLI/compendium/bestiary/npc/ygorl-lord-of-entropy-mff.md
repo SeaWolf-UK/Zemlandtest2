@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ygorl, Lord of Entropy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ygorl, Lord of Entropy
 *Source: Mordenkainen's Fiendish Folio p. 20*  
