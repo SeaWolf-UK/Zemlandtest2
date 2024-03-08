@@ -9,6 +9,7 @@ tags:
 aliases:
   - Homunculus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Homunculus
 *Source: Monster Manual p. 188, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros. Available in the SRD.*  
