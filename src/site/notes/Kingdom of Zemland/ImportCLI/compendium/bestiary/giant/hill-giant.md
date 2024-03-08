@@ -10,6 +10,7 @@ tags:
 aliases:
   - Hill Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hill Giant
 *Source: Monster Manual p. 155, The Rise of Tiamat, Tales from the Yawning Portal, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
