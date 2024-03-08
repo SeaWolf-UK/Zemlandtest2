@@ -9,6 +9,7 @@ tags:
 aliases:
   - Norker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Norker
 *Source: Mordenkainen's Fiendish Folio p. 17*  
