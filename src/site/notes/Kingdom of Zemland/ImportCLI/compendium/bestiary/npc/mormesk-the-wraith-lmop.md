@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mormesk the Wraith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mormesk the Wraith
 *Source: Lost Mine of Phandelver p. 59*  
