@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Moonstone Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Moonstone Dragon
 *Source: Fizban's Treasury of Dragons p. 213*  
