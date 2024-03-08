@@ -13,6 +13,7 @@ tags:
 aliases:
   - Goat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goat
 *Source: Monster Manual p. 330, Curse of Strahd, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
