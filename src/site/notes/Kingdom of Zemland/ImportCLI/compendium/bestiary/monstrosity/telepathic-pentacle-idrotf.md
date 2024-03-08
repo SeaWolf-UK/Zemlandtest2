@@ -9,6 +9,7 @@ tags:
 aliases:
   - Telepathic Pentacle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Telepathic Pentacle
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  
