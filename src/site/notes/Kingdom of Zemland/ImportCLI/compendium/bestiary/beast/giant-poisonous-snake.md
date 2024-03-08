@@ -15,6 +15,7 @@ tags:
 aliases:
   - Giant Poisonous Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Poisonous Snake
 *Source: Monster Manual p. 327, Curse of Strahd, Tomb of Annihilation, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
