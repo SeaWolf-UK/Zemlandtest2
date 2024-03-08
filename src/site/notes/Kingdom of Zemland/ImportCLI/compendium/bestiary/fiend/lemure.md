@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lemure
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lemure
 *Source: Monster Manual p. 76, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
