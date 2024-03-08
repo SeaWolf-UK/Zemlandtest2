@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yeti Tyke
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yeti Tyke
 *Source: Icewind Dale: Rime of the Frostmaiden p. 313*  
