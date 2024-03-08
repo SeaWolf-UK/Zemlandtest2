@@ -9,6 +9,7 @@ tags:
 aliases:
   - Baphomet
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baphomet
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  
