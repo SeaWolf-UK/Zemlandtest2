@@ -12,6 +12,7 @@ tags:
 aliases:
   - Will-o'-Wisp
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Will-o'-Wisp
 *Source: Monster Manual p. 301, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
