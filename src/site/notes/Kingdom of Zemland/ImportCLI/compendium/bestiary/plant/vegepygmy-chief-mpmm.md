@@ -11,6 +11,7 @@ tags:
 aliases:
   - Vegepygmy Chief
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vegepygmy Chief
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
