@@ -9,6 +9,7 @@ tags:
 aliases:
   - Egg Hunter Hatchling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Egg Hunter Hatchling
 *Source: Fizban's Treasury of Dragons p. 193*  
