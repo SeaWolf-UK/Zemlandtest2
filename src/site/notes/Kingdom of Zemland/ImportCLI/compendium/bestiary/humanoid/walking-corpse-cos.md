@@ -9,6 +9,7 @@ tags:
 aliases:
   - Walking Corpse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Walking Corpse
 *Source: Curse of Strahd p. 165*  
