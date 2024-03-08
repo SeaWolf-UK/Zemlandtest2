@@ -10,6 +10,7 @@ tags:
 aliases:
   - Draft Horse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draft Horse
 *Source: Monster Manual p. 321, Curse of Strahd, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
