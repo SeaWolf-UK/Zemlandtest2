@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nikolai Wachter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nikolai Wachter
 *Source: Curse of Strahd p. 110*  
