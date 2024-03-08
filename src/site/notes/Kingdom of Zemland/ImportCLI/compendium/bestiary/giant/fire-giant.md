@@ -11,6 +11,7 @@ tags:
 aliases:
   - Fire Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant
 *Source: Monster Manual p. 154, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
