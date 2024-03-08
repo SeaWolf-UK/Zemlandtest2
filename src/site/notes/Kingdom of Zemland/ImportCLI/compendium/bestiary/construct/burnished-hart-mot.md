@@ -9,6 +9,7 @@ tags:
 aliases:
   - Burnished Hart
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Burnished Hart
 *Source: Mythic Odysseys of Theros p. 211*  
