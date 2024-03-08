@@ -9,6 +9,7 @@ tags:
 aliases:
   - Raven Uth Vogler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Raven Uth Vogler
 *Source: Dragonlance: Shadow of the Dragon Queen p. 53*  
