@@ -18,6 +18,7 @@ tags:
 aliases:
   - Scout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scout
 *Source: Monster Manual p. 349, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
