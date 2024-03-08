@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fox
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fox
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  
