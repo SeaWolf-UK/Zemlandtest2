@@ -10,6 +10,7 @@ tags:
 aliases:
   - Grung
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grung
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
