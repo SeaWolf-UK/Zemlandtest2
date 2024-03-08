@@ -9,6 +9,7 @@ tags:
 aliases:
   - Durstan Rial
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Durstan Rial
 *Source: Dragonlance: Shadow of the Dragon Queen p. 97*  
