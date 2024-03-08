@@ -10,6 +10,7 @@ tags:
 aliases:
   - Urwin Martikov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Urwin Martikov
 *Source: Curse of Strahd p. 98*  
