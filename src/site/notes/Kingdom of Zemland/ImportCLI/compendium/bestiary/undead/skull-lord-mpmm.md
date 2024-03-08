@@ -12,6 +12,7 @@ tags:
 aliases:
   - Skull Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skull Lord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
