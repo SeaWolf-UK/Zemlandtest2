@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Tile Chimera
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Tile Chimera
 *Source: The Rise of Tiamat p. 42*  
