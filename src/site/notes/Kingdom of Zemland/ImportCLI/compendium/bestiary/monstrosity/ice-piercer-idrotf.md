@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ice Piercer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Piercer
 *Source: Icewind Dale: Rime of the Frostmaiden p. 226*  
