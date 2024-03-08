@@ -9,6 +9,7 @@ tags:
 aliases:
   - Titivilus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Titivilus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179*  
