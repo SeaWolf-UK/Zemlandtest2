@@ -12,6 +12,7 @@ tags:
 aliases:
   - Retriever
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Retriever
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
