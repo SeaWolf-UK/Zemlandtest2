@@ -9,6 +9,7 @@ tags:
 aliases:
   - Needle Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Needle Lord
 *Source: Mordenkainen's Fiendish Folio p. 16*  
