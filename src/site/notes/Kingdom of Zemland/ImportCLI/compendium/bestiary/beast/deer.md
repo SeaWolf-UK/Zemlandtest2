@@ -11,6 +11,7 @@ tags:
 aliases:
   - Deer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deer
 *Source: Monster Manual p. 321, Hoard of the Dragon Queen. Available in the SRD and the Basic Rules.*  
