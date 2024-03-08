@@ -9,6 +9,7 @@ tags:
 aliases:
   - Death Giant Shrouded One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Giant Shrouded One
 *Source: Bigby Presents: Glory of the Giants p. 127*  
