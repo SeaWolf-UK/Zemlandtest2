@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kalka-Kylla
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kalka-Kylla
 *Source: Tales from the Yawning Portal p. 238*  
