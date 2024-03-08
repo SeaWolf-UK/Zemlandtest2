@@ -9,6 +9,7 @@ tags:
 aliases:
   - Arcanaloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arcanaloth
 *Source: Monster Manual p. 313, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
