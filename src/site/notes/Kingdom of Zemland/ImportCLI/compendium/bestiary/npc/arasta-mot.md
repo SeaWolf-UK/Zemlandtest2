@@ -9,6 +9,7 @@ tags:
 aliases:
   - Arasta
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arasta
 *Source: Mythic Odysseys of Theros p. 248*  
