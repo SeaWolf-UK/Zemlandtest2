@@ -11,6 +11,7 @@ tags:
 aliases:
   - Lizardfolk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lizardfolk
 *Source: Monster Manual p. 204, Hoard of the Dragon Queen, The Rise of Tiamat, Tomb of Annihilation, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
