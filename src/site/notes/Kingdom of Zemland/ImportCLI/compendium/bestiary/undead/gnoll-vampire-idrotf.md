@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gnoll Vampire
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Vampire
 *Source: Icewind Dale: Rime of the Frostmaiden p. 290*  
