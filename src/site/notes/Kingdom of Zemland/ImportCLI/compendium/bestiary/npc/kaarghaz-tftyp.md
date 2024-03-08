@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kaarghaz
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kaarghaz
 *Source: Tales from the Yawning Portal p. 45*  
