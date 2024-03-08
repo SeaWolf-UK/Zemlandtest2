@@ -10,6 +10,7 @@ tags:
 aliases:
   - Baba Lysaga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baba Lysaga
 *Source: Curse of Strahd p. 228*  
