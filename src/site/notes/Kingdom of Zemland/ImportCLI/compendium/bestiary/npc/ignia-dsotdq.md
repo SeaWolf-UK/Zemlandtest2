@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ignia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ignia
 *Source: Dragonlance: Shadow of the Dragon Queen p. 184*  
