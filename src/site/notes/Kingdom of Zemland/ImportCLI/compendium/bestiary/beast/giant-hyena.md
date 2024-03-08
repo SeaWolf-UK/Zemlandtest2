@@ -13,6 +13,7 @@ tags:
 aliases:
   - Giant Hyena
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Hyena
 *Source: Monster Manual p. 326, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
