@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gynosphinx
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gynosphinx
 *Source: Monster Manual p. 282, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
