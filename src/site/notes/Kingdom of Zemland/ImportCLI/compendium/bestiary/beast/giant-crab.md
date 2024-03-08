@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Crab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Crab
 *Source: Monster Manual p. 324, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
