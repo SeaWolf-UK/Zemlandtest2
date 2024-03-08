@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young White Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young White Dragon
 *Source: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
