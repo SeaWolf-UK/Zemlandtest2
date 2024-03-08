@@ -9,6 +9,7 @@ tags:
 aliases:
   - Luvash
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Luvash
 *Source: Curse of Strahd p. 121*  
