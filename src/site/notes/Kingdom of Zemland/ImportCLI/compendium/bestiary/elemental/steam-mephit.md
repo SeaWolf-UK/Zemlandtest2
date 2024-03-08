@@ -10,6 +10,7 @@ tags:
 aliases:
   - Steam Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Steam Mephit
 *Source: Monster Manual p. 217, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD.*  
