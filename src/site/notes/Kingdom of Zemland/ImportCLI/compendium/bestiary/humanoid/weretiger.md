@@ -13,6 +13,7 @@ tags:
 aliases:
   - Weretiger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Weretiger
 *Source: Monster Manual p. 210, Tomb of Annihilation. Available in the SRD.*  
