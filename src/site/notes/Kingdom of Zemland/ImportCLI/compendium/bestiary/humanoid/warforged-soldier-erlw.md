@@ -9,6 +9,7 @@ tags:
 aliases:
   - Warforged Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warforged Soldier
 *Source: Eberron: Rising from the Last War p. 320*  
