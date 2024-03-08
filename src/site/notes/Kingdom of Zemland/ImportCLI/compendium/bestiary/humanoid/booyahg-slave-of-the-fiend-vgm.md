@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Slave of the Fiend
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Slave of the Fiend
 *Source: Volo's Guide to Monsters p. 42*  
