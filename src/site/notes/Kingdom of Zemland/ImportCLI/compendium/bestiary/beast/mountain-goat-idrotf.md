@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mountain Goat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mountain Goat
 *Source: Icewind Dale: Rime of the Frostmaiden p. 304*  
