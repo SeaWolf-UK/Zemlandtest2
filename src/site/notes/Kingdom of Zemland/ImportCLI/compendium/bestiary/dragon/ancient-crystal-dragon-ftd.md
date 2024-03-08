@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Crystal Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Crystal Dragon
 *Source: Fizban's Treasury of Dragons p. 170*  
