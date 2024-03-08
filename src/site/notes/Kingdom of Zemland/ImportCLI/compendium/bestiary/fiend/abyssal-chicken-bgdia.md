@@ -9,6 +9,7 @@ tags:
 aliases:
   - Abyssal Chicken
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Abyssal Chicken
 *Source: Baldur's Gate: Descent Into Avernus p. 97*  
