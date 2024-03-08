@@ -10,6 +10,7 @@ tags:
 aliases:
   - Minotaur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Minotaur
 *Source: Monster Manual p. 223, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
