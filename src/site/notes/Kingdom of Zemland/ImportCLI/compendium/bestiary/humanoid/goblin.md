@@ -13,6 +13,7 @@ tags:
 aliases:
   - Goblin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goblin
 *Source: Monster Manual p. 166, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
