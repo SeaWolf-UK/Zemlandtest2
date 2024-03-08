@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tecuziztecatl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tecuziztecatl
 *Source: Tales from the Yawning Portal p. 245*  
