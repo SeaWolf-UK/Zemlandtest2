@@ -13,6 +13,7 @@ tags:
 aliases:
   - Chimera
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimera
 *Source: Monster Manual p. 39, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
