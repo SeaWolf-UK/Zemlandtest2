@@ -7,6 +7,7 @@ tags:
 aliases:
   - Hythonia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hythonia
 
