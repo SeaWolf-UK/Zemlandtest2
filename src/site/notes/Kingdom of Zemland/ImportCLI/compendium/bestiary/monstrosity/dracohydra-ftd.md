@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dracohydra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dracohydra
 *Source: Fizban's Treasury of Dragons p. 176*  
