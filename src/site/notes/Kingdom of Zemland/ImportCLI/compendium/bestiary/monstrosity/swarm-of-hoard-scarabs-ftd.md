@@ -9,6 +9,7 @@ tags:
 aliases:
   - Swarm of Hoard Scarabs
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Hoard Scarabs
 *Source: Fizban's Treasury of Dragons p. 205*  
