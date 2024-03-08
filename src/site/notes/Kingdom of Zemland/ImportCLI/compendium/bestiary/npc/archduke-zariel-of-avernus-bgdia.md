@@ -9,6 +9,7 @@ tags:
 aliases:
   - Archduke Zariel of Avernus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Archduke Zariel of Avernus
 *Source: Baldur's Gate: Descent Into Avernus p. 243*  
