@@ -15,6 +15,7 @@ tags:
 aliases:
   - Zaratan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zaratan
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  
