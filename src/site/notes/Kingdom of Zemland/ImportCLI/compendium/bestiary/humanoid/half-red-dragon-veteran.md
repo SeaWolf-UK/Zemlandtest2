@@ -9,6 +9,7 @@ tags:
 aliases:
   - Half-Red Dragon Veteran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Half-Red Dragon Veteran
 *Source: Monster Manual p. 180, The Rise of Tiamat. Available in the SRD.*  
