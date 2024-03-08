@@ -9,6 +9,7 @@ tags:
 aliases:
   - Earth Elemental Myrmidon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Earth Elemental Myrmidon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
