@@ -10,6 +10,7 @@ tags:
 aliases:
   - Xorn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xorn
 *Source: Monster Manual p. 304. Available in the SRD.*  
