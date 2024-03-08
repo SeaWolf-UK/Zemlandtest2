@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hellwasp Grub
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hellwasp Grub
 *Source: Baldur's Gate: Descent Into Avernus p. 95*  
