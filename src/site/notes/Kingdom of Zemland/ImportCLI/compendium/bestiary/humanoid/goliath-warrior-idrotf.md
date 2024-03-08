@@ -9,6 +9,7 @@ tags:
 aliases:
   - Goliath Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goliath Warrior
 *Source: Icewind Dale: Rime of the Frostmaiden p. 292*  
