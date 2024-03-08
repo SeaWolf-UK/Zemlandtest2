@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonflesh Grafter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonflesh Grafter
 *Source: Fizban's Treasury of Dragons p. 186*  
