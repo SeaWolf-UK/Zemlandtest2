@@ -9,6 +9,7 @@ tags:
 aliases:
   - Traxigor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Traxigor
 *Source: Baldur's Gate: Descent Into Avernus p. 50*  
