@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kadroth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kadroth
 *Source: Icewind Dale: Rime of the Frostmaiden p. 42*  
