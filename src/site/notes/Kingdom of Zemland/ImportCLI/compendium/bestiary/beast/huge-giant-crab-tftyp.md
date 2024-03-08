@@ -9,6 +9,7 @@ tags:
 aliases:
   - Huge Giant Crab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Huge Giant Crab
 *Source: Tales from the Yawning Portal p. 103*  
