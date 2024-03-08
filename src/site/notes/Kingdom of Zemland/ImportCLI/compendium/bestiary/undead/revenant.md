@@ -15,6 +15,7 @@ tags:
 aliases:
   - Revenant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Revenant
 *Source: Monster Manual p. 259, Curse of Strahd, Tomb of Annihilation, Eberron: Rising from the Last War, Mythic Odysseys of Theros*  
