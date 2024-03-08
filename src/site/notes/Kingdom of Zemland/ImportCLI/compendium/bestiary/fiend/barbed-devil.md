@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barbed Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barbed Devil
 *Source: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  
