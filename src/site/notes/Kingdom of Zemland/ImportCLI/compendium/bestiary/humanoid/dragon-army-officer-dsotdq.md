@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Army Officer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Army Officer
 *Source: Dragonlance: Shadow of the Dragon Queen p. 200*  
