@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lord Soth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lord Soth
 *Source: Dragonlance: Shadow of the Dragon Queen p. 206*  
