@@ -9,6 +9,7 @@ tags:
 aliases:
   - Trepsin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Trepsin
 *Source: Hoard of the Dragon Queen p. 63*  
