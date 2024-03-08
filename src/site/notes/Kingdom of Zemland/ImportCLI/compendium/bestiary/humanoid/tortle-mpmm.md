@@ -10,6 +10,7 @@ tags:
 aliases:
   - Tortle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tortle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
