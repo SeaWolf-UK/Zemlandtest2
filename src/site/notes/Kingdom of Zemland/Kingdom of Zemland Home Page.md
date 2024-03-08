@@ -17,9 +17,9 @@
 
 ## Sessions 
 
-- [[Kingdom of Zemland/4. Session/2024-02-18\|2024-02-18]]
-- [[Kingdom of Zemland/4. Session/2024-02-11\|2024-02-11]]
 - [[Kingdom of Zemland/4. Session/2024-02-04\|2024-02-04]]
+- [[Kingdom of Zemland/4. Session/2024-02-11\|2024-02-11]]
+- [[Kingdom of Zemland/4. Session/2024-02-18\|2024-02-18]]
 - [[Kingdom of Zemland/4. Session/2024-02-25\|2024-02-25]]
 - [[Kingdom of Zemland/4. Session/2024-03-03\|2024-03-03]]
 
