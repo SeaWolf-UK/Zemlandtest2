@@ -9,6 +9,7 @@ tags:
 aliases:
   - Krull
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Krull
 *Source: Baldur's Gate: Descent Into Avernus p. 110*  
