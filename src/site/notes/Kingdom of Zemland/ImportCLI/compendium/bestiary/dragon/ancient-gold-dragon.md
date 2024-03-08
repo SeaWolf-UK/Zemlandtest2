@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ancient Gold Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Gold Dragon
 *Source: Monster Manual p. 113. Available in the SRD.*  
