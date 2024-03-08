@@ -9,6 +9,7 @@ tags:
 aliases:
   - Monodrone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Monodrone
 *Source: Monster Manual p. 224, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus*  
