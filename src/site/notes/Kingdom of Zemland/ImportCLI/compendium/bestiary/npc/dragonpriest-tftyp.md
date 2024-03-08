@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonpriest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonpriest
 *Source: Tales from the Yawning Portal p. 16*  
