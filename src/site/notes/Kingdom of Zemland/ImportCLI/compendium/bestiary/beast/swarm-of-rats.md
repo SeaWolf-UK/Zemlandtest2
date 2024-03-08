@@ -11,6 +11,7 @@ tags:
 aliases:
   - Swarm of Rats
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Rats
 *Source: Monster Manual p. 339, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
