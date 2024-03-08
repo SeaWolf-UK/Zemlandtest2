@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Brass Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Brass Dragon
 *Source: Monster Manual p. 105. Available in the SRD.*  
