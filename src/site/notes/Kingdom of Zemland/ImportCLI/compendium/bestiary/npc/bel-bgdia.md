@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bel
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  
