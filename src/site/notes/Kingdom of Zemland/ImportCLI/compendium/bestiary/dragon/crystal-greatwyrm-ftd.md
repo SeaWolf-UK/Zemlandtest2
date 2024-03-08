@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crystal Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crystal Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 201*  
