@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tressym
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tressym
 *Source: Baldur's Gate: Descent Into Avernus p. 241*  
