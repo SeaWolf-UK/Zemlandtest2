@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jermlaine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jermlaine
 *Source: Mordenkainen's Fiendish Folio p. 11*  
