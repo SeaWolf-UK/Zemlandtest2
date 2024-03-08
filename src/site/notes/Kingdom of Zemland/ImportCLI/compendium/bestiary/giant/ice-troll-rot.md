@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ice Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Troll
 *Source: The Rise of Tiamat p. 30*  
