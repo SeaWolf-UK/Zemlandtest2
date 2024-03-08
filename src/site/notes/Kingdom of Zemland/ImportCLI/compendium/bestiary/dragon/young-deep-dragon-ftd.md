@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Deep Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Deep Dragon
 *Source: Fizban's Treasury of Dragons p. 175*  
