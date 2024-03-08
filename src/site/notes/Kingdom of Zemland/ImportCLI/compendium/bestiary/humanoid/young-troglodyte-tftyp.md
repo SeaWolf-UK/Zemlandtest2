@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Troglodyte
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Troglodyte
 *Source: Tales from the Yawning Portal p. 176*  
