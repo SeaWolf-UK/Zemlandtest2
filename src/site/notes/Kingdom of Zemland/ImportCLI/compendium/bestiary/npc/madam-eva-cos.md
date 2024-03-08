@@ -9,6 +9,7 @@ tags:
 aliases:
   - Madam Eva
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Madam Eva
 *Source: Curse of Strahd p. 233*  
