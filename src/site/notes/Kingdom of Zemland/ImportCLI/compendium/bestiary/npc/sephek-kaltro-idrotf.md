@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sephek Kaltro
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sephek Kaltro
 *Source: Icewind Dale: Rime of the Frostmaiden p. 23*  
