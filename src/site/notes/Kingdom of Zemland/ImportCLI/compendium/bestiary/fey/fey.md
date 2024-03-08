@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Index of Fey
 
