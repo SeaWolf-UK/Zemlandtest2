@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shrieker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shrieker
 *Source: Monster Manual p. 138. Available in the SRD.*  
