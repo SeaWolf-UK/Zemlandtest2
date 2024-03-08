@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bael
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bael
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54, Mordenkainen's Tome of Foes p. 170*  
