@@ -9,6 +9,7 @@ tags:
 aliases:
   - Black Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Dragon Wyrmling
 *Source: Monster Manual p. 88, Tales from the Yawning Portal. Available in the SRD.*  
