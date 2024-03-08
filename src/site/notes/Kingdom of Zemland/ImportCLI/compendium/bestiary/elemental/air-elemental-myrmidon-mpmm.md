@@ -9,6 +9,7 @@ tags:
 aliases:
   - Air Elemental Myrmidon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Air Elemental Myrmidon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
