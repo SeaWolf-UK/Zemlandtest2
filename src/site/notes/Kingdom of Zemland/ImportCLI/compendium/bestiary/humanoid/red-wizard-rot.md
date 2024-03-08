@@ -9,6 +9,7 @@ tags:
 aliases:
   - Red Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Red Wizard
 *Source: The Rise of Tiamat p. 76*  
