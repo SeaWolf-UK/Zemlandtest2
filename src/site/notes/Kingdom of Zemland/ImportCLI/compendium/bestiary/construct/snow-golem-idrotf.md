@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snow Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snow Golem
 *Source: Icewind Dale: Rime of the Frostmaiden p. 308*  
