@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elder Giant Lizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Giant Lizard
 *Source: Tales from the Yawning Portal p. 176*  
