@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Helmed Horror
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Helmed Horror
 *Source: Tales from the Yawning Portal p. 113*  
