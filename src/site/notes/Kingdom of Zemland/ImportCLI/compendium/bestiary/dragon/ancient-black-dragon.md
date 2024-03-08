@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient Black Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Black Dragon
 *Source: Monster Manual p. 87. Available in the SRD.*  
