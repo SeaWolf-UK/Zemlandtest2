@@ -9,6 +9,7 @@ tags:
 aliases:
   - Thayan Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thayan Warrior
 *Source: Tales from the Yawning Portal p. 246*  
