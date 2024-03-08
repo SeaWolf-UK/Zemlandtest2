@@ -10,6 +10,7 @@ tags:
 aliases:
   - Chuul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chuul
 *Source: Monster Manual p. 40, The Rise of Tiamat. Available in the SRD.*  
