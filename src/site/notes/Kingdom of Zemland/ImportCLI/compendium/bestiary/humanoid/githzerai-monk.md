@@ -9,6 +9,7 @@ tags:
 aliases:
   - Githzerai Monk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githzerai Monk
 *Source: Monster Manual p. 161*  
