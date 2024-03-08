@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Crocodile
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Crocodile
 *Source: Monster Manual p. 324, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
