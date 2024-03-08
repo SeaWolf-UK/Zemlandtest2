@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sled Dog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sled Dog
 *Source: The Rise of Tiamat p. 27*  
