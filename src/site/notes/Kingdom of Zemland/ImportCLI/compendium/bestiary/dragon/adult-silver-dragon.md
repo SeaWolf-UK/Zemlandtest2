@@ -11,6 +11,7 @@ tags:
 aliases:
   - Adult Silver Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Silver Dragon
 *Source: Monster Manual p. 117. Available in the SRD.*  
