@@ -9,6 +9,7 @@ tags:
 aliases:
   - Archon of Falling Stars
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Archon of Falling Stars
 *Source: Mythic Odysseys of Theros p. 212*  
