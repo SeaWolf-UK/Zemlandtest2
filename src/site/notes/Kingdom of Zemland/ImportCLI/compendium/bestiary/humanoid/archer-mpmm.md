@@ -11,6 +11,7 @@ tags:
 aliases:
   - Archer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Archer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  
