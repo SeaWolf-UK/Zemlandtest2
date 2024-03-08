@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonclaw
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonclaw
 *Source: Hoard of the Dragon Queen p. 89, The Rise of Tiamat p. 89*  
