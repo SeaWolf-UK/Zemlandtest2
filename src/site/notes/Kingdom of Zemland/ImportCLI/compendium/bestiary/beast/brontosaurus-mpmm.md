@@ -11,6 +11,7 @@ tags:
 aliases:
   - Brontosaurus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brontosaurus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
