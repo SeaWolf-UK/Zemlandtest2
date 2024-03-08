@@ -9,6 +9,7 @@ tags:
 aliases:
   - Firegaunt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Firegaunt
 *Source: Bigby Presents: Glory of the Giants p. 137*  
