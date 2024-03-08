@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chardalyn Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chardalyn Dragon
 *Source: Icewind Dale: Rime of the Frostmaiden p. 281*  
