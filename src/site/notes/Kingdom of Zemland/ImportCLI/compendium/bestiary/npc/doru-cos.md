@@ -9,6 +9,7 @@ tags:
 aliases:
   - Doru
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Doru
 *Source: Curse of Strahd p. 47*  
