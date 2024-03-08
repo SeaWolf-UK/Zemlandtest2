@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ghostblade Eidolon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ghostblade Eidolon
 *Source: Mythic Odysseys of Theros p. 222*  
