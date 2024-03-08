@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ape
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ape
 *Source: Monster Manual p. 317, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
