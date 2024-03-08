@@ -10,6 +10,7 @@ tags:
 aliases:
   - Wraith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wraith
 *Source: Monster Manual p. 302, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
