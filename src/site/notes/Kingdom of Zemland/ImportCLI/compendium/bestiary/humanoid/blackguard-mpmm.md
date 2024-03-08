@@ -11,6 +11,7 @@ tags:
 aliases:
   - Blackguard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blackguard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
