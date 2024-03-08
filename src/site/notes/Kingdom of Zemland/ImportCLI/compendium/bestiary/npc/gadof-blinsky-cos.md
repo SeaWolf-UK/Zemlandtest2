@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gadof Blinsky
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gadof Blinsky
 *Source: Curse of Strahd p. 118*  
