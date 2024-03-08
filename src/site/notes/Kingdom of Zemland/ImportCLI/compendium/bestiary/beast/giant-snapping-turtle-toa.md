@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Snapping Turtle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Snapping Turtle
 *Source: Tomb of Annihilation p. 222*  
