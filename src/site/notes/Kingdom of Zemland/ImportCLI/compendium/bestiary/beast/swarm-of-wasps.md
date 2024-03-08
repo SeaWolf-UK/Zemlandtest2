@@ -16,6 +16,7 @@ tags:
 aliases:
   - Swarm of Wasps
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Wasps
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
