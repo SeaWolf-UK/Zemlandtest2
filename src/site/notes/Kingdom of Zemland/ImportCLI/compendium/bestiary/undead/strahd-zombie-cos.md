@@ -9,6 +9,7 @@ tags:
 aliases:
   - Strahd Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Strahd Zombie
 *Source: Curse of Strahd p. 241*  
