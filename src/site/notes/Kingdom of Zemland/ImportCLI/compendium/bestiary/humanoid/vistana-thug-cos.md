@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Thug
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Thug
 *Source: Curse of Strahd p. 28*  
