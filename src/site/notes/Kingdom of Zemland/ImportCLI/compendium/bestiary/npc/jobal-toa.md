@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jobal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jobal
 *Source: Tomb of Annihilation p. 26*  
