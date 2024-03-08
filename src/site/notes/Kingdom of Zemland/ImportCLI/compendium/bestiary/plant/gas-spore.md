@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gas Spore
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gas Spore
 *Source: Monster Manual p. 138, Tales from the Yawning Portal*  
