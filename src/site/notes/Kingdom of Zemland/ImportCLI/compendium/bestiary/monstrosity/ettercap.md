@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ettercap
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ettercap
 *Source: Monster Manual p. 131, Hoard of the Dragon Queen, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
