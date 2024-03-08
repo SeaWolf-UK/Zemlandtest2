@@ -9,6 +9,7 @@ tags:
 aliases:
   - Marfulb
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Marfulb
 *Source: The Rise of Tiamat p. 35*  
