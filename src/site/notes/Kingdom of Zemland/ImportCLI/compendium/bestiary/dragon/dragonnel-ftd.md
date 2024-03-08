@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonnel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonnel
 *Source: Fizban's Treasury of Dragons p. 190*  
