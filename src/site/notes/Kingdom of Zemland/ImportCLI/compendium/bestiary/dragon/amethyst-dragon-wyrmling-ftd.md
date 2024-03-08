@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amethyst Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amethyst Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 162*  
