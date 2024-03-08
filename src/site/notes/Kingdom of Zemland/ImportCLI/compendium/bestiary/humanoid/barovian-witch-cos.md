@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barovian Witch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barovian Witch
 *Source: Curse of Strahd p. 229*  
