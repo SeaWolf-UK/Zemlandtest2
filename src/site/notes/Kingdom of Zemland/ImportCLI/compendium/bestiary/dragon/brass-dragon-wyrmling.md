@@ -9,6 +9,7 @@ tags:
 aliases:
   - Brass Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brass Dragon Wyrmling
 *Source: Monster Manual p. 106. Available in the SRD.*  
