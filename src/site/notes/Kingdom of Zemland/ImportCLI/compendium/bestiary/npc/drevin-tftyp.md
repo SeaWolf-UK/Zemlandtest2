@@ -9,6 +9,7 @@ tags:
 aliases:
   - Drevin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drevin
 *Source: Tales from the Yawning Portal p. 126*  
