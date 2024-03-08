@@ -10,6 +10,7 @@ tags:
 aliases:
   - Warlord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warlord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
