@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient Bronze Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Bronze Dragon
 *Source: Monster Manual p. 107. Available in the SRD.*  
