@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Blessed
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Blessed
 *Source: Fizban's Treasury of Dragons p. 188*  
