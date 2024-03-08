@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Basilisk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Basilisk
 *Source: Tales from the Yawning Portal p. 113*  
