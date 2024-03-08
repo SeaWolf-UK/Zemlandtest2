@@ -11,6 +11,7 @@ tags:
 aliases:
   - Young Blue Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Blue Dragon
 *Source: Monster Manual p. 91, Curse of Strahd, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
