@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ulder Ravengard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ulder Ravengard
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  
