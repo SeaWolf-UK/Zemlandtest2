@@ -9,6 +9,7 @@ tags:
 aliases:
   - Henrik van der Voort
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Henrik van der Voort
 *Source: Curse of Strahd p. 116*  
