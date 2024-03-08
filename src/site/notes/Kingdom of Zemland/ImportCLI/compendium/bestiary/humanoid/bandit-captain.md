@@ -15,6 +15,7 @@ tags:
 aliases:
   - Bandit Captain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bandit Captain
 *Source: Monster Manual p. 344, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
