@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dancing Item
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dancing Item
 *Source: Tasha's Cauldron of Everything p. 29*  
