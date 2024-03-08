@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mighty Servant of Leuk-o
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mighty Servant of Leuk-o
 *Source: Tasha's Cauldron of Everything p. 131*  
