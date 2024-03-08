@@ -10,6 +10,7 @@ tags:
 aliases:
   - Invisible Stalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Invisible Stalker
 *Source: Monster Manual p. 192, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
