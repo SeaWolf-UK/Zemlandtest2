@@ -9,6 +9,7 @@ tags:
 aliases:
   - Needle Spawn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Needle Spawn
 *Source: Mordenkainen's Fiendish Folio p. 16*  
