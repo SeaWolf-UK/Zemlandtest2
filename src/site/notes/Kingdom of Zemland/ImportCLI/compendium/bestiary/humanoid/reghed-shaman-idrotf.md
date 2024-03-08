@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reghed Shaman
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reghed Shaman
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  
