@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mad Maggie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mad Maggie
 *Source: Baldur's Gate: Descent Into Avernus p. 74*  
