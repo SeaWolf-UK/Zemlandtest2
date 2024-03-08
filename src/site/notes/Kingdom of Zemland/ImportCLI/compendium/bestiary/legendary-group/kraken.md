@@ -7,6 +7,7 @@ tags:
 aliases:
   - Kraken
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kraken
 
