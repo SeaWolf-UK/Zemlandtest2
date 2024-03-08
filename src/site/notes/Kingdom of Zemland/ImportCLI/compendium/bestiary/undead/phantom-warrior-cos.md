@@ -9,6 +9,7 @@ tags:
 aliases:
   - Phantom Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phantom Warrior
 *Source: Curse of Strahd p. 235*  
