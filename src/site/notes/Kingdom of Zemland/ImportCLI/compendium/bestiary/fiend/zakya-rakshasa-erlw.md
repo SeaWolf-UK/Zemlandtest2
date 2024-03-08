@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zakya Rakshasa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zakya Rakshasa
 *Source: Eberron: Rising from the Last War p. 309*  
