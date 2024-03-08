@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hythonia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hythonia
 *Source: Mythic Odysseys of Theros p. 252*  
