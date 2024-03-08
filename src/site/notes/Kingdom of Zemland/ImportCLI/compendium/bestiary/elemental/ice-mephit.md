@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ice Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Mephit
 *Source: Monster Manual p. 215, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
