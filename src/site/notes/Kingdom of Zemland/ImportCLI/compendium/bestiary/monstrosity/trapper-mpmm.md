@@ -10,6 +10,7 @@ tags:
 aliases:
   - Trapper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Trapper
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*  
