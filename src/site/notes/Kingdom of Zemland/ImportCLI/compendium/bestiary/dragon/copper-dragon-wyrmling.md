@@ -9,6 +9,7 @@ tags:
 aliases:
   - Copper Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Copper Dragon Wyrmling
 *Source: Monster Manual p. 111. Available in the SRD.*  
