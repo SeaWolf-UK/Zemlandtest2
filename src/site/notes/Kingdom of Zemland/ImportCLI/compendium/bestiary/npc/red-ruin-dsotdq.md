@@ -9,6 +9,7 @@ tags:
 aliases:
   - Red Ruin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Red Ruin
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  
