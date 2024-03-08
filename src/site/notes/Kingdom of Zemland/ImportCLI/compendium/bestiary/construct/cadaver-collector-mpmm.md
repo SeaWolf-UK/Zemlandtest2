@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cadaver Collector
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cadaver Collector
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  
