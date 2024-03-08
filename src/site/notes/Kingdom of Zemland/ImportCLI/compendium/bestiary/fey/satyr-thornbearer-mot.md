@@ -9,6 +9,7 @@ tags:
 aliases:
   - Satyr Thornbearer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Satyr Thornbearer
 *Source: Mythic Odysseys of Theros p. 243*  
