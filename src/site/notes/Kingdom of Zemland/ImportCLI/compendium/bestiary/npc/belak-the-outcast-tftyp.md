@@ -9,6 +9,7 @@ tags:
 aliases:
   - Belak the Outcast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Belak the Outcast
 *Source: Tales from the Yawning Portal p. 9*  
