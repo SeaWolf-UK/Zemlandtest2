@@ -12,6 +12,7 @@ tags:
 aliases:
   - Boneclaw
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Boneclaw
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
