@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tribal Warrior Spore Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tribal Warrior Spore Servant
 *Source: Icewind Dale: Rime of the Frostmaiden p. 52*  
