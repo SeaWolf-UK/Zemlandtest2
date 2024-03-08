@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blood-Toll Harpy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blood-Toll Harpy
 *Source: Mythic Odysseys of Theros p. 227*  
