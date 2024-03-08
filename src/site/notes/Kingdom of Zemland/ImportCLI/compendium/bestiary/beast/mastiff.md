@@ -12,6 +12,7 @@ tags:
 aliases:
   - Mastiff
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mastiff
 *Source: Monster Manual p. 332, Curse of Strahd, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
