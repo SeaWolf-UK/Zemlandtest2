@@ -11,6 +11,7 @@ tags:
 aliases:
   - Dolphin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dolphin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
