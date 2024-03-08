@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hare
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hare
 *Source: Icewind Dale: Rime of the Frostmaiden p. 294*  
