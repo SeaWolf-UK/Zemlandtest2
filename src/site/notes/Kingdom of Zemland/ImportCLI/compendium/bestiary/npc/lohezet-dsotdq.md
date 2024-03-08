@@ -10,6 +10,7 @@ tags:
 aliases:
   - Lohezet
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lohezet
 *Source: Dragonlance: Shadow of the Dragon Queen p. 205*  
