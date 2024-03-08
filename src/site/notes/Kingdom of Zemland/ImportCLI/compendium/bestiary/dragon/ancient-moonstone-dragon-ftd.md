@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Moonstone Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Moonstone Dragon
 *Source: Fizban's Treasury of Dragons p. 211*  
