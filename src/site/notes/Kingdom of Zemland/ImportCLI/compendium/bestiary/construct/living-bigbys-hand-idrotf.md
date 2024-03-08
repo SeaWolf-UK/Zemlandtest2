@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Bigby's Hand
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Bigby's Hand
 *Source: Icewind Dale: Rime of the Frostmaiden p. 298*  
