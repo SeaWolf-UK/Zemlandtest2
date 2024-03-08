@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flesh Colossus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flesh Colossus
 *Source: Bigby Presents: Glory of the Giants p. 141*  
