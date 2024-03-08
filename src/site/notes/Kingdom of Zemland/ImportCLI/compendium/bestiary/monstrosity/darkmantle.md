@@ -10,6 +10,7 @@ tags:
 aliases:
   - Darkmantle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Darkmantle
 *Source: Monster Manual p. 46. Available in the SRD.*  
