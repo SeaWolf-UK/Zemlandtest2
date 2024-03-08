@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Army Dragonnel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Army Dragonnel
 *Source: Dragonlance: Shadow of the Dragon Queen p. 201*  
