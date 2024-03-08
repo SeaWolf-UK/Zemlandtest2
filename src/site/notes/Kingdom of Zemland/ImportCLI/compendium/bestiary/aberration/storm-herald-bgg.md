@@ -9,6 +9,7 @@ tags:
 aliases:
   - Storm Herald
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Storm Herald
 *Source: Bigby Presents: Glory of the Giants p. 183*  
