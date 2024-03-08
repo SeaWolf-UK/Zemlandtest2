@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reaper of Bhaal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reaper of Bhaal
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
