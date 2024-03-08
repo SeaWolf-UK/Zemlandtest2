@@ -10,6 +10,7 @@ tags:
 aliases:
   - Pixie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pixie
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*  
