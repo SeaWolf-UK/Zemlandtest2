@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bozak Draconian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bozak Draconian
 *Source: Dragonlance: Shadow of the Dragon Queen p. 198*  
