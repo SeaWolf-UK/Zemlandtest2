@@ -9,6 +9,7 @@ tags:
 aliases:
   - Winged Lion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Winged Lion
 *Source: Mythic Odysseys of Theros p. 214*  
