@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Flesh Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Flesh Golem
 *Source: Tales from the Yawning Portal p. 113*  
