@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Displacer Beast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Displacer Beast
 *Source: Tales from the Yawning Portal p. 113*  
