@@ -9,6 +9,7 @@ tags:
 aliases:
   - Demogorgon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demogorgon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144*  
