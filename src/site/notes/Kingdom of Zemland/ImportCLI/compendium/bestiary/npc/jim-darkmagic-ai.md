@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jim Darkmagic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jim Darkmagic
 *Source: Acquisitions Incorporated p. 197*  
