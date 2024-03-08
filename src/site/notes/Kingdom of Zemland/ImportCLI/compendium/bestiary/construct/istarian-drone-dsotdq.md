@@ -9,6 +9,7 @@ tags:
 aliases:
   - Istarian Drone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Istarian Drone
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  
