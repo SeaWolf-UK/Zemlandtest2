@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Strider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Strider
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
