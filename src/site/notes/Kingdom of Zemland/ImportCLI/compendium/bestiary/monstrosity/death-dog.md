@@ -10,6 +10,7 @@ tags:
 aliases:
   - Death Dog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Dog
 *Source: Monster Manual p. 321, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
