@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chain Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chain Devil
 *Source: Monster Manual p. 72, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
