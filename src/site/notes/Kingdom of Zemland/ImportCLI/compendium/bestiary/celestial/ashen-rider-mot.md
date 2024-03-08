@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ashen Rider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ashen Rider
 *Source: Mythic Odysseys of Theros p. 213*  
