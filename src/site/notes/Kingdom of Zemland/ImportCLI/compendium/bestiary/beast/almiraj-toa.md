@@ -9,6 +9,7 @@ tags:
 aliases:
   - Almiraj
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Almiraj
 *Source: Tomb of Annihilation p. 211*  
