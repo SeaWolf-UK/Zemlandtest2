@@ -9,6 +9,7 @@ tags:
 aliases:
   - Incomplete Dragon Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Incomplete Dragon Skeleton
 *Source: Dragonlance: Shadow of the Dragon Queen p. 138*  
