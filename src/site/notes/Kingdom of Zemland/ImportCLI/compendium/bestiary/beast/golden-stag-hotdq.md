@@ -9,6 +9,7 @@ tags:
 aliases:
   - Golden Stag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Golden Stag
 *Source: Hoard of the Dragon Queen p. 35*  
