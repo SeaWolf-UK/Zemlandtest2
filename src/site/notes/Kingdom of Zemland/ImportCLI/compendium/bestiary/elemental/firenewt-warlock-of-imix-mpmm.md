@@ -12,6 +12,7 @@ tags:
 aliases:
   - Firenewt Warlock of Imix
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Firenewt Warlock of Imix
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
