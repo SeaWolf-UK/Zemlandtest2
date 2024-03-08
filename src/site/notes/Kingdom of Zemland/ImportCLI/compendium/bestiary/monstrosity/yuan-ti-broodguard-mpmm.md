@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yuan-ti Broodguard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Broodguard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  
