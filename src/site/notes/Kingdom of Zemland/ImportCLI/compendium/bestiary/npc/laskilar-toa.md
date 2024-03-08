@@ -9,6 +9,7 @@ tags:
 aliases:
   - Laskilar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Laskilar
 *Source: Tomb of Annihilation p. 67*  
