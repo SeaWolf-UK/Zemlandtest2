@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rezmir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rezmir
 *Source: Hoard of the Dragon Queen p. 93, The Rise of Tiamat*  
