@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mite
 *Source: Mordenkainen's Fiendish Folio p. 14*  
