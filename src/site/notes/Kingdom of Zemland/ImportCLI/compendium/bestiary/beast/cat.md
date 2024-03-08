@@ -13,6 +13,7 @@ tags:
 aliases:
   - Cat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cat
 *Source: Monster Manual p. 320, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
