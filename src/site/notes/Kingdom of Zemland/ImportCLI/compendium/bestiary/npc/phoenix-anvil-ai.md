@@ -9,6 +9,7 @@ tags:
 aliases:
   - Phoenix Anvil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phoenix Anvil
 *Source: Acquisitions Incorporated p. 206*  
