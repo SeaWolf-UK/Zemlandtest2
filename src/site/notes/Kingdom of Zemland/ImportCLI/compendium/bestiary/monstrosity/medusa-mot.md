@@ -9,6 +9,7 @@ tags:
 aliases:
   - Medusa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Medusa
 *Source: Mythic Odysseys of Theros p. 206*  
