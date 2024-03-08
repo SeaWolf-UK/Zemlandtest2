@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yellow Musk Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yellow Musk Zombie
 *Source: Tomb of Annihilation p. 237*  
