@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Blue Dracolich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Blue Dracolich
 *Source: Monster Manual p. 84*  
