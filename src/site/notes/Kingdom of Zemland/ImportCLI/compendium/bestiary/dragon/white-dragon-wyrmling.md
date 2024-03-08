@@ -9,6 +9,7 @@ tags:
 aliases:
   - White Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # White Dragon Wyrmling
 *Source: Monster Manual p. 102, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
