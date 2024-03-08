@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kingsport
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kingsport
 *Source: Icewind Dale: Rime of the Frostmaiden p. 243*  
