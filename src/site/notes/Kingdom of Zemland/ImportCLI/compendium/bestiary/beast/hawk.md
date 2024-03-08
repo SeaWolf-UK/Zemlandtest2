@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hawk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hawk
 *Source: Monster Manual p. 330, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
