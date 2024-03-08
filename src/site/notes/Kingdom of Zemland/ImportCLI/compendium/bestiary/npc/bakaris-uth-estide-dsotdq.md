@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bakaris Uth Estide
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bakaris Uth Estide
 *Source: Dragonlance: Shadow of the Dragon Queen p. 54*  
