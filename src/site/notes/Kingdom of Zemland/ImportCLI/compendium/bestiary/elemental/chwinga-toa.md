@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chwinga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chwinga
 *Source: Tomb of Annihilation p. 216*  
