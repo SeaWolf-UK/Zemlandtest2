@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blagothkus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blagothkus
 *Source: Hoard of the Dragon Queen p. 89*  
