@@ -9,6 +9,7 @@ tags:
 aliases:
   - Victor Vallakovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Victor Vallakovich
 *Source: Curse of Strahd p. 105*  
