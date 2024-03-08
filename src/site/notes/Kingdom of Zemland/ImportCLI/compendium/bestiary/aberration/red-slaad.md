@@ -9,6 +9,7 @@ tags:
 aliases:
   - Red Slaad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Red Slaad
 *Source: Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
