@@ -11,6 +11,7 @@ tags:
 aliases:
   - Maurezhi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Maurezhi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
