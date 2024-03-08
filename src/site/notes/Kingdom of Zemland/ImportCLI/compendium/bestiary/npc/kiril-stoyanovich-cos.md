@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kiril Stoyanovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kiril Stoyanovich
 *Source: Curse of Strahd p. 203*  
