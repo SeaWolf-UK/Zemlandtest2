@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zaroum Al-Saryak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zaroum Al-Saryak
 *Source: Tomb of Annihilation p. 67*  
