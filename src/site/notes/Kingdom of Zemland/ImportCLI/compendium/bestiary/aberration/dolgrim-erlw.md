@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dolgrim
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dolgrim
 *Source: Eberron: Rising from the Last War p. 291*  
