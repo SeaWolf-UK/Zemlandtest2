@@ -10,6 +10,7 @@ tags:
 aliases:
   - Medusa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Medusa
 *Source: Monster Manual p. 214, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
