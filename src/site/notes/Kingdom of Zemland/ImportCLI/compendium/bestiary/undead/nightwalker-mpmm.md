@@ -13,6 +13,7 @@ tags:
 aliases:
   - Nightwalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nightwalker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
