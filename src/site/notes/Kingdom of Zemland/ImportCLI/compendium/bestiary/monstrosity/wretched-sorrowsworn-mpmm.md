@@ -12,6 +12,7 @@ tags:
 aliases:
   - Wretched Sorrowsworn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wretched Sorrowsworn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
