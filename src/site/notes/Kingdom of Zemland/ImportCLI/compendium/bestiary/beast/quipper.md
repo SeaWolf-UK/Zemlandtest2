@@ -10,6 +10,7 @@ tags:
 aliases:
   - Quipper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quipper
 *Source: Monster Manual p. 335, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
