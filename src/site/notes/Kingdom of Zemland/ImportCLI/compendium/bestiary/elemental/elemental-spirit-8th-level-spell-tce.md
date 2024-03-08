@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elemental Spirit (8th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elemental Spirit (8th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 111*  
