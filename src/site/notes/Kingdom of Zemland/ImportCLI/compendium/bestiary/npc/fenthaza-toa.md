@@ -10,6 +10,7 @@ tags:
 aliases:
   - Fenthaza
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fenthaza
 *Source: Tomb of Annihilation p. 113*  
