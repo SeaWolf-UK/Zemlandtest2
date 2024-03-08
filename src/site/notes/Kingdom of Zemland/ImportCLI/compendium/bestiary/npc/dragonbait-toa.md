@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonbait
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonbait
 *Source: Tomb of Annihilation p. 218*  
