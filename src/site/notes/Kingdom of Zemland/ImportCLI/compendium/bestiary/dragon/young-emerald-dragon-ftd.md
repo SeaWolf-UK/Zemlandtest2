@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Emerald Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Emerald Dragon
 *Source: Fizban's Treasury of Dragons p. 197*  
