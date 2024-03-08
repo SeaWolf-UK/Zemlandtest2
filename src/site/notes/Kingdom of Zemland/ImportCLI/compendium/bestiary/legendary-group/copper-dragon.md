@@ -7,6 +7,7 @@ tags:
 aliases:
   - Copper Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Copper Dragon
 
