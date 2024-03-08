@@ -9,6 +9,7 @@ tags:
 aliases:
   - Necrotic Centipede
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Necrotic Centipede
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  
