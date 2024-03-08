@@ -9,6 +9,7 @@ tags:
 aliases:
   - Armored Saber-Toothed Tiger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Armored Saber-Toothed Tiger
 *Source: Curse of Strahd p. 115*  
