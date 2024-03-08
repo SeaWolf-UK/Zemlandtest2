@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yusdrayl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yusdrayl
 *Source: Tales from the Yawning Portal p. 248*  
