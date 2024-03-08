@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sergeant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sergeant
 *Source: Eberron: Rising from the Last War p. 197*  
