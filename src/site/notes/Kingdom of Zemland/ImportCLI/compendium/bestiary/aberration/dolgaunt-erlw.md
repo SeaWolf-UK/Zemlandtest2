@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dolgaunt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dolgaunt
 *Source: Eberron: Rising from the Last War p. 290*  
