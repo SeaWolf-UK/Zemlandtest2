@@ -10,6 +10,7 @@ tags:
 aliases:
   - Goliath Werebear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goliath Werebear
 *Source: Icewind Dale: Rime of the Frostmaiden p. 293*  
