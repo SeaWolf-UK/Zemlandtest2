@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sildar Hallwinter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sildar Hallwinter
 *Source: Lost Mine of Phandelver p. 61*  
