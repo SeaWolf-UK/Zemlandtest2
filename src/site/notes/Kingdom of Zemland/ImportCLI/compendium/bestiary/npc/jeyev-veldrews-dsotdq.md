@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jeyev Veldrews
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jeyev Veldrews
 *Source: Dragonlance: Shadow of the Dragon Queen p. 75*  
