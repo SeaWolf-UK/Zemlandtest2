@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lady Fiona Wachter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lady Fiona Wachter
 *Source: Curse of Strahd p. 110*  
