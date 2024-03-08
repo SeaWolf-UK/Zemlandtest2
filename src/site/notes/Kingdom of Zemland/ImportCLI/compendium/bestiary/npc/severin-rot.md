@@ -9,6 +9,7 @@ tags:
 aliases:
   - Severin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Severin
 *Source: The Rise of Tiamat p. 92*  
