@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bestial Spirit (Air, 2nd-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bestial Spirit (Air, 2nd-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 109*  
