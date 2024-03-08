@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frost Giant of Evil Water
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant of Evil Water
 *Source: Bigby Presents: Glory of the Giants p. 146*  
