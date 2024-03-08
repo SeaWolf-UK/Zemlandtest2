@@ -9,6 +9,7 @@ tags:
 aliases:
   - Marilith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Marilith
 *Source: Monster Manual p. 61, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
