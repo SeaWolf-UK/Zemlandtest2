@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sacred Statue
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sacred Statue
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
