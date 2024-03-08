@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Wasp
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Wasp
 *Source: Monster Manual p. 329, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
