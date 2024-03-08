@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gigant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gigant
 *Source: Bigby Presents: Glory of the Giants p. 154*  
