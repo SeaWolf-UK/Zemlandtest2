@@ -9,6 +9,7 @@ tags:
 aliases:
   - Regisaur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Regisaur
 *Source: Bigby Presents: Glory of the Giants p. 130*  
