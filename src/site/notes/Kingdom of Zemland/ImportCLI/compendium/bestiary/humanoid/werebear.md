@@ -13,6 +13,7 @@ tags:
 aliases:
   - Werebear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Werebear
 *Source: Monster Manual p. 208. Available in the SRD.*  
