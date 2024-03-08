@@ -9,6 +9,7 @@ tags:
 aliases:
   - Oread
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oread
 *Source: Mythic Odysseys of Theros p. 237*  
