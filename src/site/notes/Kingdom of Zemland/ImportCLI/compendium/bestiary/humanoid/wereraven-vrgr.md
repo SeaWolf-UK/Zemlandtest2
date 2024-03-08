@@ -10,6 +10,7 @@ tags:
 aliases:
   - Wereraven
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wereraven
 *Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*  
