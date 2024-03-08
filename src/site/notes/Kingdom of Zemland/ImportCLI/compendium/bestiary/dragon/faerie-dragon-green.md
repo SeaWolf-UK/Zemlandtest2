@@ -10,6 +10,7 @@ tags:
 aliases:
   - Faerie Dragon (Green)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Faerie Dragon (Green)
 *Source: Monster Manual p. 133, Tomb of Annihilation*  
