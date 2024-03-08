@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fury of Kostchtchie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fury of Kostchtchie
 *Source: Bigby Presents: Glory of the Giants p. 148*  
