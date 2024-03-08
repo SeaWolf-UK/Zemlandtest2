@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fraz-Urb'luu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fraz-Urb'luu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146*  
