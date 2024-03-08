@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jamna Gleamsilver
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jamna Gleamsilver
 *Source: Hoard of the Dragon Queen p. 91*  
