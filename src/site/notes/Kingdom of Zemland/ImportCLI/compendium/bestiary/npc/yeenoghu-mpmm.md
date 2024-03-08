@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yeenoghu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yeenoghu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155*  
