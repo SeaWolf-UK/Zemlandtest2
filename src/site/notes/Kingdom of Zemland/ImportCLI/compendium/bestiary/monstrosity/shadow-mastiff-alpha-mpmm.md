@@ -12,6 +12,7 @@ tags:
 aliases:
   - Shadow Mastiff Alpha
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadow Mastiff Alpha
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
