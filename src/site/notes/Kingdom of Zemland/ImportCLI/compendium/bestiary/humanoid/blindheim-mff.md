@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blindheim
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blindheim
 *Source: Mordenkainen's Fiendish Folio p. 5*  
