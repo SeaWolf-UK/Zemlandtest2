@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Dragon Turtle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Dragon Turtle
 *Source: Tales from the Yawning Portal p. 113*  
