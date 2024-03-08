@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bestial Spirit (Air, 9th-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bestial Spirit (Air, 9th-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 109*  
