@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kostchtchie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kostchtchie
 *Source: Baldur's Gate: Descent Into Avernus p. 105*  
