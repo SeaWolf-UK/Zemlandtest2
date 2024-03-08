@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Shark
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Shark
 *Source: Monster Manual p. 328, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
