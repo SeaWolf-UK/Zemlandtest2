@@ -9,6 +9,7 @@ tags:
 aliases:
   - Returned Kakomantis
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Returned Kakomantis
 *Source: Mythic Odysseys of Theros p. 240*  
