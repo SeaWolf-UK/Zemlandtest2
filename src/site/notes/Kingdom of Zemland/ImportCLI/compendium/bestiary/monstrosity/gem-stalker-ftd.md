@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gem Stalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gem Stalker
 *Source: Fizban's Treasury of Dragons p. 202*  
