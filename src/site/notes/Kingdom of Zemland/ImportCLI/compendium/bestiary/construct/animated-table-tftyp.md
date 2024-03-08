@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Table
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Table
 *Source: Tales from the Yawning Portal p. 230*  
