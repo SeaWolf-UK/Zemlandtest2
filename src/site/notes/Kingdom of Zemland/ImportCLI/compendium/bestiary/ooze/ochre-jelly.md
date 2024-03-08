@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ochre Jelly
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ochre Jelly
 *Source: Monster Manual p. 243, Lost Mine of Phandelver, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
