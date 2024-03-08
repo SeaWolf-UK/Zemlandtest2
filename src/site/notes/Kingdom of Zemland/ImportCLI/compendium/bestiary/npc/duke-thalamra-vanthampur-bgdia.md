@@ -9,6 +9,7 @@ tags:
 aliases:
   - Duke Thalamra Vanthampur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duke Thalamra Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 38*  
