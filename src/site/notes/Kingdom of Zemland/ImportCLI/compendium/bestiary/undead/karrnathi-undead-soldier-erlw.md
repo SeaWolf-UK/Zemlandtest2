@@ -9,6 +9,7 @@ tags:
 aliases:
   - Karrnathi Undead Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Karrnathi Undead Soldier
 *Source: Eberron: Rising from the Last War p. 295*  
