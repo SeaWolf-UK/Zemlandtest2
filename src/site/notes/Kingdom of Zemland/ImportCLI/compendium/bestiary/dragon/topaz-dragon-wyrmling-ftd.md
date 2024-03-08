@@ -9,6 +9,7 @@ tags:
 aliases:
   - Topaz Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Topaz Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 223*  
