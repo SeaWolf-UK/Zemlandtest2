@@ -11,6 +11,7 @@ tags:
 aliases:
   - Swarm of Cranium Rats
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Cranium Rats
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
