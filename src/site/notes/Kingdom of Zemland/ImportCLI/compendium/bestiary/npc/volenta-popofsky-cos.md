@@ -9,6 +9,7 @@ tags:
 aliases:
   - Volenta Popofsky
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Volenta Popofsky
 *Source: Curse of Strahd p. 93*  
