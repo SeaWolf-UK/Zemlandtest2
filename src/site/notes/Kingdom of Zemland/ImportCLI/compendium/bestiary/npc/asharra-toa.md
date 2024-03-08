@@ -9,6 +9,7 @@ tags:
 aliases:
   - Asharra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Asharra
 *Source: Tomb of Annihilation p. 69*  
