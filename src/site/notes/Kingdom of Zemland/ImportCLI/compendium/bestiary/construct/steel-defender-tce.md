@@ -9,6 +9,7 @@ tags:
 aliases:
   - Steel Defender
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Steel Defender
 *Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*  
