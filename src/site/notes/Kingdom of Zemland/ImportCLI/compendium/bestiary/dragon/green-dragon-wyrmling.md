@@ -9,6 +9,7 @@ tags:
 aliases:
   - Green Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Dragon Wyrmling
 *Source: Monster Manual p. 95. Available in the SRD.*  
