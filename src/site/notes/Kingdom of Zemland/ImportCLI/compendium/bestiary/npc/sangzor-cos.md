@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sangzor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sangzor
 *Source: Curse of Strahd p. 160*  
