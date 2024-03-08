@@ -10,6 +10,7 @@ tags:
 aliases:
   - Flumph
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flumph
 *Source: Monster Manual p. 135*  
