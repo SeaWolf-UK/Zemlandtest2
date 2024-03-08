@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ultroloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ultroloth
 *Source: Monster Manual p. 314, Baldur's Gate: Descent Into Avernus*  
