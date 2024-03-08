@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Weasel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Weasel
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
