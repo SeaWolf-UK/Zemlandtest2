@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fensir Skirmisher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fensir Skirmisher
 *Source: Bigby Presents: Glory of the Giants p. 135*  
