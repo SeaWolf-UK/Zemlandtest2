@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sea Elf Scout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sea Elf Scout
 *Source: Dragonlance: Shadow of the Dragon Queen p. 114*  
