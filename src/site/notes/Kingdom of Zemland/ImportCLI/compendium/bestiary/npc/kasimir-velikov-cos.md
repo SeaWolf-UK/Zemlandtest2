@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kasimir Velikov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kasimir Velikov
 *Source: Curse of Strahd p. 233*  
