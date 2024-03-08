@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scion of Memnor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scion of Memnor
 *Source: Bigby Presents: Glory of the Giants p. 167*  
