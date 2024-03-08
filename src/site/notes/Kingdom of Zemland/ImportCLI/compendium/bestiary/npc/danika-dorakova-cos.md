@@ -10,6 +10,7 @@ tags:
 aliases:
   - Danika Dorakova
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Danika Dorakova
 *Source: Curse of Strahd p. 98*  
