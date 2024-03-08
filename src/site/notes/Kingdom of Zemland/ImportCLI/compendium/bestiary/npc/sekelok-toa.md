@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sekelok
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sekelok
 *Source: Tomb of Annihilation p. 120*  
