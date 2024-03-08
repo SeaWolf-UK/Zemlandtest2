@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Emerald Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Emerald Dragon
 *Source: Fizban's Treasury of Dragons p. 195*  
