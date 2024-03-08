@@ -12,6 +12,7 @@ tags:
 aliases:
   - Githyanki Kith'rak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githyanki Kith'rak
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
