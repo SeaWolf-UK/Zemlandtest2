@@ -10,6 +10,7 @@ tags:
 aliases:
   - Dust Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dust Mephit
 *Source: Monster Manual p. 215, Tomb of Annihilation. Available in the SRD.*  
