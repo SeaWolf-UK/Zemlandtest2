@@ -9,6 +9,7 @@ tags:
 aliases:
   - Valenar Hound
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Valenar Hound
 *Source: Eberron: Rising from the Last War p. 312*  
