@@ -10,6 +10,7 @@ tags:
 aliases:
   - Pony
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pony
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
