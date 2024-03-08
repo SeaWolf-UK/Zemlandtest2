@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amelia Ghallen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amelia Ghallen
 *Source: Dragonlance: Shadow of the Dragon Queen p. 180*  
