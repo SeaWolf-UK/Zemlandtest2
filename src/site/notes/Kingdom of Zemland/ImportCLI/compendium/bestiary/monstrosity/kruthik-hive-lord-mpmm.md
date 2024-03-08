@@ -12,6 +12,7 @@ tags:
 aliases:
   - Kruthik Hive Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kruthik Hive Lord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
