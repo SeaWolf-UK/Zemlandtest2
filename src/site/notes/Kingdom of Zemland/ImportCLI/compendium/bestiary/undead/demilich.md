@@ -9,6 +9,7 @@ tags:
 aliases:
   - Demilich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demilich
 *Source: Monster Manual p. 48, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
