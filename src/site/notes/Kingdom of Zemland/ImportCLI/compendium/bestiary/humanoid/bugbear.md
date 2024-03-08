@@ -12,6 +12,7 @@ tags:
 aliases:
   - Bugbear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bugbear
 *Source: Monster Manual p. 33, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
