@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mongrelfolk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mongrelfolk
 *Source: Curse of Strahd p. 234*  
