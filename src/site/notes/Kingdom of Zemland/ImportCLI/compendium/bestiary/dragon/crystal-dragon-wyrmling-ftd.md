@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crystal Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crystal Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 172*  
