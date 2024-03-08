@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sarlamir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sarlamir
 *Source: Dragonlance: Shadow of the Dragon Queen p. 102*  
