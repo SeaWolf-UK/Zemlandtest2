@@ -13,6 +13,7 @@ tags:
 aliases:
   - Couatl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Couatl
 *Source: Monster Manual p. 43, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
