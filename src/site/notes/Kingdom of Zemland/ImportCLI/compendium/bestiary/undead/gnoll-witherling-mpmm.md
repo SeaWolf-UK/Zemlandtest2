@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll Witherling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Witherling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
