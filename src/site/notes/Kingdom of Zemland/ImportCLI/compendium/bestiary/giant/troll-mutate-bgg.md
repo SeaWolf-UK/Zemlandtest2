@@ -9,6 +9,7 @@ tags:
 aliases:
   - Troll Mutate
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Troll Mutate
 *Source: Bigby Presents: Glory of the Giants p. 187*  
