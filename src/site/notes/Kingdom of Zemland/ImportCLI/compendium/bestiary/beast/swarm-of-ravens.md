@@ -13,6 +13,7 @@ tags:
 aliases:
   - Swarm of Ravens
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Ravens
 *Source: Monster Manual p. 339, Curse of Strahd, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
