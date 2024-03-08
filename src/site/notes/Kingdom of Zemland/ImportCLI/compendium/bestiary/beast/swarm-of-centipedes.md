@@ -16,6 +16,7 @@ tags:
 aliases:
   - Swarm of Centipedes
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Centipedes
 *Source: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen. Available in the SRD.*  
