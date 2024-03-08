@@ -9,6 +9,7 @@ tags:
 aliases:
   - Skeleton Key
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skeleton Key
 *Source: Tomb of Annihilation p. 126*  
