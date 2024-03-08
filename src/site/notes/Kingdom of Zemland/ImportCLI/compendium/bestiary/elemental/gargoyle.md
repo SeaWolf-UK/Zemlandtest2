@@ -11,6 +11,7 @@ tags:
 aliases:
   - Gargoyle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gargoyle
 *Source: Monster Manual p. 140, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
