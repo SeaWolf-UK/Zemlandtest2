@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pidlwick II
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pidlwick II
 *Source: Curse of Strahd p. 236*  
