@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bakaris the Younger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bakaris the Younger
 *Source: Dragonlance: Shadow of the Dragon Queen p. 57*  
