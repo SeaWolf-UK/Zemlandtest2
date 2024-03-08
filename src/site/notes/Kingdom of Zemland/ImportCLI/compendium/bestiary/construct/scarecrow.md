@@ -10,6 +10,7 @@ tags:
 aliases:
   - Scarecrow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scarecrow
 *Source: Monster Manual p. 268, Curse of Strahd*  
