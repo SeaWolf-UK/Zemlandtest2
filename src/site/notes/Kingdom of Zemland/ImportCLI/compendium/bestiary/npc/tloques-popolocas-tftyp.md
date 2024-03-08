@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tloques-Popolocas
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tloques-Popolocas
 *Source: Tales from the Yawning Portal p. 68*  
