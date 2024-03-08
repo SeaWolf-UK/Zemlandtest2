@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lizard
 *Source: Monster Manual p. 332, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
