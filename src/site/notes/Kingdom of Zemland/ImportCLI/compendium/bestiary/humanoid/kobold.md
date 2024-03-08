@@ -18,6 +18,7 @@ tags:
 aliases:
   - Kobold
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold
 *Source: Monster Manual p. 195, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
