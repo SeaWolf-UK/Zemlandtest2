@@ -9,6 +9,7 @@ tags:
 aliases:
   - Oak Truestrike
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oak Truestrike
 *Source: Acquisitions Incorporated p. 205*  
