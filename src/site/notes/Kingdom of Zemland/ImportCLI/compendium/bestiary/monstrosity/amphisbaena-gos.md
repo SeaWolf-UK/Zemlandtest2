@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amphisbaena
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amphisbaena
 *Source: Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros*  
