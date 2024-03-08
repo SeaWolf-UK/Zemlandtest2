@@ -15,6 +15,7 @@ tags:
 aliases:
   - Berserker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Berserker
 *Source: Monster Manual p. 344, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
