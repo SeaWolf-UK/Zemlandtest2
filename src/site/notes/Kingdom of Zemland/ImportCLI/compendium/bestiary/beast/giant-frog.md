@@ -11,6 +11,7 @@ tags:
 aliases:
   - Giant Frog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Frog
 *Source: Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
