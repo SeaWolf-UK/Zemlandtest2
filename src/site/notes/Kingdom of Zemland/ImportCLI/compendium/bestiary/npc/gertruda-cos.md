@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gertruda
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gertruda
 *Source: Curse of Strahd p. 68*  
