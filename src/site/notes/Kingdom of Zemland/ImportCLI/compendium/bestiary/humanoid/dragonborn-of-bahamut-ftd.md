@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonborn of Bahamut
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonborn of Bahamut
 *Source: Fizban's Treasury of Dragons p. 184*  
