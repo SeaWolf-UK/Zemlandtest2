@@ -10,6 +10,7 @@ tags:
 aliases:
   - Aarakocra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aarakocra
 *Source: Monster Manual p. 12, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden*  
