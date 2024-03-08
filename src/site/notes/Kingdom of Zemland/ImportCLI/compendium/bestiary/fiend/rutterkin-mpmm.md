@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rutterkin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rutterkin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  
