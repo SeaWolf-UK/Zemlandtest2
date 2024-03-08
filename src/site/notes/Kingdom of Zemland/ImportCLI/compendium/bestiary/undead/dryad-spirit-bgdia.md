@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dryad Spirit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dryad Spirit
 *Source: Baldur's Gate: Descent Into Avernus p. 108*  
