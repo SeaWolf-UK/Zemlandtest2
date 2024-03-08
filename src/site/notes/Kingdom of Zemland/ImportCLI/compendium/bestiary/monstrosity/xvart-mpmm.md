@@ -11,6 +11,7 @@ tags:
 aliases:
   - Xvart
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xvart
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
