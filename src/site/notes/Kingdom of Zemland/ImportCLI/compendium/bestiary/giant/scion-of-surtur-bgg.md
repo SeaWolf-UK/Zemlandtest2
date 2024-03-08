@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scion of Surtur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scion of Surtur
 *Source: Bigby Presents: Glory of the Giants p. 173*  
