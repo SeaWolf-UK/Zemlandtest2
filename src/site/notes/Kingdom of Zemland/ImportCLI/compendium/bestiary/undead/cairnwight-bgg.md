@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cairnwight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cairnwight
 *Source: Bigby Presents: Glory of the Giants p. 122*  
