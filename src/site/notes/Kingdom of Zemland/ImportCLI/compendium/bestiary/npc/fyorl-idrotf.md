@@ -9,6 +9,7 @@ tags:
 aliases:
   - F'yorl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # F'yorl
 *Source: Icewind Dale: Rime of the Frostmaiden p. 183*  
