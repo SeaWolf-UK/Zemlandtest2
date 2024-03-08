@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elder Brain Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Brain Dragon
 *Source: Fizban's Treasury of Dragons p. 194*  
