@@ -9,6 +9,7 @@ tags:
 aliases:
   - Leosin Erlanthar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Leosin Erlanthar
 *Source: Hoard of the Dragon Queen p. 87*  
