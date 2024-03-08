@@ -11,6 +11,7 @@ tags:
 aliases:
   - Marid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Marid
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen*  
