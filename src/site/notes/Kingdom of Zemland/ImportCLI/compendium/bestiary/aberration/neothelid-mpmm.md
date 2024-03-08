@@ -10,6 +10,7 @@ tags:
 aliases:
   - Neothelid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Neothelid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181*  
