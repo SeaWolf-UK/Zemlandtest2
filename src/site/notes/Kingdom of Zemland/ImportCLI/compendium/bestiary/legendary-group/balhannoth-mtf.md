@@ -7,6 +7,7 @@ tags:
 aliases:
   - Balhannoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Balhannoth
 
