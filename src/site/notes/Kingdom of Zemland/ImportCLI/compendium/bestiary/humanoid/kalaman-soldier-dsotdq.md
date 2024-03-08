@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kalaman Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kalaman Soldier
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  
