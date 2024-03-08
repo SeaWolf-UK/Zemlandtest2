@@ -10,6 +10,7 @@ tags:
 aliases:
   - Armanite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Armanite
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
