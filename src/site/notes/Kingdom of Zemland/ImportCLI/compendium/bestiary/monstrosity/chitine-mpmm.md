@@ -10,6 +10,7 @@ tags:
 aliases:
   - Chitine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chitine
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
