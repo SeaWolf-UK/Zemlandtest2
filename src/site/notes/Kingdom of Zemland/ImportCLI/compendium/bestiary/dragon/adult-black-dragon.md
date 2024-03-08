@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Black Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Black Dragon
 *Source: Monster Manual p. 88, Hoard of the Dragon Queen, The Rise of Tiamat, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
