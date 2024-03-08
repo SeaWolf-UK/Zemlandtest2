@@ -10,6 +10,7 @@ tags:
 aliases:
   - Azaka Stormfang
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Azaka Stormfang
 *Source: Tomb of Annihilation p. 33*  
