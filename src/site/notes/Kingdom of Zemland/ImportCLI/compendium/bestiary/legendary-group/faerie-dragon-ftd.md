@@ -7,6 +7,7 @@ tags:
 aliases:
   - Faerie Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Faerie Dragon
 
