@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Walrus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Walrus
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  
