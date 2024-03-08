@@ -10,6 +10,7 @@ tags:
 aliases:
   - Green Abishai
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
