@@ -9,6 +9,7 @@ tags:
 aliases:
   - Baron Vargas Vallakovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baron Vargas Vallakovich
 *Source: Curse of Strahd p. 105*  
