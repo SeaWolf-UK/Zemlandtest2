@@ -9,6 +9,7 @@ tags:
 aliases:
   - Na
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Na
 *Source: Tomb of Annihilation p. 228*  
