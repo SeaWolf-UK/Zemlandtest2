@@ -9,6 +9,7 @@ tags:
 aliases:
   - Verbeeg Marauder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Verbeeg Marauder
 *Source: Icewind Dale: Rime of the Frostmaiden p. 311*  
