@@ -9,6 +9,7 @@ tags:
 aliases:
   - Orc Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Commoner
 *Source: Tales from the Yawning Portal p. 167*  
