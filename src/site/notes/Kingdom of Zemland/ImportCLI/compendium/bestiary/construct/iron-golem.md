@@ -9,6 +9,7 @@ tags:
 aliases:
   - Iron Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Iron Golem
 *Source: Monster Manual p. 170, Curse of Strahd, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
