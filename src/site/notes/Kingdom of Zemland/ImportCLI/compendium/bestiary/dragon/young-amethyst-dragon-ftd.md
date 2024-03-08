@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Amethyst Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Amethyst Dragon
 *Source: Fizban's Treasury of Dragons p. 161*  
