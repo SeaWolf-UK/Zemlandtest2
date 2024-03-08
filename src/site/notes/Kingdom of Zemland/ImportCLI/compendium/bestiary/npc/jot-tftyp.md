@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jot
 *Source: Tales from the Yawning Portal p. 15*  
