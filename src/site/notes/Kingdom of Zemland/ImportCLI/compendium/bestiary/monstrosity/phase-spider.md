@@ -15,6 +15,7 @@ tags:
 aliases:
   - Phase Spider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phase Spider
 *Source: Monster Manual p. 334, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
