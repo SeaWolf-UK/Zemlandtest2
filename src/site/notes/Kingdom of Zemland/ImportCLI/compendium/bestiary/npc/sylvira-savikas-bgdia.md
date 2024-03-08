@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sylvira Savikas
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sylvira Savikas
 *Source: Baldur's Gate: Descent Into Avernus p. 46*  
