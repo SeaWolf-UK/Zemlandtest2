@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grandolpha Muzgardt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grandolpha Muzgardt
 *Source: Icewind Dale: Rime of the Frostmaiden p. 176*  
