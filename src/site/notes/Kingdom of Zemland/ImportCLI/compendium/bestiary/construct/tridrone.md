@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tridrone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tridrone
 *Source: Monster Manual p. 225, Tomb of Annihilation*  
