@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Ram
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Ram
 *Source: Bigby Presents: Glory of the Giants p. 153*  
