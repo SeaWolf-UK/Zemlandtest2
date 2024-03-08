@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Boar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Boar
 *Source: Monster Manual p. 323, Tomb of Annihilation, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
