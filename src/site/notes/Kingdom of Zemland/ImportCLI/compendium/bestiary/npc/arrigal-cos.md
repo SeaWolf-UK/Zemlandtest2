@@ -9,6 +9,7 @@ tags:
 aliases:
   - Arrigal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arrigal
 *Source: Curse of Strahd p. 121*  
