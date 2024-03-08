@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eater of Hope
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eater of Hope
 *Source: Mythic Odysseys of Theros p. 220*  
