@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jarl Grugnur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jarl Grugnur
 *Source: Tales from the Yawning Portal p. 189*  
