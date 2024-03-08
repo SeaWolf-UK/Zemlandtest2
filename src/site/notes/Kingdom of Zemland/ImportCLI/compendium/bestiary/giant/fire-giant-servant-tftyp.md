@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fire Giant Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant Servant
 *Source: Tales from the Yawning Portal p. 171*  
