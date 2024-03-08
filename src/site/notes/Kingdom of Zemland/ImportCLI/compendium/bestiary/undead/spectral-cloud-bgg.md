@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spectral Cloud
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spectral Cloud
 *Source: Bigby Presents: Glory of the Giants p. 176*  
