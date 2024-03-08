@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sea Lion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sea Lion
 *Source: Tales from the Yawning Portal p. 242*  
