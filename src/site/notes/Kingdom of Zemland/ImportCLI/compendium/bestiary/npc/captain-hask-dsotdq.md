@@ -9,6 +9,7 @@ tags:
 aliases:
   - Captain Hask
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Captain Hask
 *Source: Dragonlance: Shadow of the Dragon Queen p. 148*  
