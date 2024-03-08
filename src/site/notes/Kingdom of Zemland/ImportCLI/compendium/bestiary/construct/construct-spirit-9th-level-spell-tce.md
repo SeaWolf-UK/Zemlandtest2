@@ -9,6 +9,7 @@ tags:
 aliases:
   - Construct Spirit (9th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Construct Spirit (9th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 111*  
