@@ -10,6 +10,7 @@ tags:
 aliases:
   - Allosaurus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Allosaurus
 *Source: Monster Manual p. 79, Tomb of Annihilation. Available in the Basic Rules.*  
