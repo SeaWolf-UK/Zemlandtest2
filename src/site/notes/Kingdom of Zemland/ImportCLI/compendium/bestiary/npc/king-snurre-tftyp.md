@@ -9,6 +9,7 @@ tags:
 aliases:
   - King Snurre
 dg-publish: "true"
+DG-publish: "True"
 ---
 # King Snurre
 *Source: Tales from the Yawning Portal p. 193*  
