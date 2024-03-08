@@ -11,6 +11,7 @@ tags:
 aliases:
   - Grick
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grick
 *Source: Monster Manual p. 173, Curse of Strahd, Lost Mine of Phandelver, Tales from the Yawning Portal, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
