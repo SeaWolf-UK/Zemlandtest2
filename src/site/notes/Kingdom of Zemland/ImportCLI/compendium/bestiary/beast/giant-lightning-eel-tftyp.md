@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Lightning Eel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Lightning Eel
 *Source: Tales from the Yawning Portal p. 236*  
