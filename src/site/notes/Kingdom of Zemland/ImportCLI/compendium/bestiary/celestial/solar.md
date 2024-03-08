@@ -9,6 +9,7 @@ tags:
 aliases:
   - Solar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Solar
 *Source: Monster Manual p. 18, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
