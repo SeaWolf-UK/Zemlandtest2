@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sapphire Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sapphire Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 201*  
