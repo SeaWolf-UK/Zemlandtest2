@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ice Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Troll
 *Source: Icewind Dale: Rime of the Frostmaiden p. 295*  
