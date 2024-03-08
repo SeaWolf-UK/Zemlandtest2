@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cultist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cultist
 *Source: Monster Manual p. 345, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
