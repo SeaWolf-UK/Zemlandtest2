@@ -9,6 +9,7 @@ tags:
 aliases:
   - Arkhan the Cruel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arkhan the Cruel
 *Source: Baldur's Gate: Descent Into Avernus p. 111*  
