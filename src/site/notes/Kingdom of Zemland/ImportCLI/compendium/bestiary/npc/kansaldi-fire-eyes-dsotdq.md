@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kansaldi Fire-Eyes
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kansaldi Fire-Eyes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 203*  
