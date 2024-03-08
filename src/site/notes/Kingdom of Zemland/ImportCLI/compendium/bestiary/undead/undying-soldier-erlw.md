@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undying Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undying Soldier
 *Source: Eberron: Rising from the Last War p. 311*  
