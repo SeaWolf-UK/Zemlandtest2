@@ -9,6 +9,7 @@ tags:
 aliases:
   - Headless Iron Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Headless Iron Golem
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  
