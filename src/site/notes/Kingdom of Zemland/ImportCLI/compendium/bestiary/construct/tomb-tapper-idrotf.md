@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tomb Tapper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tomb Tapper
 *Source: Icewind Dale: Rime of the Frostmaiden p. 310*  
