@@ -11,6 +11,7 @@ tags:
 aliases:
   - Cave Bear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cave Bear
 *Source: Monster Manual p. 334, Tales from the Yawning Portal*  
