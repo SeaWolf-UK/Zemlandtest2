@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gelatinous Cube
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gelatinous Cube
 *Source: Monster Manual p. 242, Tales from the Yawning Portal, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
