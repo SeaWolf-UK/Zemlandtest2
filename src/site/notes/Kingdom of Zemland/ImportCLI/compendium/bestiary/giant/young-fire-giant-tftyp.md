@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Fire Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Fire Giant
 *Source: Tales from the Yawning Portal p. 192*  
