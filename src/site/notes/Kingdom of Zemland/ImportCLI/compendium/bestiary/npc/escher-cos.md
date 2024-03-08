@@ -9,6 +9,7 @@ tags:
 aliases:
   - Escher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Escher
 *Source: Curse of Strahd p. 70*  
