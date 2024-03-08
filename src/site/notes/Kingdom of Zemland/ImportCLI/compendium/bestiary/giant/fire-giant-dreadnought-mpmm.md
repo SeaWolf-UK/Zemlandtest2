@@ -11,6 +11,7 @@ tags:
 aliases:
   - Fire Giant Dreadnought
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant Dreadnought
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
