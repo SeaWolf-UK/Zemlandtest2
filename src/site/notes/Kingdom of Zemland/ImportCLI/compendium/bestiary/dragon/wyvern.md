@@ -11,6 +11,7 @@ tags:
 aliases:
   - Wyvern
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wyvern
 *Source: Monster Manual p. 303, Hoard of the Dragon Queen, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
