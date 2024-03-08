@@ -9,6 +9,7 @@ tags:
 aliases:
   - Obmi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Obmi
 *Source: Tales from the Yawning Portal p. 196*  
