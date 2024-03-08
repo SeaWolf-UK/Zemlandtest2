@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cradle of the Cloud Scion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cradle of the Cloud Scion
 *Source: Bigby Presents: Glory of the Giants p. 166*  
