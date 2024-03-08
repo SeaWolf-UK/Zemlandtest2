@@ -12,6 +12,7 @@ tags:
 aliases:
   - Pteranodon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pteranodon
 *Source: Monster Manual p. 80, Tomb of Annihilation, Eberron: Rising from the Last War. Available in the Basic Rules.*  
