@@ -11,6 +11,7 @@ tags:
 aliases:
   - Polar Bear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Polar Bear
 *Source: Monster Manual p. 334, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
