@@ -15,6 +15,7 @@ tags:
 aliases:
   - Pseudodragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pseudodragon
 *Source: Monster Manual p. 254, The Rise of Tiamat, Tomb of Annihilation, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
