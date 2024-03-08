@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Behir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Behir
 *Source: Tales from the Yawning Portal p. 113*  
