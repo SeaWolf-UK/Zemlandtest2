@@ -9,6 +9,7 @@ tags:
 aliases:
   - Half-Green Dragon Assassin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Half-Green Dragon Assassin
 *Source: The Rise of Tiamat p. 56*  
