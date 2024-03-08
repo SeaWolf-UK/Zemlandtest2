@@ -9,6 +9,7 @@ tags:
 aliases:
   - Langdedrosa Cyanwrath
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Langdedrosa Cyanwrath
 *Source: Hoard of the Dragon Queen p. 91*  
