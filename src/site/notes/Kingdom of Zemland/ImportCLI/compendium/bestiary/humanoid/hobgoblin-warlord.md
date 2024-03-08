@@ -14,6 +14,7 @@ tags:
 aliases:
   - Hobgoblin Warlord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hobgoblin Warlord
 *Source: Monster Manual p. 187, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen*  
