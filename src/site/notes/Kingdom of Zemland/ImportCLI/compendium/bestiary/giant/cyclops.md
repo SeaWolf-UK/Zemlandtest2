@@ -15,6 +15,7 @@ tags:
 aliases:
   - Cyclops
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cyclops
 *Source: Monster Manual p. 45, The Rise of Tiamat, Tomb of Annihilation, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the Basic Rules.*  
