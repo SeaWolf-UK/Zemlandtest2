@@ -10,6 +10,7 @@ tags:
 aliases:
   - Frost Salamander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Salamander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  
