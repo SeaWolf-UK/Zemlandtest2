@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nahual
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nahual
 *Source: Tales from the Yawning Portal p. 91*  
