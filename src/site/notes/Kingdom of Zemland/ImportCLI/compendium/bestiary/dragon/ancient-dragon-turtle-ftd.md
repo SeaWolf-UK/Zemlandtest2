@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Dragon Turtle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Dragon Turtle
 *Source: Fizban's Treasury of Dragons p. 191*  
