@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barrowghast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barrowghast
 *Source: Bigby Presents: Glory of the Giants p. 121*  
