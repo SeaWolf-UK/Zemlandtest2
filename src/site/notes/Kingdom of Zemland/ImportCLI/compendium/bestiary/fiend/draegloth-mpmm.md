@@ -10,6 +10,7 @@ tags:
 aliases:
   - Draegloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draegloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
