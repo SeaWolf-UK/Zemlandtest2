@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frulam Mondath
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frulam Mondath
 *Source: Hoard of the Dragon Queen p. 90*  
