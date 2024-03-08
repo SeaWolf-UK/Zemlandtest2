@@ -12,6 +12,7 @@ tags:
 aliases:
   - Young Kruthik
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  
