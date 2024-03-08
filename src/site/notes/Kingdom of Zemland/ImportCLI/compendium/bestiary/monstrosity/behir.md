@@ -10,6 +10,7 @@ tags:
 aliases:
   - Behir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Behir
 *Source: Monster Manual p. 25, Tales from the Yawning Portal. Available in the SRD.*  
