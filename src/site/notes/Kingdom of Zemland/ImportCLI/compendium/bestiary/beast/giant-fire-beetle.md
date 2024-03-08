@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Fire Beetle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Fire Beetle
 *Source: Monster Manual p. 325, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
