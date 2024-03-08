@@ -9,6 +9,7 @@ tags:
 aliases:
   - Albino Dwarf Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Albino Dwarf Warrior
 *Source: Tomb of Annihilation p. 210*  
