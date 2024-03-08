@@ -7,6 +7,7 @@ tags:
 aliases:
   - Arasta
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arasta
 
