@@ -9,6 +9,7 @@ tags:
 aliases:
   - Abhorrent Overlord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Abhorrent Overlord
 *Source: Mythic Odysseys of Theros p. 219*  
