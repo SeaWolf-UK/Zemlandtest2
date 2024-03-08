@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gundren Rockseeker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gundren Rockseeker
 *Source: Lost Mine of Phandelver p. 41*  
