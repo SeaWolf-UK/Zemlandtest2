@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sul Khatesh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sul Khatesh
 *Source: Eberron: Rising from the Last War p. 304*  
