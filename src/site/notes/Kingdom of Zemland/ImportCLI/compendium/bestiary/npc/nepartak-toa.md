@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nepartak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nepartak
 *Source: Tomb of Annihilation p. 137*  
