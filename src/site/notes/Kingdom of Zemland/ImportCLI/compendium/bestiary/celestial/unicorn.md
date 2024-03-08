@@ -10,6 +10,7 @@ tags:
 aliases:
   - Unicorn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Unicorn
 *Source: Monster Manual p. 294, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  
