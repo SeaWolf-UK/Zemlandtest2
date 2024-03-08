@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bestial Spirit (Water, 3rd-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bestial Spirit (Water, 3rd-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 109*  
