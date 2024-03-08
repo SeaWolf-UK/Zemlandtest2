@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lampad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lampad
 *Source: Mythic Odysseys of Theros p. 235*  
