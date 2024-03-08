@@ -14,6 +14,7 @@ tags:
 aliases:
   - Orc Blade of Ilneval
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Blade of Ilneval
 *Source: Volo's Guide to Monsters p. 183*  
