@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amrik Vanthampur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amrik Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  
