@@ -11,6 +11,7 @@ tags:
 aliases:
   - Tiger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tiger
 *Source: Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
