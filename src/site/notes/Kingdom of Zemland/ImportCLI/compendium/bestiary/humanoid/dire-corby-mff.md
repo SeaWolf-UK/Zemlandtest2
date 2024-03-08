@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dire Corby
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dire Corby
 *Source: Mordenkainen's Fiendish Folio p. 7*  
