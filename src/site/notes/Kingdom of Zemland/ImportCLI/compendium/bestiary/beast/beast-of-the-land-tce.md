@@ -9,6 +9,7 @@ tags:
 aliases:
   - Beast of the Land
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beast of the Land
 *Source: Tasha's Cauldron of Everything p. 61*  
