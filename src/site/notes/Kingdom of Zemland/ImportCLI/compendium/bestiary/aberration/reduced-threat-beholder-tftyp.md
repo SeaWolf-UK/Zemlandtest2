@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Beholder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Beholder
 *Source: Tales from the Yawning Portal p. 113*  
