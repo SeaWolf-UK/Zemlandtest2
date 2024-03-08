@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Deep Crow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Deep Crow
 *Source: Acquisitions Incorporated p. 211*  
