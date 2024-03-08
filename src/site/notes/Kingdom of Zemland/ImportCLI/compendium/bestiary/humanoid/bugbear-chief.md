@@ -12,6 +12,7 @@ tags:
 aliases:
   - Bugbear Chief
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bugbear Chief
 *Source: Monster Manual p. 33, Tales from the Yawning Portal*  
