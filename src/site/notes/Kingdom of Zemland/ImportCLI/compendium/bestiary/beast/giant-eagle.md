@@ -13,6 +13,7 @@ tags:
 aliases:
   - Giant Eagle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Eagle
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
