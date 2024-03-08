@@ -10,6 +10,7 @@ tags:
 aliases:
   - Killer Whale
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Killer Whale
 *Source: Monster Manual p. 331, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
