@@ -9,6 +9,7 @@ tags:
 aliases:
   - Curran Corvalin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Curran Corvalin
 *Source: Tales from the Yawning Portal p. 158*  
