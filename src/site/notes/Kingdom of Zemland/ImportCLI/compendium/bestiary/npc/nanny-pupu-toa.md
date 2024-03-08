@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nanny Pu'pu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nanny Pu'pu
 *Source: Tomb of Annihilation p. 72*  
