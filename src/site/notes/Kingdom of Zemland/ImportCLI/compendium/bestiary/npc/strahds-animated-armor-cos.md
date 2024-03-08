@@ -9,6 +9,7 @@ tags:
 aliases:
   - Strahd's Animated Armor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Strahd's Animated Armor
 *Source: Curse of Strahd p. 227*  
