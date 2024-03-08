@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Black Pudding
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Black Pudding
 *Source: Tales from the Yawning Portal p. 113*  
