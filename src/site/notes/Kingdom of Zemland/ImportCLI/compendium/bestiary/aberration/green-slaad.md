@@ -9,6 +9,7 @@ tags:
 aliases:
   - Green Slaad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Slaad
 *Source: Monster Manual p. 277, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
