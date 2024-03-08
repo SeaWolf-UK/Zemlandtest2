@@ -9,6 +9,7 @@ tags:
 aliases:
   - Liondrake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Liondrake
 *Source: Fizban's Treasury of Dragons p. 207*  
