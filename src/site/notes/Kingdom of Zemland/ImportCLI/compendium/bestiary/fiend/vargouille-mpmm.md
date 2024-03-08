@@ -12,6 +12,7 @@ tags:
 aliases:
   - Vargouille
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vargouille
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*  
