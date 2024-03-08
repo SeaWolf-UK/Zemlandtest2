@@ -9,6 +9,7 @@ tags:
 aliases:
   - Graz'zt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Graz'zt
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149*  
