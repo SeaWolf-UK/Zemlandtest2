@@ -10,6 +10,7 @@ tags:
 aliases:
   - Illithilich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Illithilich
 *Source: Volo's Guide to Monsters p. 172*  
