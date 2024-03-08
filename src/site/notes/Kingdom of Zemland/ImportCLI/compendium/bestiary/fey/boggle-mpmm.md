@@ -13,6 +13,7 @@ tags:
 aliases:
   - Boggle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Boggle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*  
