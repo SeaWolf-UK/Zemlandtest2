@@ -10,6 +10,7 @@ tags:
 aliases:
   - Berbalang
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Berbalang
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  
