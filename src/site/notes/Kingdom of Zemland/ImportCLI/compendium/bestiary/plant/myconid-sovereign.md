@@ -10,6 +10,7 @@ tags:
 aliases:
   - Myconid Sovereign
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Myconid Sovereign
 *Source: Monster Manual p. 232, Icewind Dale: Rime of the Frostmaiden*  
