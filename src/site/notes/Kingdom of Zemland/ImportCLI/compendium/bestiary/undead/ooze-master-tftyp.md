@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ooze Master
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ooze Master
 *Source: Tales from the Yawning Portal p. 241*  
