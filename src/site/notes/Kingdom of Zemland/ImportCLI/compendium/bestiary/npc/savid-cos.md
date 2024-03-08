@@ -9,6 +9,7 @@ tags:
 aliases:
   - Savid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Savid
 *Source: Curse of Strahd p. 133*  
