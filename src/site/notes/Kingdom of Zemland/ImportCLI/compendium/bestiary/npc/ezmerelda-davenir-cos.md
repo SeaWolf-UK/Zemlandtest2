@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ezmerelda d'Avenir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ezmerelda d'Avenir
 *Source: Curse of Strahd p. 231*  
