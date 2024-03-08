@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hypnos Magen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hypnos Magen
 *Source: Icewind Dale: Rime of the Frostmaiden p. 301*  
