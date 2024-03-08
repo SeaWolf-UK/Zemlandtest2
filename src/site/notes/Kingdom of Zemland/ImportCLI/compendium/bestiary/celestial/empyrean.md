@@ -9,6 +9,7 @@ tags:
 aliases:
   - Empyrean
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Empyrean
 *Source: Monster Manual p. 130, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros*  
