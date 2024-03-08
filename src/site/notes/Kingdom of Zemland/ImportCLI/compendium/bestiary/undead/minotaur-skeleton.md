@@ -10,6 +10,7 @@ tags:
 aliases:
   - Minotaur Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Minotaur Skeleton
 *Source: Monster Manual p. 273, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
