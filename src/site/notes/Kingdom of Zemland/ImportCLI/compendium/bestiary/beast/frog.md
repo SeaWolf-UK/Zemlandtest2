@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frog
 *Source: Monster Manual p. 322, Tomb of Annihilation, Curse of Strahd. Available in the SRD and the Basic Rules.*  
