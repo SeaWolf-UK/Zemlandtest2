@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Chosen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Chosen
 *Source: Fizban's Treasury of Dragons p. 189*  
