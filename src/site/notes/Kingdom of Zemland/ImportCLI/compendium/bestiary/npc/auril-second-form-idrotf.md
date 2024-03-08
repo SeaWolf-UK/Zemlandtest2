@@ -9,6 +9,7 @@ tags:
 aliases:
   - Auril (Second Form)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Auril (Second Form)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 277*  
