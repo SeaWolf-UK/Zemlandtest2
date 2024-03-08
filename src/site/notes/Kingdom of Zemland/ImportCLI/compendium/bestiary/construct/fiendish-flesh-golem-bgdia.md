@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fiendish Flesh Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fiendish Flesh Golem
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  
