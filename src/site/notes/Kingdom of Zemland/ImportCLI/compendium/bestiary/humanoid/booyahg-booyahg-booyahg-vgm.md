@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Booyahg Booyahg
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Booyahg Booyahg
 *Source: Volo's Guide to Monsters p. 43*  
