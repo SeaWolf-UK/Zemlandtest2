@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ice Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ice Devil
 *Source: Monster Manual p. 75, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
