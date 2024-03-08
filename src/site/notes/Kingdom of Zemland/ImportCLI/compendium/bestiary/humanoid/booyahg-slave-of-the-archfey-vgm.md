@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Slave of the Archfey
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Slave of the Archfey
 *Source: Volo's Guide to Monsters p. 42*  
