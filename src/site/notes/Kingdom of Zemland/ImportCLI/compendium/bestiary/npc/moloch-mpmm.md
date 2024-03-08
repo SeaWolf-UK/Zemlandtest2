@@ -9,6 +9,7 @@ tags:
 aliases:
   - Moloch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Moloch
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177*  
