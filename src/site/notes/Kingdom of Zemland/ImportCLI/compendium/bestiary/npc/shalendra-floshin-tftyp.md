@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shalendra Floshin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shalendra Floshin
 *Source: Tales from the Yawning Portal p. 119*  
