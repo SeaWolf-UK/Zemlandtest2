@@ -9,6 +9,7 @@ tags:
 aliases:
   - Patrina Velikovna
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Patrina Velikovna
 *Source: Curse of Strahd p. 89*  
