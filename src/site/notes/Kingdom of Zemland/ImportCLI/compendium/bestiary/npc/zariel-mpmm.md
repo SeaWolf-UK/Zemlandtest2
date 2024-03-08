@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zariel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zariel
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  
