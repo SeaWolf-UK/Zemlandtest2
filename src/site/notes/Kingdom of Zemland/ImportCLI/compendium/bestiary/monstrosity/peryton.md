@@ -11,6 +11,7 @@ tags:
 aliases:
   - Peryton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Peryton
 *Source: Monster Manual p. 251, Hoard of the Dragon Queen, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
