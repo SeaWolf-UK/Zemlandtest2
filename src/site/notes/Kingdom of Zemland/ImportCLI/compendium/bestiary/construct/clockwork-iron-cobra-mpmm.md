@@ -13,6 +13,7 @@ tags:
 aliases:
   - Clockwork Iron Cobra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clockwork Iron Cobra
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
