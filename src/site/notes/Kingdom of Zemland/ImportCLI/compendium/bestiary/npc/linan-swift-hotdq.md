@@ -9,6 +9,7 @@ tags:
 aliases:
   - Linan Swift
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Linan Swift
 *Source: Hoard of the Dragon Queen p. 8*  
