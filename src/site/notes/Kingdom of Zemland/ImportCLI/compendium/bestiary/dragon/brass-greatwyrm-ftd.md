@@ -9,6 +9,7 @@ tags:
 aliases:
   - Brass Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brass Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 208*  
