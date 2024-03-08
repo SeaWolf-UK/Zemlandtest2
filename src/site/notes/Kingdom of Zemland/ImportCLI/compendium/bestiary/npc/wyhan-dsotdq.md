@@ -9,6 +9,7 @@ tags:
 aliases:
   - Wyhan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wyhan
 *Source: Dragonlance: Shadow of the Dragon Queen p. 79*  
