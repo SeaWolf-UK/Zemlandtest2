@@ -10,6 +10,7 @@ tags:
 aliases:
   - Troglodyte
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Troglodyte
 *Source: Monster Manual p. 290, Hoard of the Dragon Queen, Tales from the Yawning Portal*  
