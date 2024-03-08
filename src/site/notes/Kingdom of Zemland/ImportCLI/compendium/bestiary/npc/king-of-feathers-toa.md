@@ -9,6 +9,7 @@ tags:
 aliases:
   - King of Feathers
 dg-publish: "true"
+DG-publish: "True"
 ---
 # King of Feathers
 *Source: Tomb of Annihilation p. 106*  
