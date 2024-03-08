@@ -12,6 +12,7 @@ tags:
 aliases:
   - Redcap
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Redcap
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
