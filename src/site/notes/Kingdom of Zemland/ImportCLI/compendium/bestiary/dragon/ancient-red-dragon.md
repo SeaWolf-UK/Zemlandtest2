@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ancient Red Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Red Dragon
 *Source: Monster Manual p. 97, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  
