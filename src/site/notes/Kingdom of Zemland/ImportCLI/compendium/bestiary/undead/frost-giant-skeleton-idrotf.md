@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frost Giant Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant Skeleton
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  
