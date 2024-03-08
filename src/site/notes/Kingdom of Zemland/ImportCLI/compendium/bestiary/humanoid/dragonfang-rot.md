@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonfang
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonfang
 *Source: The Rise of Tiamat p. 89*  
