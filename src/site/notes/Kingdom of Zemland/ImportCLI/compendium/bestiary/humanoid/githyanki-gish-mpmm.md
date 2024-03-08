@@ -13,6 +13,7 @@ tags:
 aliases:
   - Githyanki Gish
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githyanki Gish
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
