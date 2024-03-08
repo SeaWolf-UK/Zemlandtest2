@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Gray Ooze
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Gray Ooze
 *Source: Tales from the Yawning Portal p. 113*  
