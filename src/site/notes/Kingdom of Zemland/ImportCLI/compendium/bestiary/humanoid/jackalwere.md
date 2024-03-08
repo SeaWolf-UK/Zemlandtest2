@@ -11,6 +11,7 @@ tags:
 aliases:
   - Jackalwere
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jackalwere
 *Source: Monster Manual p. 193, Baldur's Gate: Descent Into Avernus*  
