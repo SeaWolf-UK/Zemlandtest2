@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Badger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Badger
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
