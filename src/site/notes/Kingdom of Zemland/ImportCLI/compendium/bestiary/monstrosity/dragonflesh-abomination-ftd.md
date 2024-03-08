@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonflesh Abomination
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonflesh Abomination
 *Source: Fizban's Treasury of Dragons p. 187*  
