@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tem Temble
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tem Temble
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
