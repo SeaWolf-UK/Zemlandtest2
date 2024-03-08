@@ -7,6 +7,7 @@ tags:
 aliases:
   - Baphomet
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baphomet
 
