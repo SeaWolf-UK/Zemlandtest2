@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rilsa Rael
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rilsa Rael
 *Source: Baldur's Gate: Descent Into Avernus p. 199*  
