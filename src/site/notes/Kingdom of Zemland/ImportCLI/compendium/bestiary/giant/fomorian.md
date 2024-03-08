@@ -10,6 +10,7 @@ tags:
 aliases:
   - Fomorian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fomorian
 *Source: Monster Manual p. 136*  
