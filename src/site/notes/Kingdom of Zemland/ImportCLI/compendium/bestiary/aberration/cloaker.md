@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cloaker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cloaker
 *Source: Monster Manual p. 41. Available in the SRD.*  
