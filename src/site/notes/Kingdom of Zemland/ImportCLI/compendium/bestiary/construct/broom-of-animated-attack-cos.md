@@ -9,6 +9,7 @@ tags:
 aliases:
   - Broom of Animated Attack
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Broom of Animated Attack
 *Source: Curse of Strahd p. 226*  
