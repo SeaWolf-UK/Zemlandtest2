@@ -14,6 +14,7 @@ tags:
 aliases:
   - Giant Constrictor Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Constrictor Snake
 *Source: Monster Manual p. 324, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
