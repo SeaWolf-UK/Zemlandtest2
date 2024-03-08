@@ -12,6 +12,7 @@ tags:
 aliases:
   - Wererat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wererat
 *Source: Monster Manual p. 209, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
