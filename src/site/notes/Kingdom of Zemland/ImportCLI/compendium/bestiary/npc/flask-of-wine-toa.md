@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flask of Wine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flask of Wine
 *Source: Tomb of Annihilation p. 35*  
