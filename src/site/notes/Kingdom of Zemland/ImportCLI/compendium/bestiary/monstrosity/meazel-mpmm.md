@@ -17,6 +17,7 @@ tags:
 aliases:
   - Meazel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Meazel
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
