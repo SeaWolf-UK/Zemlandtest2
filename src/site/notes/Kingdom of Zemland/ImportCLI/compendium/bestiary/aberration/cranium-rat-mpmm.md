@@ -11,6 +11,7 @@ tags:
 aliases:
   - Cranium Rat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cranium Rat
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
