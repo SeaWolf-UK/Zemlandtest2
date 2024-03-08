@@ -9,6 +9,7 @@ tags:
 aliases:
   - Skull Lasher of Myrkul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skull Lasher of Myrkul
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
