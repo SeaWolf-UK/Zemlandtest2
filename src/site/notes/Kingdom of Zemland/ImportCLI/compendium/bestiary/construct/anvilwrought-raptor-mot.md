@@ -9,6 +9,7 @@ tags:
 aliases:
   - Anvilwrought Raptor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Anvilwrought Raptor
 *Source: Mythic Odysseys of Theros p. 209*  
