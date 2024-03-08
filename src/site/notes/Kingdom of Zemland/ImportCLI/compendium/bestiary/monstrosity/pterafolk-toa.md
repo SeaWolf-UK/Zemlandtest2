@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pterafolk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pterafolk
 *Source: Tomb of Annihilation p. 229*  
