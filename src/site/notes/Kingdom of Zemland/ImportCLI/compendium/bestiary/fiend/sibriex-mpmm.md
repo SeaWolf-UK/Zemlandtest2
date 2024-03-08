@@ -10,6 +10,7 @@ tags:
 aliases:
   - Sibriex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sibriex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
