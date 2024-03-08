@@ -7,6 +7,7 @@ tags:
 aliases:
   - Belashyrra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Belashyrra
 
