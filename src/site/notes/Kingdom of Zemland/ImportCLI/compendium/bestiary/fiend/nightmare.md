@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nightmare
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nightmare
 *Source: Monster Manual p. 235, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Curse of Strahd. Available in the SRD.*  
