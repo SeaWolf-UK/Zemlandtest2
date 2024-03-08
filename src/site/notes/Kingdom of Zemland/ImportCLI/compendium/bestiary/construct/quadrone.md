@@ -9,6 +9,7 @@ tags:
 aliases:
   - Quadrone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quadrone
 *Source: Monster Manual p. 226, Tomb of Annihilation*  
