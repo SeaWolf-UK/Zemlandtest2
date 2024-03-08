@@ -9,6 +9,7 @@ tags:
 aliases:
   - Demelin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demelin
 *Source: Dragonlance: Shadow of the Dragon Queen p. 139*  
