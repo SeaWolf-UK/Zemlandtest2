@@ -11,6 +11,7 @@ tags:
 aliases:
   - Vampire Spawn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vampire Spawn
 *Source: Monster Manual p. 298, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tasha's Cauldron of Everything. Available in the SRD.*  
