@@ -9,6 +9,7 @@ tags:
 aliases:
   - Egg Hunter Adult
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Egg Hunter Adult
 *Source: Fizban's Treasury of Dragons p. 193*  
