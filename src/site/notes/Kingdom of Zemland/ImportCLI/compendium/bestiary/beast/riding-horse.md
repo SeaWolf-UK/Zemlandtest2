@@ -11,6 +11,7 @@ tags:
 aliases:
   - Riding Horse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Riding Horse
 *Source: Monster Manual p. 336, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
