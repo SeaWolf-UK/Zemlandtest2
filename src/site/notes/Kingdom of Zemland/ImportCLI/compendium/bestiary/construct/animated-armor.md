@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Armor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Armor
 *Source: Monster Manual p. 19, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
