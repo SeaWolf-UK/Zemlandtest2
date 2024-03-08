@@ -7,6 +7,7 @@ tags:
 aliases:
   - Dyrrn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dyrrn
 
