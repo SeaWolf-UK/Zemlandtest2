@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-  - compendium/src/5e/bgg
-  - monster/cr/12
-  - monster/size/huge
-  - monster/type/giant
-aliases:
-  - Cloud Giant of Evil Air
-dg-publish: "true"
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/import-cli/compendium/bestiary/giant/cloud-giant-of-evil-air-bgg/","tags":["compendium/src/5e/bgg","monster/cr/12","monster/size/huge","monster/type/giant"]}
 ---
+
 # Cloud Giant of Evil Air
 *Source: Bigby Presents: Glory of the Giants p. 125*  
 
