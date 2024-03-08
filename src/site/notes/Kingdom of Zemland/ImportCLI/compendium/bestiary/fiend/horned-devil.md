@@ -9,6 +9,7 @@ tags:
 aliases:
   - Horned Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Horned Devil
 *Source: Monster Manual p. 74, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
