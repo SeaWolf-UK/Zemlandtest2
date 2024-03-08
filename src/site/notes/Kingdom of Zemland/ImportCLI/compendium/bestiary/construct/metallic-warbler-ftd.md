@@ -9,6 +9,7 @@ tags:
 aliases:
   - Metallic Warbler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Metallic Warbler
 *Source: Fizban's Treasury of Dragons p. 210*  
