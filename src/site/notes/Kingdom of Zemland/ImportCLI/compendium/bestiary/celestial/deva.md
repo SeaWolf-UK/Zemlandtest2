@@ -9,6 +9,7 @@ tags:
 aliases:
   - Deva
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deva
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*  
