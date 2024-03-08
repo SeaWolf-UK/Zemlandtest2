@@ -9,6 +9,7 @@ tags:
 aliases:
   - Radiant Idol
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Radiant Idol
 *Source: Eberron: Rising from the Last War p. 308*  
