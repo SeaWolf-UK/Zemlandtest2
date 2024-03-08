@@ -9,6 +9,7 @@ tags:
 aliases:
   - Galvan Magen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Galvan Magen
 *Source: Icewind Dale: Rime of the Frostmaiden p. 301*  
