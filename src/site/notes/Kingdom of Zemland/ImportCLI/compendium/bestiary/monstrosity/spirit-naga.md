@@ -10,6 +10,7 @@ tags:
 aliases:
   - Spirit Naga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spirit Naga
 *Source: Monster Manual p. 234, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
