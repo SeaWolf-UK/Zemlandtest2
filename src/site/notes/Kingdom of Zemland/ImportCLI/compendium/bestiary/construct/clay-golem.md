@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clay Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clay Golem
 *Source: Monster Manual p. 168, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
