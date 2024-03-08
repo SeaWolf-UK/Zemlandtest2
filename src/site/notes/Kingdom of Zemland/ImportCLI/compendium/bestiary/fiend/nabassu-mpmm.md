@@ -12,6 +12,7 @@ tags:
 aliases:
   - Nabassu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nabassu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  
