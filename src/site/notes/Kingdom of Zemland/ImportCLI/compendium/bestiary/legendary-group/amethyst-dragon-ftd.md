@@ -7,6 +7,7 @@ tags:
 aliases:
   - Amethyst Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amethyst Dragon
 
