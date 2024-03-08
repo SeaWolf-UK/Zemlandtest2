@@ -9,6 +9,7 @@ tags:
 aliases:
   - Screaming Devilkin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Screaming Devilkin
 *Source: Mordenkainen's Fiendish Folio p. 19*  
