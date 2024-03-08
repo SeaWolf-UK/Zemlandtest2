@@ -9,6 +9,7 @@ tags:
 aliases:
   - Beast of the Sky
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beast of the Sky
 *Source: Tasha's Cauldron of Everything p. 61*  
