@@ -12,6 +12,7 @@ tags:
 aliases:
   - Tanarukk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tanarukk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
