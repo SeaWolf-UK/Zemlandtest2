@@ -15,6 +15,7 @@ tags:
 aliases:
   - Blood Hawk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blood Hawk
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
