@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rahadin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rahadin
 *Source: Curse of Strahd p. 237*  
