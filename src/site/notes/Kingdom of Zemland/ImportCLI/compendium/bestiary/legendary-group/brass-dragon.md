@@ -7,6 +7,7 @@ tags:
 aliases:
   - Brass Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brass Dragon
 
