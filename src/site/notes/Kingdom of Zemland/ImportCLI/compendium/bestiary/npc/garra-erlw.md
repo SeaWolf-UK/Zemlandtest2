@@ -9,6 +9,7 @@ tags:
 aliases:
   - Garra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Garra
 *Source: Eberron: Rising from the Last War p. 272*  
