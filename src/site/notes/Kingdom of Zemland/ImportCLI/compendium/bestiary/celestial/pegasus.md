@@ -12,6 +12,7 @@ tags:
 aliases:
   - Pegasus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pegasus
 *Source: Monster Manual p. 250, Eberron: Rising from the Last War, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
