@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kalashtar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kalashtar
 *Source: Eberron: Rising from the Last War p. 317*  
