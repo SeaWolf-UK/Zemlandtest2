@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mishka Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mishka Belview
 *Source: Curse of Strahd p. 150*  
