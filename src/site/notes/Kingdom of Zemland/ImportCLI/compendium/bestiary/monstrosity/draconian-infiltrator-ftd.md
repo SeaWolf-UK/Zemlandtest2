@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconian Infiltrator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconian Infiltrator
 *Source: Fizban's Treasury of Dragons p. 178*  
