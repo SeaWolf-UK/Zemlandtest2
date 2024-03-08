@@ -11,6 +11,7 @@ tags:
 aliases:
   - Allip
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Allip
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*  
