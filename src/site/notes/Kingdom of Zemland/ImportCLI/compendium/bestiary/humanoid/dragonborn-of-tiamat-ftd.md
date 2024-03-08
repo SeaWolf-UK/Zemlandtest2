@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonborn of Tiamat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonborn of Tiamat
 *Source: Fizban's Treasury of Dragons p. 185*  
