@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Octopus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Octopus
 *Source: Monster Manual p. 326, The Rise of Tiamat, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
