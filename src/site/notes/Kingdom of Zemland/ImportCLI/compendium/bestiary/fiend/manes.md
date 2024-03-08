@@ -9,6 +9,7 @@ tags:
 aliases:
   - Manes
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Manes
 *Source: Monster Manual p. 60, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus*  
