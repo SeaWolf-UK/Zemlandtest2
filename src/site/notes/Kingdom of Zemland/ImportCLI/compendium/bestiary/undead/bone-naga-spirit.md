@@ -10,6 +10,7 @@ tags:
 aliases:
   - Bone Naga (Spirit)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bone Naga (Spirit)
 *Source: Monster Manual p. 233, Dragonlance: Shadow of the Dragon Queen*  
