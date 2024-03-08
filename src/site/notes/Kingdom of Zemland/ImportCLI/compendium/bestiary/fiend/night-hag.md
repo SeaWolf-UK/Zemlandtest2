@@ -9,6 +9,7 @@ tags:
 aliases:
   - Night Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Night Hag
 *Source: Monster Manual p. 178, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  
