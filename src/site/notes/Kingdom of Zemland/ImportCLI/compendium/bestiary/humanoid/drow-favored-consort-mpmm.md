@@ -11,6 +11,7 @@ tags:
 aliases:
   - Drow Favored Consort
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Favored Consort
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  
