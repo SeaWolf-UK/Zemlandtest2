@@ -12,6 +12,7 @@ tags:
 aliases:
   - Githzerai Enlightened
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githzerai Enlightened
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  
