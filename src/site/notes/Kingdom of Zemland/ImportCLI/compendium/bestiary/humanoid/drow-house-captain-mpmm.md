@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow House Captain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow House Captain
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  
