@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kender Skirmisher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kender Skirmisher
 *Source: Dragonlance: Shadow of the Dragon Queen p. 204*  
