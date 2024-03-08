@@ -9,6 +9,7 @@ tags:
 aliases:
   - Greater Death Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Greater Death Dragon
 *Source: Dragonlance: Shadow of the Dragon Queen p. 195*  
