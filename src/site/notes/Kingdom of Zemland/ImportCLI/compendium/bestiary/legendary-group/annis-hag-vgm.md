@@ -7,6 +7,7 @@ tags:
 aliases:
   - Annis Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Annis Hag
 
