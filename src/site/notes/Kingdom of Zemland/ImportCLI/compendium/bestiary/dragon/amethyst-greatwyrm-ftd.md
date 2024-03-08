@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amethyst Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amethyst Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 201*  
