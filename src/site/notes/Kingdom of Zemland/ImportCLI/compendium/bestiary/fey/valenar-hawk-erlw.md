@@ -9,6 +9,7 @@ tags:
 aliases:
   - Valenar Hawk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Valenar Hawk
 *Source: Eberron: Rising from the Last War p. 312*  
