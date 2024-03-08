@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fomorian Deep Crawler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fomorian Deep Crawler
 *Source: Bigby Presents: Glory of the Giants p. 142*  
