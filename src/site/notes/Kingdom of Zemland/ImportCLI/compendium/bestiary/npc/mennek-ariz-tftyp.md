@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mennek Ariz
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mennek Ariz
 *Source: Tales from the Yawning Portal p. 157*  
