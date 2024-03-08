@@ -11,6 +11,7 @@ tags:
 aliases:
   - Necromancer Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Necromancer Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*  
