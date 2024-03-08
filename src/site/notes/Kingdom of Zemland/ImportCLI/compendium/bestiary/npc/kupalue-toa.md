@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kupalué
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kupalué
 *Source: Tomb of Annihilation p. 35*  
