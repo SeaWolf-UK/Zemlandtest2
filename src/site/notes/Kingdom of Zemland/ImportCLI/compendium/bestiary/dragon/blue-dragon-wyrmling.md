@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blue Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blue Dragon Wyrmling
 *Source: Monster Manual p. 91, Mythic Odysseys of Theros. Available in the SRD.*  
