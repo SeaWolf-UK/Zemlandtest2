@@ -9,6 +9,7 @@ tags:
 aliases:
   - Durnn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Durnn
 *Source: Tales from the Yawning Portal p. 25*  
