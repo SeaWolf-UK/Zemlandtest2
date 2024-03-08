@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Green Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Green Dragon
 *Source: Monster Manual p. 94, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
