@@ -10,6 +10,7 @@ tags:
 aliases:
   - Faerie Dragon (Yellow)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Faerie Dragon (Yellow)
 *Source: Monster Manual p. 133*  
