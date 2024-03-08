@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stone Giant Rockspeaker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Giant Rockspeaker
 *Source: Bigby Presents: Glory of the Giants p. 180*  
