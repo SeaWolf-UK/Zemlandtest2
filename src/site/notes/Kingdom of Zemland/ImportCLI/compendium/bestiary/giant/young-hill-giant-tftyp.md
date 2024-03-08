@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Hill Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Hill Giant
 *Source: Tales from the Yawning Portal p. 167*  
