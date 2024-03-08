@@ -9,6 +9,7 @@ tags:
 aliases:
   - Forlarren
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Forlarren
 *Source: Mordenkainen's Fiendish Folio p. 9*  
