@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drider
 *Source: Monster Manual p. 120. Available in the SRD.*  
