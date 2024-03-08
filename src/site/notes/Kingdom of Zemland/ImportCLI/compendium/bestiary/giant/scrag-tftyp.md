@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scrag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scrag
 *Source: Tales from the Yawning Portal p. 147*  
