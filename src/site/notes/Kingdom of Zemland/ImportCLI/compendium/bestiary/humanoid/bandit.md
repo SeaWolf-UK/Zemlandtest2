@@ -15,6 +15,7 @@ tags:
 aliases:
   - Bandit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bandit
 *Source: Monster Manual p. 343, Hoard of the Dragon Queen, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
