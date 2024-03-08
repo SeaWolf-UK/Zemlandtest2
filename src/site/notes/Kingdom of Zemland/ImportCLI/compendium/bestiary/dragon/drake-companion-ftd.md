@@ -9,6 +9,7 @@ tags:
 aliases:
   - Drake Companion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drake Companion
 *Source: Fizban's Treasury of Dragons p. 15*  
