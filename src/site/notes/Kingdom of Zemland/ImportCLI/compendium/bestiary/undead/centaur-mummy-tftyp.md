@@ -9,6 +9,7 @@ tags:
 aliases:
   - Centaur Mummy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Centaur Mummy
 *Source: Tales from the Yawning Portal p. 231*  
