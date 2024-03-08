@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zhanthi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zhanthi
 *Source: Tomb of Annihilation p. 27*  
