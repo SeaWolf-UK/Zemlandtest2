@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yuan-ti Anathema
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Anathema
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*  
