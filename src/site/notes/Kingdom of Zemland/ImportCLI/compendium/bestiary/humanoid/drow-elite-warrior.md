@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow Elite Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Elite Warrior
 *Source: Monster Manual p. 128, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
