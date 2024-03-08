@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hengar Aesnvaard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hengar Aesnvaard
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  
