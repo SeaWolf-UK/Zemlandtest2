@@ -9,6 +9,7 @@ tags:
 aliases:
   - Larva (DMG)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Larva (DMG)
 *Source: Dungeon Master's Guide p. 63, Baldur's Gate: Descent Into Avernus*  
