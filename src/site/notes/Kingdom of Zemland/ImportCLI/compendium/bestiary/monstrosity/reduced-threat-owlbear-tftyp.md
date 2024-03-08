@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Owlbear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Owlbear
 *Source: Tales from the Yawning Portal p. 113*  
