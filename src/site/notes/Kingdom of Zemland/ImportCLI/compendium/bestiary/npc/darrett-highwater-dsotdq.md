@@ -9,6 +9,7 @@ tags:
 aliases:
   - Darrett Highwater
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Darrett Highwater
 *Source: Dragonlance: Shadow of the Dragon Queen p. 59*  
