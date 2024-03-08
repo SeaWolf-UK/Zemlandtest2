@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flying Monkey
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flying Monkey
 *Source: Tomb of Annihilation p. 220*  
