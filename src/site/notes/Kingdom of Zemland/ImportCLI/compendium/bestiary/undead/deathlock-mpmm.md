@@ -10,6 +10,7 @@ tags:
 aliases:
   - Deathlock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deathlock
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
