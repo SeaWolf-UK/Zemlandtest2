@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gorvan Ironheart
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gorvan Ironheart
 *Source: Tales from the Yawning Portal p. 151*  
