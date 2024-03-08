@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lesser Mummy Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lesser Mummy Lord
 *Source: Tales from the Yawning Portal p. 224*  
