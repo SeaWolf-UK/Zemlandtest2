@@ -10,6 +10,7 @@ tags:
 aliases:
   - Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skeleton
 *Source: Monster Manual p. 272, Curse of Strahd, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
