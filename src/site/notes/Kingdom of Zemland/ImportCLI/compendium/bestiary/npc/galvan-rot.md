@@ -9,6 +9,7 @@ tags:
 aliases:
   - Galvan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Galvan
 *Source: The Rise of Tiamat p. 9*  
