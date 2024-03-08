@@ -18,6 +18,7 @@ tags:
 aliases:
   - Druid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Druid
 *Source: Monster Manual p. 346, Curse of Strahd, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
