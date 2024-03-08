@@ -11,6 +11,7 @@ tags:
 aliases:
   - Jackal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jackal
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
