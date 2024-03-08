@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spiked Tomb Guardian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spiked Tomb Guardian
 *Source: Tomb of Annihilation p. 154*  
