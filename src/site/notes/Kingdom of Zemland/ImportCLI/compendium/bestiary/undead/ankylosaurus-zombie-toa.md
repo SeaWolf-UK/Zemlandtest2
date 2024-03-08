@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ankylosaurus Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ankylosaurus Zombie
 *Source: Tomb of Annihilation p. 240*  
