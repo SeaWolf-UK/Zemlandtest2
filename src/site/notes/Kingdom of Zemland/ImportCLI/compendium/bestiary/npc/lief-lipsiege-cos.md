@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lief Lipsiege
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lief Lipsiege
 *Source: Curse of Strahd p. 62*  
