@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Frost Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Frost Giant
 *Source: Tales from the Yawning Portal p. 187*  
