@@ -10,6 +10,7 @@ tags:
 aliases:
   - Tortle Druid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tortle Druid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
