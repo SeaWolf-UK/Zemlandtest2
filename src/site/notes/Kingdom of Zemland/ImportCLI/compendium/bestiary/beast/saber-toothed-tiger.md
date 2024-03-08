@@ -11,6 +11,7 @@ tags:
 aliases:
   - Saber-Toothed Tiger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Saber-Toothed Tiger
 *Source: Monster Manual p. 336, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd. Available in the SRD and the Basic Rules.*  
