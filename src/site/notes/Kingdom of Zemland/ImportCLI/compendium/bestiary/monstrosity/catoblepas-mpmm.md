@@ -10,6 +10,7 @@ tags:
 aliases:
   - Catoblepas
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Catoblepas
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  
