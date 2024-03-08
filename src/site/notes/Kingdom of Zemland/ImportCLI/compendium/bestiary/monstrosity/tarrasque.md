@@ -10,6 +10,7 @@ tags:
 aliases:
   - Tarrasque
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tarrasque
 *Source: Monster Manual p. 286, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  
