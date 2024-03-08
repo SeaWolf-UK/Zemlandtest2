@@ -11,6 +11,7 @@ tags:
 aliases:
   - Banshee
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Banshee
 *Source: Monster Manual p. 23, Curse of Strahd, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
