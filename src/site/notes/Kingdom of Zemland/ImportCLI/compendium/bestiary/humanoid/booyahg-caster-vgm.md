@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Caster
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Caster
 *Source: Volo's Guide to Monsters p. 42*  
