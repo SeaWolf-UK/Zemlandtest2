@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonsoul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonsoul
 *Source: The Rise of Tiamat p. 89*  
