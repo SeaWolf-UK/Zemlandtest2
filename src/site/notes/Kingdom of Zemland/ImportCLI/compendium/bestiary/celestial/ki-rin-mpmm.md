@@ -13,6 +13,7 @@ tags:
 aliases:
   - Ki-rin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ki-rin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
