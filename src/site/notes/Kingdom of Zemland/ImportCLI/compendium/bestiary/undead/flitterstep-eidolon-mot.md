@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flitterstep Eidolon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flitterstep Eidolon
 *Source: Mythic Odysseys of Theros p. 222*  
