@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Guard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Guard
 *Source: Curse of Strahd p. 28*  
