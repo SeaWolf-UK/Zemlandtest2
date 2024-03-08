@@ -10,6 +10,7 @@ tags:
 aliases:
   - Roper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Roper
 *Source: Monster Manual p. 261, Hoard of the Dragon Queen, Tales from the Yawning Portal. Available in the SRD.*  
