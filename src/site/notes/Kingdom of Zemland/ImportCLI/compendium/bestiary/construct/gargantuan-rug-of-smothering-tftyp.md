@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gargantuan Rug of Smothering
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gargantuan Rug of Smothering
 *Source: Tales from the Yawning Portal p. 56*  
