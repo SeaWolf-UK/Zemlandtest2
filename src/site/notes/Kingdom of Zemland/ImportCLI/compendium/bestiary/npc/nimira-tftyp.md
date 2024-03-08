@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nimira
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nimira
 *Source: Tales from the Yawning Portal p. 54*  
