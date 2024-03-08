@@ -13,6 +13,7 @@ tags:
 aliases:
   - Goblin Boss
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goblin Boss
 *Source: Monster Manual p. 166, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
