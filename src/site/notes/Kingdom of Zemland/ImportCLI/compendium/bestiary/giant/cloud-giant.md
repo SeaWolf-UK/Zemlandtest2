@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cloud Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cloud Giant
 *Source: Monster Manual p. 154, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
