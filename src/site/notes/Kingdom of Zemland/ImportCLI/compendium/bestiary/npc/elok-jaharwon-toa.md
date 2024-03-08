@@ -10,6 +10,7 @@ tags:
 aliases:
   - Elok Jaharwon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elok Jaharwon
 *Source: Tomb of Annihilation p. 67*  
