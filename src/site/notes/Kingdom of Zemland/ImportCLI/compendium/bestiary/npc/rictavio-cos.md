@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rictavio
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rictavio
 *Source: Curse of Strahd p. 238*  
