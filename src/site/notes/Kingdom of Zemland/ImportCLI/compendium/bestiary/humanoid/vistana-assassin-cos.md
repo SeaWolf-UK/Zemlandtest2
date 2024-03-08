@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Assassin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Assassin
 *Source: Curse of Strahd p. 28*  
