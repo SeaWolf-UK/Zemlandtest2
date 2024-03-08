@@ -9,6 +9,7 @@ tags:
 aliases:
   - Helmed Horror
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Helmed Horror
 *Source: Monster Manual p. 183, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
