@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tempest Spirit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tempest Spirit
 *Source: Bigby Presents: Glory of the Giants p. 184*  
