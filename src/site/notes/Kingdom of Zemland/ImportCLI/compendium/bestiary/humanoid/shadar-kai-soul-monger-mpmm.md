@@ -11,6 +11,7 @@ tags:
 aliases:
   - Shadar-kai Soul Monger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadar-kai Soul Monger
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  
