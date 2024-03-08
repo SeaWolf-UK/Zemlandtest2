@@ -9,6 +9,7 @@ tags:
 aliases:
   - Necromite of Myrkul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Necromite of Myrkul
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
