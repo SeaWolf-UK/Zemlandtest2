@@ -11,6 +11,7 @@ tags:
 aliases:
   - Leviathan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Leviathan
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  
