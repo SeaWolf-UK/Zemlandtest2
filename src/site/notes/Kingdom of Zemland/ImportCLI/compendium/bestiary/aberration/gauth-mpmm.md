@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gauth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gauth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
