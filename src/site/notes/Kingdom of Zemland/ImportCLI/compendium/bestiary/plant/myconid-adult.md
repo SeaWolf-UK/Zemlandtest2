@@ -10,6 +10,7 @@ tags:
 aliases:
   - Myconid Adult
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Myconid Adult
 *Source: Monster Manual p. 232*  
