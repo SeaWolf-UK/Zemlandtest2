@@ -9,6 +9,7 @@ tags:
 aliases:
   - Erinyes
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Erinyes
 *Source: Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
