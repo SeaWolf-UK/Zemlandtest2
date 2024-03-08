@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lich
 *Source: Monster Manual p. 202, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  
