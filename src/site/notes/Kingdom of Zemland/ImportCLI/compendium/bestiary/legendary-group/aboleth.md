@@ -7,6 +7,7 @@ tags:
 aliases:
   - Aboleth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aboleth
 
