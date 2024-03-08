@@ -9,6 +9,7 @@ tags:
 aliases:
   - Echo of Demogorgon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Echo of Demogorgon
 *Source: Bigby Presents: Glory of the Giants p. 132*  
