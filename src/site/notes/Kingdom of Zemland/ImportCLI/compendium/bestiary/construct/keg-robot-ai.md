@@ -9,6 +9,7 @@ tags:
 aliases:
   - Keg Robot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Keg Robot
 *Source: Acquisitions Incorporated p. 212*  
