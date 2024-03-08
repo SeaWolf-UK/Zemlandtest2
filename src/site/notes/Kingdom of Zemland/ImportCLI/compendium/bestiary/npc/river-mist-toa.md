@@ -9,6 +9,7 @@ tags:
 aliases:
   - River Mist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # River Mist
 *Source: Tomb of Annihilation p. 35*  
