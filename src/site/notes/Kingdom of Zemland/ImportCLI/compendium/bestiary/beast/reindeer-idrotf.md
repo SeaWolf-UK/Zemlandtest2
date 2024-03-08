@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reindeer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reindeer
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  
