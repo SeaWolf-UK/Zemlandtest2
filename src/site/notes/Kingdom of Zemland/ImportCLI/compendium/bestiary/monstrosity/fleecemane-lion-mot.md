@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fleecemane Lion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fleecemane Lion
 *Source: Mythic Odysseys of Theros p. 223*  
