@@ -11,6 +11,7 @@ tags:
 aliases:
   - Giant Vulture
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Vulture
 *Source: Monster Manual p. 329, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
