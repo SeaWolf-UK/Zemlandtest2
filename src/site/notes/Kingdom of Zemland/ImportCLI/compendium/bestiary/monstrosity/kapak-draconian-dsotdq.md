@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kapak Draconian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kapak Draconian
 *Source: Dragonlance: Shadow of the Dragon Queen p. 198*  
