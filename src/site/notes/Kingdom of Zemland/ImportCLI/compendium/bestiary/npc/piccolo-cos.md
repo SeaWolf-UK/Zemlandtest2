@@ -9,6 +9,7 @@ tags:
 aliases:
   - Piccolo
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Piccolo
 *Source: Curse of Strahd p. 118*  
