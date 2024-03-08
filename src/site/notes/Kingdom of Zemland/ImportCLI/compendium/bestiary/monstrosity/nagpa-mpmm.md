@@ -15,6 +15,7 @@ tags:
 aliases:
   - Nagpa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nagpa
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
