@@ -10,6 +10,7 @@ tags:
 aliases:
   - Martial Arts Adept
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Martial Arts Adept
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
