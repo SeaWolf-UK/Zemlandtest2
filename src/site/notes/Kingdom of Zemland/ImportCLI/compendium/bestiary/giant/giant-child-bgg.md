@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Child
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Child
 *Source: Bigby Presents: Glory of the Giants p. 34*  
