@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nundro Rockseeker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nundro Rockseeker
 *Source: Lost Mine of Phandelver p. 50*  
