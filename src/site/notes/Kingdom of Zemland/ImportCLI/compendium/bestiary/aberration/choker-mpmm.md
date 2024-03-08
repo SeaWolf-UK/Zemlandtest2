@@ -12,6 +12,7 @@ tags:
 aliases:
   - Choker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Choker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
