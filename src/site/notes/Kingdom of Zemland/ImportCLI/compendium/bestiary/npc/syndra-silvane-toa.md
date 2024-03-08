@@ -9,6 +9,7 @@ tags:
 aliases:
   - Syndra Silvane
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Syndra Silvane
 *Source: Tomb of Annihilation p. 8*  
