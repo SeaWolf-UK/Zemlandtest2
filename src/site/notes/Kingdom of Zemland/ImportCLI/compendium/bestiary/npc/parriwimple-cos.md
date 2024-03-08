@@ -9,6 +9,7 @@ tags:
 aliases:
   - Parriwimple
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Parriwimple
 *Source: Curse of Strahd p. 43*  
