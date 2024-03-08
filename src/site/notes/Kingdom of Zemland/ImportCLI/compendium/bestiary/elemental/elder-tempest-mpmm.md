@@ -14,6 +14,7 @@ tags:
 aliases:
   - Elder Tempest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Tempest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  
