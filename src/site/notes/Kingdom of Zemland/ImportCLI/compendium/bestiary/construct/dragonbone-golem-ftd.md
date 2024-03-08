@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonbone Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonbone Golem
 *Source: Fizban's Treasury of Dragons p. 183*  
