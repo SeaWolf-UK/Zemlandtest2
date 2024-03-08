@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hezrou
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hezrou
 *Source: Monster Manual p. 60, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
