@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hellwasp
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hellwasp
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  
