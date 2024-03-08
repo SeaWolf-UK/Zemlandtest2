@@ -9,6 +9,7 @@ tags:
 aliases:
   - Firbolg Primeval Warden
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Firbolg Primeval Warden
 *Source: Bigby Presents: Glory of the Giants p. 136*  
