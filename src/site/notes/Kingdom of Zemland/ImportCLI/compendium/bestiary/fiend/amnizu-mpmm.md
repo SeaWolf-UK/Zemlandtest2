@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amnizu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amnizu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  
