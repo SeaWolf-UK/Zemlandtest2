@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lady Lydia Petrovna
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lady Lydia Petrovna
 *Source: Curse of Strahd p. 105*  
