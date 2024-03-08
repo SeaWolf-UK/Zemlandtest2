@@ -10,6 +10,7 @@ tags:
 aliases:
   - Crab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crab
 *Source: Monster Manual p. 320, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
