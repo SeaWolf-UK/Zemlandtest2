@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ludmilla Vilisevic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ludmilla Vilisevic
 *Source: Curse of Strahd p. 93*  
