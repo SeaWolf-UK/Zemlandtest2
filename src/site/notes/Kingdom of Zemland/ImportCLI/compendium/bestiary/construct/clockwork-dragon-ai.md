@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clockwork Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clockwork Dragon
 *Source: Acquisitions Incorporated p. 209*  
