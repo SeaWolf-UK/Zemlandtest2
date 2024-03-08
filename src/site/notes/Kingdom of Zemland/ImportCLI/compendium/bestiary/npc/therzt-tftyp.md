@@ -10,6 +10,7 @@ tags:
 aliases:
   - Therzt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Therzt
 *Source: Tales from the Yawning Portal p. 158*  
