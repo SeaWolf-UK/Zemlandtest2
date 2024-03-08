@@ -13,6 +13,7 @@ tags:
 aliases:
   - Storm Giant Quintessent
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Storm Giant Quintessent
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
