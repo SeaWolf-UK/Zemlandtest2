@@ -9,6 +9,7 @@ tags:
 aliases:
   - Huge Ochre Jelly
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Huge Ochre Jelly
 *Source: Tales from the Yawning Portal p. 225*  
