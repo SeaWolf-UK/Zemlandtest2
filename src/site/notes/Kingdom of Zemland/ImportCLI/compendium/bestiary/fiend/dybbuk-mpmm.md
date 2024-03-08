@@ -11,6 +11,7 @@ tags:
 aliases:
   - Dybbuk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dybbuk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  
