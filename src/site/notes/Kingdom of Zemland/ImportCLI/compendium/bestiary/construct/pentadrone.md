@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pentadrone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pentadrone
 *Source: Monster Manual p. 226, Tomb of Annihilation*  
