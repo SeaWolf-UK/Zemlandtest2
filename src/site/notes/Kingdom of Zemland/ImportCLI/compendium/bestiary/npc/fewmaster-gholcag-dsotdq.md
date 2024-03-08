@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fewmaster Gholcag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fewmaster Gholcag
 *Source: Dragonlance: Shadow of the Dragon Queen p. 74*  
