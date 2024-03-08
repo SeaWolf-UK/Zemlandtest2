@@ -16,6 +16,7 @@ tags:
 aliases:
   - Swarm of Spiders
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Spiders
 *Source: Monster Manual p. 338, Curse of Strahd, Mythic Odysseys of Theros. Available in the SRD.*  
