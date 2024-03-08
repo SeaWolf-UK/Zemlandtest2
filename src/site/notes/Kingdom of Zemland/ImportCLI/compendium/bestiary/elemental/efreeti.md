@@ -10,6 +10,7 @@ tags:
 aliases:
   - Efreeti
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Efreeti
 *Source: Monster Manual p. 145, The Rise of Tiamat, Tales from the Yawning Portal, Tasha's Cauldron of Everything. Available in the SRD.*  
