@@ -9,6 +9,7 @@ tags:
 aliases:
   - Killmoulis
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Killmoulis
 *Source: Mordenkainen's Fiendish Folio p. 13*  
