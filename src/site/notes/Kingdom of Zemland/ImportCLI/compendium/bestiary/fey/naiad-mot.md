@@ -9,6 +9,7 @@ tags:
 aliases:
   - Naiad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Naiad
 *Source: Mythic Odysseys of Theros p. 236*  
