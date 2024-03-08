@@ -9,6 +9,7 @@ tags:
 aliases:
   - Huge Polar Bear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Huge Polar Bear
 *Source: Tales from the Yawning Portal p. 187*  
