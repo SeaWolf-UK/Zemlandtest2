@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reghed Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reghed Warrior
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  
