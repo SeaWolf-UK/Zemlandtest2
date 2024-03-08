@@ -10,6 +10,7 @@ tags:
 aliases:
   - Bheur Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bheur Hag
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
