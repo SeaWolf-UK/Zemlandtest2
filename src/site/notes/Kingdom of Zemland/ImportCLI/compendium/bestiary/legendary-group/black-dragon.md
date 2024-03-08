@@ -7,6 +7,7 @@ tags:
 aliases:
   - Black Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Dragon
 
