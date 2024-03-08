@@ -10,6 +10,7 @@ tags:
 aliases:
   - Yochlol
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yochlol
 *Source: Monster Manual p. 65*  
