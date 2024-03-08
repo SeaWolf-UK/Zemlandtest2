@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zuggtmoy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zuggtmoy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  
