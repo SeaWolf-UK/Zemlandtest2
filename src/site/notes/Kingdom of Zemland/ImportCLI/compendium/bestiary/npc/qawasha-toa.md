@@ -9,6 +9,7 @@ tags:
 aliases:
   - Qawasha
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Qawasha
 *Source: Tomb of Annihilation p. 35*  
