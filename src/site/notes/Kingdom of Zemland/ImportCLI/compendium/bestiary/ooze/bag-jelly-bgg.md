@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bag Jelly
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bag Jelly
 *Source: Bigby Presents: Glory of the Giants p. 120*  
