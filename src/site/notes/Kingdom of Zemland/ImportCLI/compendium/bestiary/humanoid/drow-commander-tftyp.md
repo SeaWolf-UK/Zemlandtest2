@@ -9,6 +9,7 @@ tags:
 aliases:
   - Drow Commander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Commander
 *Source: Tales from the Yawning Portal p. 209*  
