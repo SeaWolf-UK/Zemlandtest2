@@ -10,6 +10,7 @@ tags:
 aliases:
   - Dao
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dao
 *Source: Monster Manual p. 143, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything*  
