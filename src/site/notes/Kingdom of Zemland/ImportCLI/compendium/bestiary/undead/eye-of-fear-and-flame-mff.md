@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eye of Fear and Flame
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eye of Fear and Flame
 *Source: Mordenkainen's Fiendish Folio p. 8*  
