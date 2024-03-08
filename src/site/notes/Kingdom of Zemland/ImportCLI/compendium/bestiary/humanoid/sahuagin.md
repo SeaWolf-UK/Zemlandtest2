@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sahuagin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sahuagin
 *Source: Monster Manual p. 263, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
