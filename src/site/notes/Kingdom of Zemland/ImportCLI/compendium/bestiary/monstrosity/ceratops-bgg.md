@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ceratops
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ceratops
 *Source: Bigby Presents: Glory of the Giants p. 129*  
