@@ -9,6 +9,7 @@ tags:
 aliases:
   - Satyr Reveler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Satyr Reveler
 *Source: Mythic Odysseys of Theros p. 242*  
