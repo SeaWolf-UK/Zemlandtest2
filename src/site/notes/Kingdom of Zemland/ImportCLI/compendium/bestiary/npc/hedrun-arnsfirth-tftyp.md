@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hedrun Arnsfirth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hedrun Arnsfirth
 *Source: Tales from the Yawning Portal p. 160*  
