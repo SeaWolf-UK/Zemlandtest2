@@ -9,6 +9,7 @@ tags:
 aliases:
   - Red Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Red Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 168*  
