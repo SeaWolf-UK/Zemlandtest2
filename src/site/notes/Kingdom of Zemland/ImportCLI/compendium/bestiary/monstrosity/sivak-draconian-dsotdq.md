@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sivak Draconian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sivak Draconian
 *Source: Dragonlance: Shadow of the Dragon Queen p. 199*  
