@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cow
 *Source: Volo's Guide to Monsters p. 207*  
