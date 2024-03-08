@@ -7,6 +7,7 @@ tags:
 aliases:
   - Beholder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beholder
 
