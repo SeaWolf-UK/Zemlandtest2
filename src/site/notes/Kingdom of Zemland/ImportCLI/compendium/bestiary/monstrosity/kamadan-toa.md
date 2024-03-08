@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kamadan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kamadan
 *Source: Tomb of Annihilation p. 225*  
