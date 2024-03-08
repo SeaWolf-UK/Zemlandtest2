@@ -9,6 +9,7 @@ tags:
 aliases:
   - Portentia Dran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Portentia Dran
 *Source: Acquisitions Incorporated p. 208*  
