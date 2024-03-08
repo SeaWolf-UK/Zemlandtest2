@@ -12,6 +12,7 @@ tags:
 aliases:
   - Hobgoblin Devastator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hobgoblin Devastator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
