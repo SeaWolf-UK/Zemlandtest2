@@ -9,6 +9,7 @@ tags:
 aliases:
   - Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Soldier
 *Source: Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros*  
