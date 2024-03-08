@@ -9,6 +9,7 @@ tags:
 aliases:
   - Broken King Antigonos
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Broken King Antigonos
 *Source: Mythic Odysseys of Theros p. 189*  
