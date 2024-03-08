@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient Green Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Green Dragon
 *Source: Monster Manual p. 93. Available in the SRD.*  
