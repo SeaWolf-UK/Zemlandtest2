@@ -10,6 +10,7 @@ tags:
 aliases:
   - Fire Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Snake
 *Source: Monster Manual p. 265, Tales from the Yawning Portal, Tomb of Annihilation*  
