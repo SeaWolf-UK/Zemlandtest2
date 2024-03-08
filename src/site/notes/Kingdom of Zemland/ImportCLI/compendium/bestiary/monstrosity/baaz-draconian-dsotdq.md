@@ -9,6 +9,7 @@ tags:
 aliases:
   - Baaz Draconian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baaz Draconian
 *Source: Dragonlance: Shadow of the Dragon Queen p. 197*  
