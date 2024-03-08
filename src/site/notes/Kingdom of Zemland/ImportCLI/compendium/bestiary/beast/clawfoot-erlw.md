@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clawfoot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clawfoot
 *Source: Eberron: Rising from the Last War p. 289*  
