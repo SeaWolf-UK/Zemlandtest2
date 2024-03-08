@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blue Slaad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blue Slaad
 *Source: Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden*  
