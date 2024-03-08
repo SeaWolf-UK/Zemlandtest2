@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonwing
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonwing
 *Source: Hoard of the Dragon Queen p. 90, The Rise of Tiamat p. 89*  
