@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bone Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bone Devil
 *Source: Monster Manual p. 71, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
