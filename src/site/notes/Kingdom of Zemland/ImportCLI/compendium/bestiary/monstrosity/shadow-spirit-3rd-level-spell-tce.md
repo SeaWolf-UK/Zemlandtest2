@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shadow Spirit (3rd-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadow Spirit (3rd-level Spell)
 *Source: Tasha's Cauldron of Everything p. 114*  
