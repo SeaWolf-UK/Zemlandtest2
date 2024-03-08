@@ -10,6 +10,7 @@ tags:
 aliases:
   - Thug
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thug
 *Source: Monster Manual p. 350, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Curse of Strahd. Available in the SRD and the Basic Rules.*  
