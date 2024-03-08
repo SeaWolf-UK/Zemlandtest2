@@ -12,6 +12,7 @@ tags:
 aliases:
   - Stone Cursed
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Cursed
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  
