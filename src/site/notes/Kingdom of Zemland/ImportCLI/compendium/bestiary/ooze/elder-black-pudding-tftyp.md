@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elder Black Pudding
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Black Pudding
 *Source: Tales from the Yawning Portal p. 143*  
