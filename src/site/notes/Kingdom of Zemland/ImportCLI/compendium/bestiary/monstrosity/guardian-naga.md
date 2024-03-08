@@ -11,6 +11,7 @@ tags:
 aliases:
   - Guardian Naga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Guardian Naga
 *Source: Monster Manual p. 234, Tomb of Annihilation. Available in the SRD.*  
