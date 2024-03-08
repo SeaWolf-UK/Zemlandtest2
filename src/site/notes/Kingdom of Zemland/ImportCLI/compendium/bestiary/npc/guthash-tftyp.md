@@ -9,6 +9,7 @@ tags:
 aliases:
   - Guthash
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Guthash
 *Source: Tales from the Yawning Portal p. 21*  
