@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Black Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Black Dragon
 *Source: Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
