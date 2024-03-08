@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lonelywood Banshee
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lonelywood Banshee
 *Source: Icewind Dale: Rime of the Frostmaiden p. 81*  
