@@ -9,6 +9,7 @@ tags:
 aliases:
   - Su-monster
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Su-monster
 *Source: Tomb of Annihilation p. 232*  
