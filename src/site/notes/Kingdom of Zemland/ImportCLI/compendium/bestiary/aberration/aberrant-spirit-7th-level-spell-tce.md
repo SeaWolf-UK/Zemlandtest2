@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aberrant Spirit (7th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aberrant Spirit (7th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 109*  
