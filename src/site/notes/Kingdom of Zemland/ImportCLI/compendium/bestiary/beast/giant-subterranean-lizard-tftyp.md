@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Subterranean Lizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Subterranean Lizard
 *Source: Tales from the Yawning Portal p. 236*  
