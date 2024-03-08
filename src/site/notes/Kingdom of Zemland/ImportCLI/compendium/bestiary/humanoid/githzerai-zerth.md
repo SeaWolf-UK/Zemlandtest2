@@ -9,6 +9,7 @@ tags:
 aliases:
   - Githzerai Zerth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githzerai Zerth
 *Source: Monster Manual p. 161*  
