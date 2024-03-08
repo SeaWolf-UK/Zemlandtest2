@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stone Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Golem
 *Source: Monster Manual p. 170, Hoard of the Dragon Queen, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Curse of Strahd, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
