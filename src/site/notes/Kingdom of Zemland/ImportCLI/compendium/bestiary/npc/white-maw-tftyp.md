@@ -9,6 +9,7 @@ tags:
 aliases:
   - White Maw
 dg-publish: "true"
+DG-publish: "True"
 ---
 # White Maw
 *Source: Tales from the Yawning Portal p. 248*  
