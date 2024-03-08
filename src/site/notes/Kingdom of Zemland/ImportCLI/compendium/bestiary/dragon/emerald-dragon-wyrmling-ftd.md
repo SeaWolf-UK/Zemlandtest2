@@ -9,6 +9,7 @@ tags:
 aliases:
   - Emerald Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Emerald Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 197*  
