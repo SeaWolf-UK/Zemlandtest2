@@ -10,6 +10,7 @@ tags:
 aliases:
   - Camel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Camel
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
