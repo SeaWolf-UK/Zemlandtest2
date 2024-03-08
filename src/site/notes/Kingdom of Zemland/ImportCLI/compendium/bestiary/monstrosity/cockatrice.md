@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cockatrice
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cockatrice
 *Source: Monster Manual p. 42, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
