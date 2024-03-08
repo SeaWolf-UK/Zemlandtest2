@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barovian Scout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barovian Scout
 *Source: Curse of Strahd p. 29*  
