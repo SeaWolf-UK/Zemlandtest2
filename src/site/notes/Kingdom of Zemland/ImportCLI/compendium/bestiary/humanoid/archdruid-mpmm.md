@@ -13,6 +13,7 @@ tags:
 aliases:
   - Archdruid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Archdruid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*  
