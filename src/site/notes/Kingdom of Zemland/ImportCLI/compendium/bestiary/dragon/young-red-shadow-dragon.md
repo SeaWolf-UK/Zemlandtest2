@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Red Shadow Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Red Shadow Dragon
 *Source: Monster Manual p. 85*  
