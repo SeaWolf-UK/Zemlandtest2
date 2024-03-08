@@ -9,6 +9,7 @@ tags:
 aliases:
   - Marut
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Marut
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  
