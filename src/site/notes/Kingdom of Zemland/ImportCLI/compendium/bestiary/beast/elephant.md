@@ -10,6 +10,7 @@ tags:
 aliases:
   - Elephant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elephant
 *Source: Monster Manual p. 322, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
