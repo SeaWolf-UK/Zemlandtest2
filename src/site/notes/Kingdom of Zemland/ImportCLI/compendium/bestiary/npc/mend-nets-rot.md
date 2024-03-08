@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mend-nets
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mend-nets
 *Source: The Rise of Tiamat p. 32*  
