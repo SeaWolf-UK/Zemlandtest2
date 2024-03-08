@@ -10,6 +10,7 @@ tags:
 aliases:
   - Hook Horror
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hook Horror
 *Source: Monster Manual p. 189, Tales from the Yawning Portal*  
