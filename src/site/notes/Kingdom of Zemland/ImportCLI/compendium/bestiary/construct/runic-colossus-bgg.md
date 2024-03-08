@@ -9,6 +9,7 @@ tags:
 aliases:
   - Runic Colossus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Runic Colossus
 *Source: Bigby Presents: Glory of the Giants p. 163*  
