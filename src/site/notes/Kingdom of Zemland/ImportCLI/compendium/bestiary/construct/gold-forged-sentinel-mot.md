@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gold-Forged Sentinel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gold-Forged Sentinel
 *Source: Mythic Odysseys of Theros p. 211*  
