@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fire Hellion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Hellion
 *Source: Bigby Presents: Glory of the Giants p. 140*  
