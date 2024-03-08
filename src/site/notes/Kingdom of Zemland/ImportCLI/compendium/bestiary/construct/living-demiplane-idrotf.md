@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Demiplane
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Demiplane
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  
