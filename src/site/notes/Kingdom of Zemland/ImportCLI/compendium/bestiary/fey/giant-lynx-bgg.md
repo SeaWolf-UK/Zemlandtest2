@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Lynx
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Lynx
 *Source: Bigby Presents: Glory of the Giants p. 151*  
