@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gold Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gold Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 208*  
