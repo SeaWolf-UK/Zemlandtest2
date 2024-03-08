@@ -13,6 +13,7 @@ tags:
 aliases:
   - Shoosuva
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shoosuva
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
