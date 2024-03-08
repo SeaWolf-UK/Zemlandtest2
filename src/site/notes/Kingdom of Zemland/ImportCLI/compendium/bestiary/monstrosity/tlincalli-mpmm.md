@@ -10,6 +10,7 @@ tags:
 aliases:
   - Tlincalli
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tlincalli
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
