@@ -9,6 +9,7 @@ tags:
 aliases:
   - Torogar Steelfist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Torogar Steelfist
 *Source: Baldur's Gate: Descent Into Avernus p. 112*  
