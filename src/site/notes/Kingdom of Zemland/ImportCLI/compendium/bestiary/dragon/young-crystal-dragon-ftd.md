@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Crystal Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Crystal Dragon
 *Source: Fizban's Treasury of Dragons p. 172*  
