@@ -9,6 +9,7 @@ tags:
 aliases:
   - Musharib
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Musharib
 *Source: Tomb of Annihilation p. 34*  
