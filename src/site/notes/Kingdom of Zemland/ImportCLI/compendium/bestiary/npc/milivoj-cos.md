@@ -9,6 +9,7 @@ tags:
 aliases:
   - Milivoj
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Milivoj
 *Source: Curse of Strahd p. 97*  
