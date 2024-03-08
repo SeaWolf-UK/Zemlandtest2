@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nezznar the Black Spider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nezznar the Black Spider
 *Source: Lost Mine of Phandelver p. 59*  
