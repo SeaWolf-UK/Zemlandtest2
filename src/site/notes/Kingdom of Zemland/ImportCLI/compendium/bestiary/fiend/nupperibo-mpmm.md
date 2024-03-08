@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nupperibo
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nupperibo
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
