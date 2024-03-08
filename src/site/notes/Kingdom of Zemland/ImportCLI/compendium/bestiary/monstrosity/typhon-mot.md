@@ -9,6 +9,7 @@ tags:
 aliases:
   - Typhon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Typhon
 *Source: Mythic Odysseys of Theros p. 246*  
