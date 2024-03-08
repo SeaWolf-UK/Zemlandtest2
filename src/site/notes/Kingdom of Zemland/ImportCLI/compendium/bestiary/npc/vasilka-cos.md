@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vasilka
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vasilka
 *Source: Curse of Strahd p. 151*  
