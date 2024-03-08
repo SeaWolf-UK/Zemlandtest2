@@ -10,6 +10,7 @@ tags:
 aliases:
   - Grung Elite Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grung Elite Warrior
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
