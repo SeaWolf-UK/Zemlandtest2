@@ -9,6 +9,7 @@ tags:
 aliases:
   - Walnut Dankgrass
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Walnut Dankgrass
 *Source: Acquisitions Incorporated p. 204*  
