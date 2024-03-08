@@ -10,6 +10,7 @@ tags:
 aliases:
   - Deep Gnome (Svirfneblin)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Gnome (Svirfneblin)
 *Source: Monster Manual p. 164. Available in the SRD.*  
