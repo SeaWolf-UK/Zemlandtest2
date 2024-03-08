@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Wyvern
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Wyvern
 *Source: Tales from the Yawning Portal p. 113*  
