@@ -11,6 +11,7 @@ tags:
 aliases:
   - Annis Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Annis Hag
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*  
