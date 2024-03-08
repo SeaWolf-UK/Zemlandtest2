@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undead Tree
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undead Tree
 *Source: Baldur's Gate: Descent Into Avernus p. 109*  
