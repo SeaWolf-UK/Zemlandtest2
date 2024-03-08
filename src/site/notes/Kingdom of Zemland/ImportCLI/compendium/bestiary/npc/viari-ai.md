@@ -9,6 +9,7 @@ tags:
 aliases:
   - Viari
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Viari
 *Source: Acquisitions Incorporated p. 198*  
