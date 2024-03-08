@@ -10,6 +10,7 @@ tags:
 aliases:
   - Needle Blight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Needle Blight
 *Source: Monster Manual p. 32, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden*  
