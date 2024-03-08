@@ -9,6 +9,7 @@ tags:
 aliases:
   - Artus Cimber
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Artus Cimber
 *Source: Tomb of Annihilation p. 212*  
