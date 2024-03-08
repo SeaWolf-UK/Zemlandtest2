@@ -11,6 +11,7 @@ tags:
 aliases:
   - Grick Alpha
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grick Alpha
 *Source: Monster Manual p. 173, Dragonlance: Shadow of the Dragon Queen*  
