@@ -9,6 +9,7 @@ tags:
 aliases:
   - Magmin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Magmin
 *Source: Monster Manual p. 212, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
