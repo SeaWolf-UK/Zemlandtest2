@@ -9,6 +9,7 @@ tags:
 aliases:
   - Planetar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Planetar
 *Source: Monster Manual p. 17, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
