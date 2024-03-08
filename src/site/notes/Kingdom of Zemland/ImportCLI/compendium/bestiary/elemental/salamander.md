@@ -10,6 +10,7 @@ tags:
 aliases:
   - Salamander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Salamander
 *Source: Monster Manual p. 266, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
