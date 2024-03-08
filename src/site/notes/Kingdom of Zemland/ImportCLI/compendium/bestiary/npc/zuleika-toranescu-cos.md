@@ -10,6 +10,7 @@ tags:
 aliases:
   - Zuleika Toranescu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zuleika Toranescu
 *Source: Curse of Strahd p. 204*  
