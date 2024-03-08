@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kobold Elite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold Elite
 *Source: Tales from the Yawning Portal p. 18*  
