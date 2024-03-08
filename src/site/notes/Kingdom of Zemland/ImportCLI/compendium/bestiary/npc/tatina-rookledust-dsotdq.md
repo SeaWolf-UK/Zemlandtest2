@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tatina Rookledust
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tatina Rookledust
 *Source: Dragonlance: Shadow of the Dragon Queen p. 87*  
