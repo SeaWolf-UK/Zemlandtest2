@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Sea Serpent
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Sea Serpent
 *Source: Fizban's Treasury of Dragons p. 219*  
