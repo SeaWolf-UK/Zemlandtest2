@@ -11,6 +11,7 @@ tags:
 aliases:
   - Rat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rat
 *Source: Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
