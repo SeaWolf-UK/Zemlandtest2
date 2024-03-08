@@ -9,6 +9,7 @@ tags:
 aliases:
   - Exethanter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Exethanter
 *Source: Curse of Strahd p. 189*  
