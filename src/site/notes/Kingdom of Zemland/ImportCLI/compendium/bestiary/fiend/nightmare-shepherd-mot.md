@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nightmare Shepherd
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nightmare Shepherd
 *Source: Mythic Odysseys of Theros p. 221*  
