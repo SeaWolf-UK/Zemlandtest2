@@ -11,6 +11,7 @@ tags:
 aliases:
   - Owl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Owl
 *Source: Monster Manual p. 333, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
