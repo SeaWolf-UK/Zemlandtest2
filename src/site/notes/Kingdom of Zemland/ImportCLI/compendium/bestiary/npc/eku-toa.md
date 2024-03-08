@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eku
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eku
 *Source: Tomb of Annihilation p. 34*  
