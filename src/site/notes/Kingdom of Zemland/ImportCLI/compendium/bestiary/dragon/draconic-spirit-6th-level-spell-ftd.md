@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconic Spirit (6th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconic Spirit (6th-level Spell)
 *Source: Fizban's Treasury of Dragons p. 21*  
