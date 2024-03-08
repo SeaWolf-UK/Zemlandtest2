@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shield Guardian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shield Guardian
 *Source: Monster Manual p. 271, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
