@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Copper Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Copper Dragon
 *Source: Monster Manual p. 112. Available in the SRD.*  
