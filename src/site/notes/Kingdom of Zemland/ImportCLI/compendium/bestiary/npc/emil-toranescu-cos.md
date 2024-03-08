@@ -10,6 +10,7 @@ tags:
 aliases:
   - Emil Toranescu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Emil Toranescu
 *Source: Curse of Strahd p. 81*  
