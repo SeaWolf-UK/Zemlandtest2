@@ -9,6 +9,7 @@ tags:
 aliases:
   - Icewind Kobold
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Icewind Kobold
 *Source: Icewind Dale: Rime of the Frostmaiden p. 296*  
