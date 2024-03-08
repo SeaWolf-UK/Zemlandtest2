@@ -9,6 +9,7 @@ tags:
 aliases:
   - Xardorok Sunblight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xardorok Sunblight
 *Source: Icewind Dale: Rime of the Frostmaiden p. 287*  
