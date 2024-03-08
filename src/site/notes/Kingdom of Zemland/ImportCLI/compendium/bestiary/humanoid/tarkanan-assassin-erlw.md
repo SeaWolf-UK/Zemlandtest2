@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tarkanan Assassin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tarkanan Assassin
 *Source: Eberron: Rising from the Last War p. 320*  
