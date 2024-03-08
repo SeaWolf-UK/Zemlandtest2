@@ -9,6 +9,7 @@ tags:
 aliases:
   - Xill
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xill
 *Source: Mordenkainen's Fiendish Folio p. 21*  
