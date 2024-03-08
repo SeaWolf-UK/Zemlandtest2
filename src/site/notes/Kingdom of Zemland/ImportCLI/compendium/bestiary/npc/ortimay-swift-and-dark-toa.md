@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ortimay Swift and Dark
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ortimay Swift and Dark
 *Source: Tomb of Annihilation p. 21*  
