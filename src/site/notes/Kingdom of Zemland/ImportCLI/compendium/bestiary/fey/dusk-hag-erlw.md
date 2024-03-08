@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dusk Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dusk Hag
 *Source: Eberron: Rising from the Last War p. 292*  
