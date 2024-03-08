@@ -12,6 +12,7 @@ tags:
 aliases:
   - Stone Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Giant
 *Source: Monster Manual p. 156, Hoard of the Dragon Queen, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
