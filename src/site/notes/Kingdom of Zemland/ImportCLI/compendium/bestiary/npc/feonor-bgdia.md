@@ -9,6 +9,7 @@ tags:
 aliases:
   - Feonor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Feonor
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  
