@@ -9,6 +9,7 @@ tags:
 aliases:
   - Green Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 168*  
