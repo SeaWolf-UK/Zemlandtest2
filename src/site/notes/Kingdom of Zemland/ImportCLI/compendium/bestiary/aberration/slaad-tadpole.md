@@ -9,6 +9,7 @@ tags:
 aliases:
   - Slaad Tadpole
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Slaad Tadpole
 *Source: Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
