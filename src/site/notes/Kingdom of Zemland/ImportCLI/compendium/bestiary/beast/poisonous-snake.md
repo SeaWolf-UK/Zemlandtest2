@@ -15,6 +15,7 @@ tags:
 aliases:
   - Poisonous Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Poisonous Snake
 *Source: Monster Manual p. 334, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
