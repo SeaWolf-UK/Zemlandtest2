@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frost Druid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Druid
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  
