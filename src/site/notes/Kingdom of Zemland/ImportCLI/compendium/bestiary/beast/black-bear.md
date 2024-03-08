@@ -10,6 +10,7 @@ tags:
 aliases:
   - Black Bear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Bear
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
