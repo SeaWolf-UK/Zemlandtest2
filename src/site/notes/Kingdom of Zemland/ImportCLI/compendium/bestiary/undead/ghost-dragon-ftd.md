@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ghost Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ghost Dragon
 *Source: Fizban's Treasury of Dragons p. 203*  
