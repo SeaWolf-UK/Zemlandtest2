@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Scorpion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Scorpion
 *Source: Monster Manual p. 327, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
