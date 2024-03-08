@@ -9,6 +9,7 @@ tags:
 aliases:
   - Paper Whirlwind
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Paper Whirlwind
 *Source: The Rise of Tiamat p. 72*  
