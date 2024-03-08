@@ -9,6 +9,7 @@ tags:
 aliases:
   - Prisoner 237
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Prisoner 237
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  
