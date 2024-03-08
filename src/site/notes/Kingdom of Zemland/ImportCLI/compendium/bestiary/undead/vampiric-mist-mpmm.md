@@ -17,6 +17,7 @@ tags:
 aliases:
   - Vampiric Mist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vampiric Mist
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  
