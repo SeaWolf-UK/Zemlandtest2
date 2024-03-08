@@ -11,6 +11,7 @@ tags:
 aliases:
   - Drow Matron Mother
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Matron Mother
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*  
