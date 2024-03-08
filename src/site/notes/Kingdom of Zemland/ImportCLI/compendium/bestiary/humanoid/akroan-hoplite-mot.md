@@ -9,6 +9,7 @@ tags:
 aliases:
   - Akroan Hoplite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Akroan Hoplite
 *Source: Mythic Odysseys of Theros p. 228*  
