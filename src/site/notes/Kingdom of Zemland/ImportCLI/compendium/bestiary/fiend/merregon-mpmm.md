@@ -9,6 +9,7 @@ tags:
 aliases:
   - Merregon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Merregon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
