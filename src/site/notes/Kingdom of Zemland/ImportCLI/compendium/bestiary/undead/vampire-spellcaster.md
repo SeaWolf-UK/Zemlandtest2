@@ -10,6 +10,7 @@ tags:
 aliases:
   - Vampire Spellcaster
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vampire Spellcaster
 *Source: Monster Manual p. 298, The Rise of Tiamat*  
