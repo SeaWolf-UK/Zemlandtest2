@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aspect of Tiamat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aspect of Tiamat
 *Source: Fizban's Treasury of Dragons p. 166*  
