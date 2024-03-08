@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tyrannosaurus Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tyrannosaurus Zombie
 *Source: Tomb of Annihilation p. 241*  
