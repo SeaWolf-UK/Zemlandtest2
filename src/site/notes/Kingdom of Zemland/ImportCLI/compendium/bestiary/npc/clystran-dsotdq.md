@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clystran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clystran
 *Source: Dragonlance: Shadow of the Dragon Queen p. 126*  
