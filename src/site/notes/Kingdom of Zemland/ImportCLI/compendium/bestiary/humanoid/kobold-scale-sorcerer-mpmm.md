@@ -14,6 +14,7 @@ tags:
 aliases:
   - Kobold Scale Sorcerer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold Scale Sorcerer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*  
