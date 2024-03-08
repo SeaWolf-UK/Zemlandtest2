@@ -12,6 +12,7 @@ tags:
 aliases:
   - Worg
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Worg
 *Source: Monster Manual p. 341, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
