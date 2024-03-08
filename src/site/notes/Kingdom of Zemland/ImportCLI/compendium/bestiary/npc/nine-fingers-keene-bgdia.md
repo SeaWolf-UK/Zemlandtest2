@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nine-Fingers Keene
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nine-Fingers Keene
 *Source: Baldur's Gate: Descent Into Avernus p. 170*  
