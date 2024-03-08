@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gnome Ceremorph
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnome Ceremorph
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  
