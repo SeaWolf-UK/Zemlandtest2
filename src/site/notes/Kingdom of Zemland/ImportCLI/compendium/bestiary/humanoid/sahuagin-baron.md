@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sahuagin Baron
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sahuagin Baron
 *Source: Monster Manual p. 264, Tales from the Yawning Portal*  
