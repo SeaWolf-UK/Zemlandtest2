@@ -10,6 +10,7 @@ tags:
 aliases:
   - Rhinoceros
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rhinoceros
 *Source: Monster Manual p. 336, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
