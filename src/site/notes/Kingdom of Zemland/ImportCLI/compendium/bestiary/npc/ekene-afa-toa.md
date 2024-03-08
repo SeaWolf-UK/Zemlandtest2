@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ekene-Afa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ekene-Afa
 *Source: Tomb of Annihilation p. 25*  
