@@ -9,6 +9,7 @@ tags:
 aliases:
   - Iriad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Iriad
 *Source: Dragonlance: Shadow of the Dragon Queen p. 212*  
