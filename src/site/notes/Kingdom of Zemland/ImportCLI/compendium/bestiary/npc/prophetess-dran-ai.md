@@ -9,6 +9,7 @@ tags:
 aliases:
   - Prophetess Dran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Prophetess Dran
 *Source: Acquisitions Incorporated p. 208*  
