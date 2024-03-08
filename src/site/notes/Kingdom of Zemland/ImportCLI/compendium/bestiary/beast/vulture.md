@@ -12,6 +12,7 @@ tags:
 aliases:
   - Vulture
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vulture
 *Source: Monster Manual p. 339, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
