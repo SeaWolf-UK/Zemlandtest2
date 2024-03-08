@@ -14,6 +14,7 @@ tags:
 aliases:
   - Kobold Inventor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold Inventor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166*  
