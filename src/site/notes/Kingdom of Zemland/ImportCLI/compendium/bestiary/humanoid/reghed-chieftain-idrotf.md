@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reghed Chieftain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reghed Chieftain
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  
