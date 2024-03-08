@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kuo-toa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kuo-toa
 *Source: Monster Manual p. 199, Tales from the Yawning Portal*  
