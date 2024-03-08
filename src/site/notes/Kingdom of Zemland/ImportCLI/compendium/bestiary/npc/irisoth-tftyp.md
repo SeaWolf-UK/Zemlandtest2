@@ -9,6 +9,7 @@ tags:
 aliases:
   - Irisoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Irisoth
 *Source: Tales from the Yawning Portal p. 157*  
