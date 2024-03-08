@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yevgeni Krushkin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yevgeni Krushkin
 *Source: Curse of Strahd p. 100*  
