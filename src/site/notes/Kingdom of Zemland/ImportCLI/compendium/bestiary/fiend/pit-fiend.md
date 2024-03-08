@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pit Fiend
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pit Fiend
 *Source: Monster Manual p. 77, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
