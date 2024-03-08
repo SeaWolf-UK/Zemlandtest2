@@ -9,6 +9,7 @@ tags:
 aliases:
   - Goristro
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goristro
 *Source: Monster Manual p. 59*  
