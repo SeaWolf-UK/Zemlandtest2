@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ghast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ghast
 *Source: Monster Manual p. 148, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
