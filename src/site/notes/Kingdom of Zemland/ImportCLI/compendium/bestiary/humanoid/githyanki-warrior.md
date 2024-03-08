@@ -9,6 +9,7 @@ tags:
 aliases:
   - Githyanki Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githyanki Warrior
 *Source: Monster Manual p. 160*  
