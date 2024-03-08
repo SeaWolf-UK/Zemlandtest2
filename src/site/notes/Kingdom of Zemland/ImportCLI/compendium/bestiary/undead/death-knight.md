@@ -9,6 +9,7 @@ tags:
 aliases:
   - Death Knight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Knight
 *Source: Monster Manual p. 47, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen*  
