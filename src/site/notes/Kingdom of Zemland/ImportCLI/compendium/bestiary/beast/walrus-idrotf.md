@@ -9,6 +9,7 @@ tags:
 aliases:
   - Walrus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Walrus
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  
