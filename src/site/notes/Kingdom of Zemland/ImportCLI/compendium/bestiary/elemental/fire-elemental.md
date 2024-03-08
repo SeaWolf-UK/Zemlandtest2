@@ -10,6 +10,7 @@ tags:
 aliases:
   - Fire Elemental
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Elemental
 *Source: Monster Manual p. 125, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
