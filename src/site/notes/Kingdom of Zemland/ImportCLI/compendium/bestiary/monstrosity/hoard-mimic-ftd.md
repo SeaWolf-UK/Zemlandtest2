@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hoard Mimic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hoard Mimic
 *Source: Fizban's Treasury of Dragons p. 204*  
