@@ -9,6 +9,7 @@ tags:
 aliases:
   - Quasit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quasit
 *Source: Monster Manual p. 63, Curse of Strahd, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
