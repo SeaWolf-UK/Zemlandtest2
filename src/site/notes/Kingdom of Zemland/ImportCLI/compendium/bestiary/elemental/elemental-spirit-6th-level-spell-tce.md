@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elemental Spirit (6th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elemental Spirit (6th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 111*  
