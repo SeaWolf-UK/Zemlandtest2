@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kobold Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kobold Commoner
 *Source: Tales from the Yawning Portal p. 18*  
