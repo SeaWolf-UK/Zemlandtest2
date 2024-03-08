@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eira
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eira
 *Source: Tales from the Yawning Portal p. 159*  
