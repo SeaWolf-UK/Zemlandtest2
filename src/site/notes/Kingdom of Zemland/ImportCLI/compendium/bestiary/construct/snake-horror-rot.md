@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snake Horror
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snake Horror
 *Source: The Rise of Tiamat p. 46*  
