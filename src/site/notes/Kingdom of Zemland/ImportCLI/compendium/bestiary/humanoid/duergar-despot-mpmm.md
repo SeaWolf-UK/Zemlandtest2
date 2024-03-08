@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Despot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Despot
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
