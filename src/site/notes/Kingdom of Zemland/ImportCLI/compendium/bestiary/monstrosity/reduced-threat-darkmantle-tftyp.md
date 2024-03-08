@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Darkmantle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Darkmantle
 *Source: Tales from the Yawning Portal p. 113*  
