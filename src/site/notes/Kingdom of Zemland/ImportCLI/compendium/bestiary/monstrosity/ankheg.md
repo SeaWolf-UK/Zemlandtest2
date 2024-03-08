@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ankheg
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ankheg
 *Source: Monster Manual p. 21, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
