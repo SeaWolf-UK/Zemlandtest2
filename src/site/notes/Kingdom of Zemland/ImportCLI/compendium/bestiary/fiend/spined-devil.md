@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spined Devil
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spined Devil
 *Source: Monster Manual p. 78, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus*  
