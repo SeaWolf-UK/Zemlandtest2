@@ -9,6 +9,7 @@ tags:
 aliases:
   - Szoldar Szoldarovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Szoldar Szoldarovich
 *Source: Curse of Strahd p. 100*  
