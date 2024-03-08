@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow Arachnomancer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Arachnomancer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182*  
