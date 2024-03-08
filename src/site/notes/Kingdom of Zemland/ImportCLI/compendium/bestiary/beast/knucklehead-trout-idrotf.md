@@ -9,6 +9,7 @@ tags:
 aliases:
   - Knucklehead Trout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Knucklehead Trout
 *Source: Icewind Dale: Rime of the Frostmaiden p. 295*  
