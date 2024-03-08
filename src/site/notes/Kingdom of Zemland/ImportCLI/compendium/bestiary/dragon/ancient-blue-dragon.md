@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ancient Blue Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Blue Dragon
 *Source: Monster Manual p. 90, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  
