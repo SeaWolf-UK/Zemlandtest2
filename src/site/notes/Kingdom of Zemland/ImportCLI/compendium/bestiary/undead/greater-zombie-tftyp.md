@@ -9,6 +9,7 @@ tags:
 aliases:
   - Greater Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Greater Zombie
 *Source: Tales from the Yawning Portal p. 237*  
