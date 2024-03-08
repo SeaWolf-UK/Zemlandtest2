@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barlgura
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barlgura
 *Source: Monster Manual p. 56, Baldur's Gate: Descent Into Avernus*  
