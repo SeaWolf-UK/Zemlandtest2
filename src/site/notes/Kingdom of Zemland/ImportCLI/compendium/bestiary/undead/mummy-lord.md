@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mummy Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mummy Lord
 *Source: Monster Manual p. 229, The Rise of Tiamat, Tasha's Cauldron of Everything. Available in the SRD.*  
