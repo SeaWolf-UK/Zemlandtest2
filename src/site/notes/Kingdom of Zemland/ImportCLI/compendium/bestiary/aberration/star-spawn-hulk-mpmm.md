@@ -9,6 +9,7 @@ tags:
 aliases:
   - Star Spawn Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Star Spawn Hulk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
