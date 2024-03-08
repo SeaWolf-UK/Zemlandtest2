@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Commoner
 *Source: Curse of Strahd p. 28*  
