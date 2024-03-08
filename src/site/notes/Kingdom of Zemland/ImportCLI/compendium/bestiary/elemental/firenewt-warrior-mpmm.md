@@ -13,6 +13,7 @@ tags:
 aliases:
   - Firenewt Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Firenewt Warrior
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
