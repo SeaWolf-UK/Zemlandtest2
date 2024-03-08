@@ -13,6 +13,7 @@ tags:
 aliases:
   - Darkling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Darkling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
