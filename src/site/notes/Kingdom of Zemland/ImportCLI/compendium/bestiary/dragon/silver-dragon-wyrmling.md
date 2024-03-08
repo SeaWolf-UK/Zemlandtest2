@@ -9,6 +9,7 @@ tags:
 aliases:
   - Silver Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Silver Dragon Wyrmling
 *Source: Monster Manual p. 118, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
