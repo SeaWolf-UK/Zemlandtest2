@@ -11,6 +11,7 @@ tags:
 aliases:
   - Thri-kreen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thri-kreen
 *Source: Monster Manual p. 288*  
