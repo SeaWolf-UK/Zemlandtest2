@@ -9,6 +9,7 @@ tags:
 aliases:
   - Storm Crab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Storm Crab
 *Source: Bigby Presents: Glory of the Giants p. 181*  
