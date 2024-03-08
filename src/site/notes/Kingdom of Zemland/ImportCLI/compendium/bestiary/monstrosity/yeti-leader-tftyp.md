@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yeti Leader
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yeti Leader
 *Source: Tales from the Yawning Portal p. 183*  
