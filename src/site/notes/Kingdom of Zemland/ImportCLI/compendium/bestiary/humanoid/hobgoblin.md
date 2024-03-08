@@ -14,6 +14,7 @@ tags:
 aliases:
   - Hobgoblin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hobgoblin
 *Source: Monster Manual p. 186, Hoard of the Dragon Queen, Lost Mine of Phandelver, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
