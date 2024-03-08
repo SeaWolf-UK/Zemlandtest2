@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Sapphire Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Sapphire Dragon
 *Source: Fizban's Treasury of Dragons p. 214*  
