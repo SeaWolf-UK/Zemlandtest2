@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tarul Var
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tarul Var
 *Source: Tales from the Yawning Portal p. 244*  
