@@ -10,6 +10,7 @@ tags:
 aliases:
   - Grell
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grell
 *Source: Monster Manual p. 172, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
