@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mind Flayer Psion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mind Flayer Psion
 *Source: Volo's Guide to Monsters p. 71*  
