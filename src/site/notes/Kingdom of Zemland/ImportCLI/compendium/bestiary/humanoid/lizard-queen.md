@@ -11,6 +11,7 @@ tags:
 aliases:
   - Lizard Queen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lizard Queen
 *Source: Monster Manual p. 205*  
