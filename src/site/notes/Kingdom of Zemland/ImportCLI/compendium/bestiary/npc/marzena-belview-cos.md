@@ -9,6 +9,7 @@ tags:
 aliases:
   - Marzena Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Marzena Belview
 *Source: Curse of Strahd p. 150*  
