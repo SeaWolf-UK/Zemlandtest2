@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bag of Nails
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bag of Nails
 *Source: Tomb of Annihilation p. 102*  
