@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dretch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dretch
 *Source: Monster Manual p. 57, Curse of Strahd, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
