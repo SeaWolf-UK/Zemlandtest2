@@ -12,6 +12,7 @@ tags:
 aliases:
   - Blue Abishai
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blue Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
