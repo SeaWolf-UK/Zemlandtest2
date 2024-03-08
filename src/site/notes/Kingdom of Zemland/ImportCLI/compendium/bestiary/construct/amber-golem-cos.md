@@ -9,6 +9,7 @@ tags:
 aliases:
   - Amber Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Amber Golem
 *Source: Curse of Strahd p. 186*  
