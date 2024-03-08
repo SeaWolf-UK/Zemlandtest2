@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spitting Mimic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spitting Mimic
 *Source: Icewind Dale: Rime of the Frostmaiden p. 302*  
