@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fire Giant of Evil Fire
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant of Evil Fire
 *Source: Bigby Presents: Glory of the Giants p. 139*  
