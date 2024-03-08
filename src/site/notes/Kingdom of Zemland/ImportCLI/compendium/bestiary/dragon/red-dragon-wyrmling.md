@@ -9,6 +9,7 @@ tags:
 aliases:
   - Red Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Red Dragon Wyrmling
 *Source: Monster Manual p. 98, Curse of Strahd, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
