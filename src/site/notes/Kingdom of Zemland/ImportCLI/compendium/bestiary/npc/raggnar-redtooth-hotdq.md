@@ -9,6 +9,7 @@ tags:
 aliases:
   - Raggnar Redtooth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Raggnar Redtooth
 *Source: Hoard of the Dragon Queen p. 74*  
