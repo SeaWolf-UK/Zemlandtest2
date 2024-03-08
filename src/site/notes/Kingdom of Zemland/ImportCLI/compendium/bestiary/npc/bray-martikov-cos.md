@@ -10,6 +10,7 @@ tags:
 aliases:
   - Bray Martikov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bray Martikov
 *Source: Curse of Strahd p. 98*  
