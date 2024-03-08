@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mummy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mummy
 *Source: Monster Manual p. 228, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
