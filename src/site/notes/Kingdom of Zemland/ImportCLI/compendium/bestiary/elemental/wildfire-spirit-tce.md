@@ -9,6 +9,7 @@ tags:
 aliases:
   - Wildfire Spirit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wildfire Spirit
 *Source: Tasha's Cauldron of Everything p. 40*  
