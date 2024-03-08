@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cudgel Ironsmile
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cudgel Ironsmile
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  
