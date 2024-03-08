@@ -9,6 +9,7 @@ tags:
 aliases:
   - Phylaskia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phylaskia
 *Source: Mythic Odysseys of Theros p. 239*  
