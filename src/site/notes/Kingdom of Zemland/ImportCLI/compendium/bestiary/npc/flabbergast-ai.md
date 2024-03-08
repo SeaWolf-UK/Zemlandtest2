@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flabbergast
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flabbergast
 *Source: Acquisitions Incorporated p. 200*  
