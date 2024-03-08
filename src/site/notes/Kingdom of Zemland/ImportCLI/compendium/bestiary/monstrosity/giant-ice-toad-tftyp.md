@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Ice Toad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Ice Toad
 *Source: Tales from the Yawning Portal p. 235*  
