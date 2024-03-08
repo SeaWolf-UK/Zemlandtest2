@@ -9,6 +9,7 @@ tags:
 aliases:
   - Smiler the Defiler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Smiler the Defiler
 *Source: Baldur's Gate: Descent Into Avernus p. 133*  
