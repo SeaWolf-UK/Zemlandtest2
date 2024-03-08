@@ -9,6 +9,7 @@ tags:
 aliases:
   - Princeps Kovik
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Princeps Kovik
 *Source: Baldur's Gate: Descent Into Avernus p. 91*  
