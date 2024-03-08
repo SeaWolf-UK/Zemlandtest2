@@ -10,6 +10,7 @@ tags:
 aliases:
   - Beholder Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beholder Zombie
 *Source: Monster Manual p. 316*  
