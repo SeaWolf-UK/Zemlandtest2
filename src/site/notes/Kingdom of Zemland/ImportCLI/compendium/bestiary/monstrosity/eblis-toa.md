@@ -9,6 +9,7 @@ tags:
 aliases:
   - Eblis
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eblis
 *Source: Tomb of Annihilation p. 219*  
