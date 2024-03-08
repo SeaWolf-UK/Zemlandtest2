@@ -10,6 +10,7 @@ tags:
 aliases:
   - Yagnoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yagnoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
