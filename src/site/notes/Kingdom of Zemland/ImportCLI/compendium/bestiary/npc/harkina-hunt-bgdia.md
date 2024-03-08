@@ -9,6 +9,7 @@ tags:
 aliases:
   - Harkina Hunt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Harkina Hunt
 *Source: Baldur's Gate: Descent Into Avernus p. 53*  
