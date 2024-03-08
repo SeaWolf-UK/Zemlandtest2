@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kuo-toa Whip
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kuo-toa Whip
 *Source: Monster Manual p. 200*  
