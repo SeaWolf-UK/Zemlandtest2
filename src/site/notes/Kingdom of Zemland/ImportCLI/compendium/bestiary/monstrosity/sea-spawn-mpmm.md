@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sea Spawn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sea Spawn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*  
