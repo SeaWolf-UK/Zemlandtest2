@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hoard Scarab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hoard Scarab
 *Source: Fizban's Treasury of Dragons p. 205*  
