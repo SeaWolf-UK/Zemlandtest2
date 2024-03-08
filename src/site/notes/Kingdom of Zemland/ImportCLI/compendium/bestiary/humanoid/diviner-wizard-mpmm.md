@@ -10,6 +10,7 @@ tags:
 aliases:
   - Diviner Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Diviner Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
