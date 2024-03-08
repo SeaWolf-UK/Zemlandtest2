@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yuan-ti Pit Master
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Pit Master
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*  
