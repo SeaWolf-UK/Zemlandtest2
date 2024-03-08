@@ -11,6 +11,7 @@ tags:
 aliases:
   - Spawn of Kyuss
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spawn of Kyuss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
