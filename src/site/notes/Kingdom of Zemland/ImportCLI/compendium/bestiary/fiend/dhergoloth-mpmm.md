@@ -10,6 +10,7 @@ tags:
 aliases:
   - Dhergoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dhergoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
