@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Tree
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Tree
 *Source: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros*  
