@@ -11,6 +11,7 @@ tags:
 aliases:
   - Centaur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Centaur
 *Source: Monster Manual p. 38, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
