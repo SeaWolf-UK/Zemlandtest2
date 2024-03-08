@@ -10,6 +10,7 @@ tags:
 aliases:
   - Swarm of Quippers
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Quippers
 *Source: Monster Manual p. 338, Tomb of Annihilation, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
