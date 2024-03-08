@@ -10,6 +10,7 @@ tags:
 aliases:
   - Merrenoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Merrenoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
