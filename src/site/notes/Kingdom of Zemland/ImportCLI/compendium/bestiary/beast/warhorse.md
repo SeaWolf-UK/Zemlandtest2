@@ -10,6 +10,7 @@ tags:
 aliases:
   - Warhorse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warhorse
 *Source: Monster Manual p. 340, Curse of Strahd, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
