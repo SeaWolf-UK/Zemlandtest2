@@ -10,6 +10,7 @@ tags:
 aliases:
   - Lorry Wanwillow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lorry Wanwillow
 *Source: Dragonlance: Shadow of the Dragon Queen p. 177*  
