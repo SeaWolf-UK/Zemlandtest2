@@ -9,6 +9,7 @@ tags:
 aliases:
   - Warforged Titan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warforged Titan
 *Source: Eberron: Rising from the Last War p. 315*  
