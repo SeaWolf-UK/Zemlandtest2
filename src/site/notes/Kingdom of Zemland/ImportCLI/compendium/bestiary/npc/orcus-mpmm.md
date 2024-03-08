@@ -9,6 +9,7 @@ tags:
 aliases:
   - Orcus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orcus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204, Mordenkainen's Tome of Foes p. 153*  
