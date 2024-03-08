@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mordakhesh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mordakhesh
 *Source: Eberron: Rising from the Last War p. 301*  
