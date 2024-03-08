@@ -9,6 +9,7 @@ tags:
 aliases:
   - Death Giant Reaper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Giant Reaper
 *Source: Bigby Presents: Glory of the Giants p. 126*  
