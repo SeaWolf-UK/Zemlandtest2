@@ -9,6 +9,7 @@ tags:
 aliases:
   - Carnivorous Flower
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Carnivorous Flower
 *Source: The Rise of Tiamat p. 67*  
