@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bone Whelk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bone Whelk
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  
