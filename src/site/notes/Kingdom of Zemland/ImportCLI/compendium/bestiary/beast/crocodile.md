@@ -11,6 +11,7 @@ tags:
 aliases:
   - Crocodile
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crocodile
 *Source: Monster Manual p. 320, Hoard of the Dragon Queen, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
