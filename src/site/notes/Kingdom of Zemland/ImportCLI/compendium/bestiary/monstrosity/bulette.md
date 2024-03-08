@@ -12,6 +12,7 @@ tags:
 aliases:
   - Bulette
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bulette
 *Source: Monster Manual p. 34, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
