@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconian Mastermind
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconian Mastermind
 *Source: Fizban's Treasury of Dragons p. 180*  
