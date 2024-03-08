@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frost Giant Ice Shaper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant Ice Shaper
 *Source: Bigby Presents: Glory of the Giants p. 145*  
