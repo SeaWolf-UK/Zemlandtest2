@@ -9,6 +9,7 @@ tags:
 aliases:
   - Weasel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Weasel
 *Source: Monster Manual p. 340, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
