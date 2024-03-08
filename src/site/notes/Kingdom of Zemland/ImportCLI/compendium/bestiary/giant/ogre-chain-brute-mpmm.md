@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ogre Chain Brute
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre Chain Brute
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
