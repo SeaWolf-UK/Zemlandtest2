@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconian Foot Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconian Foot Soldier
 *Source: Fizban's Treasury of Dragons p. 178*  
