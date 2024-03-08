@@ -7,6 +7,7 @@ tags:
 aliases:
   - Juiblex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Juiblex
 
