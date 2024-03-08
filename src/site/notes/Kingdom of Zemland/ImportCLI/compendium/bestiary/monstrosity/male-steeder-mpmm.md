@@ -10,6 +10,7 @@ tags:
 aliases:
   - Male Steeder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Male Steeder
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
