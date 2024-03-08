@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rath Modar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rath Modar
 *Source: Hoard of the Dragon Queen p. 92, The Rise of Tiamat p. 91*  
