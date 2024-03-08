@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sea Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sea Hag
 *Source: Monster Manual p. 179, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
