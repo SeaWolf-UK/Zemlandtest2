@@ -9,6 +9,7 @@ tags:
 aliases:
   - Goliath Giant-Kin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goliath Giant-Kin
 *Source: Bigby Presents: Glory of the Giants p. 155*  
