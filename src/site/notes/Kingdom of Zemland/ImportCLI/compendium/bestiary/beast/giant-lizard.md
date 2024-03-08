@@ -14,6 +14,7 @@ tags:
 aliases:
   - Giant Lizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Lizard
 *Source: Monster Manual p. 326, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
