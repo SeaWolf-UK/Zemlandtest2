@@ -14,6 +14,7 @@ tags:
 aliases:
   - Warlock of the Archfey
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warlock of the Archfey
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
