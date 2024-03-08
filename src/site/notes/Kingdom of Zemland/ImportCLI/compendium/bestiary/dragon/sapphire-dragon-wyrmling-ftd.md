@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sapphire Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sapphire Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 216*  
