@@ -9,6 +9,7 @@ tags:
 aliases:
   - Abyssal Wretch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Abyssal Wretch
 *Source: Mordenkainen's Tome of Foes p. 136, Baldur's Gate: Descent Into Avernus*  
