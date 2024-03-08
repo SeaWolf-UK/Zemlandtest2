@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Wielder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Wielder
 *Source: Volo's Guide to Monsters p. 42*  
