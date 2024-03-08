@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ash Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ash Zombie
 *Source: Lost Mine of Phandelver p. 31*  
