@@ -11,6 +11,7 @@ tags:
 aliases:
   - Young Red Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Red Dragon
 *Source: Monster Manual p. 98, The Rise of Tiamat, Tomb of Annihilation, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
