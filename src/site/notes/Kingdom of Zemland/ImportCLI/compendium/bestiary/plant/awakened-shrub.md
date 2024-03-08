@@ -10,6 +10,7 @@ tags:
 aliases:
   - Awakened Shrub
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Awakened Shrub
 *Source: Monster Manual p. 317, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
