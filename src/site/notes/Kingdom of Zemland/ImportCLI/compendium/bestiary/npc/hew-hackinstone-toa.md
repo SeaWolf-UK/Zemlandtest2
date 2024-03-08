@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hew Hackinstone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hew Hackinstone
 *Source: Tomb of Annihilation p. 33*  
