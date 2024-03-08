@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kuo-toa Monitor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kuo-toa Monitor
 *Source: Monster Manual p. 198*  
