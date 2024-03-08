@@ -10,6 +10,7 @@ tags:
 aliases:
   - Snarla
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snarla
 *Source: Tales from the Yawning Portal p. 102*  
