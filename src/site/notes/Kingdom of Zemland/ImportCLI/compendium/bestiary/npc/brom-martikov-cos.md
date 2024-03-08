@@ -10,6 +10,7 @@ tags:
 aliases:
   - Brom Martikov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brom Martikov
 *Source: Curse of Strahd p. 98*  
