@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clonk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clonk
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
