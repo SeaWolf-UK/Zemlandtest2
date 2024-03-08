@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zorbo
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zorbo
 *Source: Tomb of Annihilation p. 241*  
