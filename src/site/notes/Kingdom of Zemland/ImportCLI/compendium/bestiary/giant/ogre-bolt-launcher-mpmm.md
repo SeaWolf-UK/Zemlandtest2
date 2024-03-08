@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ogre Bolt Launcher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre Bolt Launcher
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
