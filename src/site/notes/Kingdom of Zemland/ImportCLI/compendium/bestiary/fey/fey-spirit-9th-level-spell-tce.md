@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fey Spirit (9th-level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fey Spirit (9th-level Spell)
 *Source: Tasha's Cauldron of Everything p. 112*  
