@@ -10,6 +10,7 @@ tags:
 aliases:
   - Quaggoth Thonot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quaggoth Thonot
 *Source: Monster Manual p. 256, Icewind Dale: Rime of the Frostmaiden*  
