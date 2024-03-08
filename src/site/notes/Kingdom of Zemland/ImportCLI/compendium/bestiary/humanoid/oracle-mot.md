@@ -9,6 +9,7 @@ tags:
 aliases:
   - Oracle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oracle
 *Source: Mythic Odysseys of Theros p. 238*  
