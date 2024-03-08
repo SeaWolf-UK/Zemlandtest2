@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Brass Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Brass Dragon
 *Source: Monster Manual p. 105. Available in the SRD.*  
