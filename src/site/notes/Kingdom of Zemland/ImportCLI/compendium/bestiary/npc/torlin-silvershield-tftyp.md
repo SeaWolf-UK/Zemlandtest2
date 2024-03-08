@@ -9,6 +9,7 @@ tags:
 aliases:
   - Torlin Silvershield
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Torlin Silvershield
 *Source: Tales from the Yawning Portal p. 159*  
