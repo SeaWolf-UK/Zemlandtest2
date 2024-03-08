@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Goat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Goat
 *Source: Monster Manual p. 326, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd. Available in the SRD and the Basic Rules.*  
