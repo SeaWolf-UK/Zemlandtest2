@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sperm Whale
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sperm Whale
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  
