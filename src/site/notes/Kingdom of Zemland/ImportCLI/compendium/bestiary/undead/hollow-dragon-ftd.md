@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hollow Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hollow Dragon
 *Source: Fizban's Treasury of Dragons p. 206*  
