@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jaculi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jaculi
 *Source: Tomb of Annihilation p. 225*  
