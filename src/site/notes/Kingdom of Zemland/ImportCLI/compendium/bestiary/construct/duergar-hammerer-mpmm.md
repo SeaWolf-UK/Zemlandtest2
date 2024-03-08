@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Hammerer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Hammerer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  
