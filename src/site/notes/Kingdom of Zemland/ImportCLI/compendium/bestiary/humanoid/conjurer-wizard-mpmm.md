@@ -10,6 +10,7 @@ tags:
 aliases:
   - Conjurer Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Conjurer Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*  
