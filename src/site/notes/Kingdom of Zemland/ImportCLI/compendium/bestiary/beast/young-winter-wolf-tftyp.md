@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Winter Wolf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Winter Wolf
 *Source: Tales from the Yawning Portal p. 181*  
