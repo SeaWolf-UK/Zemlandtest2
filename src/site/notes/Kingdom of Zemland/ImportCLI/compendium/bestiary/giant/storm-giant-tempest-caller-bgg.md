@@ -9,6 +9,7 @@ tags:
 aliases:
   - Storm Giant Tempest Caller
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Storm Giant Tempest Caller
 *Source: Bigby Presents: Glory of the Giants p. 182*  
