@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Lightning Bolt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Lightning Bolt
 *Source: Eberron: Rising from the Last War p. 299*  
