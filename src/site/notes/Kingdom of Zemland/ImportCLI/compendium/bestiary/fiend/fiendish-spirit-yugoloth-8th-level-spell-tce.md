@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fiendish Spirit (Yugoloth, 8th-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fiendish Spirit (Yugoloth, 8th-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 112*  
