@@ -10,6 +10,7 @@ tags:
 aliases:
   - Star Spawn Larva Mage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Star Spawn Larva Mage
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
