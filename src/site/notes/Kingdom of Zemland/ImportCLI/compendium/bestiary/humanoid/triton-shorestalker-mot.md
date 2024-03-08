@@ -9,6 +9,7 @@ tags:
 aliases:
   - Triton Shorestalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Triton Shorestalker
 *Source: Mythic Odysseys of Theros p. 244*  
