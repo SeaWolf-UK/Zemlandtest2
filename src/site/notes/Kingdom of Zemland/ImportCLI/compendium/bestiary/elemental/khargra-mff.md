@@ -9,6 +9,7 @@ tags:
 aliases:
   - Khargra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Khargra
 *Source: Mordenkainen's Fiendish Folio p. 12*  
