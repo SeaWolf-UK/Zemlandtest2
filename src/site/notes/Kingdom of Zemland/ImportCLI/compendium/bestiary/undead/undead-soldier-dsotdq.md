@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undead Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undead Soldier
 *Source: Dragonlance: Shadow of the Dragon Queen p. 96*  
