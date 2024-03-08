@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chardalyn Berserker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chardalyn Berserker
 *Source: Icewind Dale: Rime of the Frostmaiden p. 280*  
