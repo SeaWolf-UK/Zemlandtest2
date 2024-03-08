@@ -10,6 +10,7 @@ tags:
 aliases:
   - Steel Predator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Steel Predator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
