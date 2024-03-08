@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mad Mary
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mad Mary
 *Source: Curse of Strahd p. 44*  
