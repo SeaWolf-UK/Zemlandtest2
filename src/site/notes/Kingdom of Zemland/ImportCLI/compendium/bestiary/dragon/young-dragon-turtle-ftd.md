@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Dragon Turtle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Dragon Turtle
 *Source: Fizban's Treasury of Dragons p. 192*  
