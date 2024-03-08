@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ishvern
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ishvern
 *Source: Dragonlance: Shadow of the Dragon Queen p. 114*  
