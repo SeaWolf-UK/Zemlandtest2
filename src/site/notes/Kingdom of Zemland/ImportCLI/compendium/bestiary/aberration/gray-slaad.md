@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gray Slaad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gray Slaad
 *Source: Monster Manual p. 277, Tomb of Annihilation*  
