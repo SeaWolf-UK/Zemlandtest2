@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tsucora Quori
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tsucora Quori
 *Source: Eberron: Rising from the Last War p. 307*  
