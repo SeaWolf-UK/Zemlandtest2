@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cambion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cambion
 *Source: Monster Manual p. 36, Baldur's Gate: Descent Into Avernus*  
