@@ -7,6 +7,7 @@ tags:
 aliases:
   - Deep Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Dragon
 
