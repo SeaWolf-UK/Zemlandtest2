@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ghost
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ghost
 *Source: Monster Manual p. 147, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
