@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flying Dagger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flying Dagger
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  
