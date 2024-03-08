@@ -10,6 +10,7 @@ tags:
 aliases:
   - Remorhaz
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Remorhaz
 *Source: Monster Manual p. 258, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
