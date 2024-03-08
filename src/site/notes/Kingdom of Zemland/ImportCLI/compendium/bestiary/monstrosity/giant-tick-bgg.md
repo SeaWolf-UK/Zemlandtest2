@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Tick
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Tick
 *Source: Bigby Presents: Glory of the Giants p. 153*  
