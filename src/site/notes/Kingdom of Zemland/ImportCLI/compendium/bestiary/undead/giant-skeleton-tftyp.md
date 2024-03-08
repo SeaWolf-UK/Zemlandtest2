@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Skeleton
 *Source: Tales from the Yawning Portal p. 236*  
