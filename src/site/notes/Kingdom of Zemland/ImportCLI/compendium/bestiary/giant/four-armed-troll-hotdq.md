@@ -9,6 +9,7 @@ tags:
 aliases:
   - Four-Armed Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Four-Armed Troll
 *Source: Hoard of the Dragon Queen p. 65*  
