@@ -9,6 +9,7 @@ tags:
 aliases:
   - Atropal
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Atropal
 *Source: Tomb of Annihilation p. 214*  
