@@ -9,6 +9,7 @@ tags:
 aliases:
   - Iskander
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Iskander
 *Source: The Rise of Tiamat p. 62*  
