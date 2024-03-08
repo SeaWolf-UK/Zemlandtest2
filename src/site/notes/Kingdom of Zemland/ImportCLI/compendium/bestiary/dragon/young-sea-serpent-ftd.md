@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Sea Serpent
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Sea Serpent
 *Source: Fizban's Treasury of Dragons p. 219*  
