@@ -12,6 +12,7 @@ tags:
 aliases:
   - Wolf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wolf
 *Source: Monster Manual p. 341, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
