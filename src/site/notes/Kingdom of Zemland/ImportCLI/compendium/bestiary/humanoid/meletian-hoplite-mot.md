@@ -9,6 +9,7 @@ tags:
 aliases:
   - Meletian Hoplite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Meletian Hoplite
 *Source: Mythic Odysseys of Theros p. 229*  
