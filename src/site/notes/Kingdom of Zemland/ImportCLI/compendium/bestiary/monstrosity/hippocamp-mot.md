@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hippocamp
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hippocamp
 *Source: Mythic Odysseys of Theros p. 227*  
