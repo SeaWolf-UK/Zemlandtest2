@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vladimir Horngaard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vladimir Horngaard
 *Source: Curse of Strahd p. 241*  
