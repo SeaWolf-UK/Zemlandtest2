@@ -9,6 +9,7 @@ tags:
 aliases:
   - Orvex Ocrammas
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orvex Ocrammas
 *Source: Tomb of Annihilation p. 96*  
