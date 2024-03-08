@@ -10,6 +10,7 @@ tags:
 aliases:
   - Badger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Badger
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
