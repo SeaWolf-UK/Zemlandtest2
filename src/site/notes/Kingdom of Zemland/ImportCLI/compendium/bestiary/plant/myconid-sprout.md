@@ -10,6 +10,7 @@ tags:
 aliases:
   - Myconid Sprout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Myconid Sprout
 *Source: Monster Manual p. 230*  
