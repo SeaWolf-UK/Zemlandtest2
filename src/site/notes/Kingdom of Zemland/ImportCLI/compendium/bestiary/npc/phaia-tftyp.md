@@ -9,6 +9,7 @@ tags:
 aliases:
   - Phaia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phaia
 *Source: Tales from the Yawning Portal p. 132*  
