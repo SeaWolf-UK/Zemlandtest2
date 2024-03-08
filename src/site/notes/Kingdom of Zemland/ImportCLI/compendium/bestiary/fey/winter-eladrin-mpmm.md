@@ -11,6 +11,7 @@ tags:
 aliases:
   - Winter Eladrin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Winter Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
