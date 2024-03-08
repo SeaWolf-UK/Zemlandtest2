@@ -9,6 +9,7 @@ tags:
 aliases:
   - Estia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Estia
 *Source: Tales from the Yawning Portal p. 189*  
