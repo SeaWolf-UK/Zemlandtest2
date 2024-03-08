@@ -10,6 +10,7 @@ tags:
 aliases:
   - Wood Woad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wood Woad
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
