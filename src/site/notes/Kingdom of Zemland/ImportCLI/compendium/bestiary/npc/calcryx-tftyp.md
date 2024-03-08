@@ -9,6 +9,7 @@ tags:
 aliases:
   - Calcryx
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Calcryx
 *Source: Tales from the Yawning Portal p. 23*  
