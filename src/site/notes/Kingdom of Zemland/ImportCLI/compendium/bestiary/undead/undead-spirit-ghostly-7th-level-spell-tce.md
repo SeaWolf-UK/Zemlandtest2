@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undead Spirit (Ghostly, 7th-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undead Spirit (Ghostly, 7th-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 114*  
