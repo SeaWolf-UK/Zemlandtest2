@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Army Soldier
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Army Soldier
 *Source: Dragonlance: Shadow of the Dragon Queen p. 200*  
