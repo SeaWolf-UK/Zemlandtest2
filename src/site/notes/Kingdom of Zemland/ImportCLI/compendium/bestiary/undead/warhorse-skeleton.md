@@ -9,6 +9,7 @@ tags:
 aliases:
   - Warhorse Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Warhorse Skeleton
 *Source: Monster Manual p. 273, Curse of Strahd, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
