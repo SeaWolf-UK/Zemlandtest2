@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow
 *Source: Monster Manual p. 128, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
