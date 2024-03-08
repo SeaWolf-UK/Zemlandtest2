@@ -10,6 +10,7 @@ tags:
 aliases:
   - Korred
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Korred
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  
