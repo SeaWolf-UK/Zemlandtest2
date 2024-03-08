@@ -13,6 +13,7 @@ tags:
 aliases:
   - Howler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Howler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  
