@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reflection
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reflection
 *Source: Tasha's Cauldron of Everything p. 158*  
