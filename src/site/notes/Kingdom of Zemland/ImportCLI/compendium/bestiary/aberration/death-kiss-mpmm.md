@@ -10,6 +10,7 @@ tags:
 aliases:
   - Death Kiss
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Kiss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  
