@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow Mage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Mage
 *Source: Monster Manual p. 129, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden*  
