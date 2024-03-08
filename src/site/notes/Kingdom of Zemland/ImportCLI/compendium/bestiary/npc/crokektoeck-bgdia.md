@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crokek'toeck
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crokek'toeck
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  
