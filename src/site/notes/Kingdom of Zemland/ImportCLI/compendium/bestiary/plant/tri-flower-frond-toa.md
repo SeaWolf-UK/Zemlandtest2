@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tri-flower Frond
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tri-flower Frond
 *Source: Tomb of Annihilation p. 234*  
