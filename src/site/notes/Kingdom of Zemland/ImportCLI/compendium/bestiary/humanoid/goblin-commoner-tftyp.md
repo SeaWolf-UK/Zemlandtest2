@@ -9,6 +9,7 @@ tags:
 aliases:
   - Goblin Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Goblin Commoner
 *Source: Tales from the Yawning Portal p. 24*  
