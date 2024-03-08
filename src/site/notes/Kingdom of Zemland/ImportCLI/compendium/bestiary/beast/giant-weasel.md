@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Weasel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Weasel
 *Source: Monster Manual p. 329, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
