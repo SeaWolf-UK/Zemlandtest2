@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll Fang of Yeenoghu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Fang of Yeenoghu
 *Source: Monster Manual p. 163, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
