@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mind Flayer Arcanist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mind Flayer Arcanist
 *Source: Monster Manual p. 222*  
