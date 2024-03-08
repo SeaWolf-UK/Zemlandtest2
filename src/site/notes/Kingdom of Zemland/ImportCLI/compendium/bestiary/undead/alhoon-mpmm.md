@@ -11,6 +11,7 @@ tags:
 aliases:
   - Alhoon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Alhoon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
