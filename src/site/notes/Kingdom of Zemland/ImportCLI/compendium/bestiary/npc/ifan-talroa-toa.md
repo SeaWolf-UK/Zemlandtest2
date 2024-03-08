@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ifan Talro'a
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ifan Talro'a
 *Source: Tomb of Annihilation p. 25*  
