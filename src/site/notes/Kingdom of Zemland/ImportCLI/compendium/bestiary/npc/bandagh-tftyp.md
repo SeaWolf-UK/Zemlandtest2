@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bandagh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bandagh
 *Source: Tales from the Yawning Portal p. 159*  
