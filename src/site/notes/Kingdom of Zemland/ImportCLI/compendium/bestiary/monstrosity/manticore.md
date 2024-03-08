@@ -14,6 +14,7 @@ tags:
 aliases:
   - Manticore
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Manticore
 *Source: Monster Manual p. 213, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
