@@ -9,6 +9,7 @@ tags:
 aliases:
   - Firbolg Wanderer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Firbolg Wanderer
 *Source: Bigby Presents: Glory of the Giants p. 137*  
