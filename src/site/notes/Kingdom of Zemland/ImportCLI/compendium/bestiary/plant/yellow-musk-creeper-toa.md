@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yellow Musk Creeper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yellow Musk Creeper
 *Source: Tomb of Annihilation p. 237*  
