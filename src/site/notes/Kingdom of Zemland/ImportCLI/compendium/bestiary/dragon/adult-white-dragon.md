@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult White Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult White Dragon
 *Source: Monster Manual p. 101, Hoard of the Dragon Queen, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
