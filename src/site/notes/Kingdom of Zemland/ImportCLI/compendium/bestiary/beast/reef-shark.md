@@ -10,6 +10,7 @@ tags:
 aliases:
   - Reef Shark
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reef Shark
 *Source: Monster Manual p. 336, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
