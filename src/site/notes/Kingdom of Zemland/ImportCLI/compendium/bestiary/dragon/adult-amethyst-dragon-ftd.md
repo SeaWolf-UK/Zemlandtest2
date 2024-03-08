@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Amethyst Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Amethyst Dragon
 *Source: Fizban's Treasury of Dragons p. 161*  
