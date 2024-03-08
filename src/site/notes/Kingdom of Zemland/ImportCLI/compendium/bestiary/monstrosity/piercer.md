@@ -10,6 +10,7 @@ tags:
 aliases:
   - Piercer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Piercer
 *Source: Monster Manual p. 252, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
