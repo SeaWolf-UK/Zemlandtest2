@@ -9,6 +9,7 @@ tags:
 aliases:
   - Blind Artist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blind Artist
 *Source: Tomb of Annihilation p. 164*  
