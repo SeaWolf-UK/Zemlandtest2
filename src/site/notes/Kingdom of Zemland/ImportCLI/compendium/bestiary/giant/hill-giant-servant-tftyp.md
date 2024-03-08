@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hill Giant Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hill Giant Servant
 *Source: Tales from the Yawning Portal p. 170*  
