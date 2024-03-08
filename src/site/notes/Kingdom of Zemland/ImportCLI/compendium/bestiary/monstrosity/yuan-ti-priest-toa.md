@@ -10,6 +10,7 @@ tags:
 aliases:
   - Yuan-ti Priest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Priest
 *Source: Tomb of Annihilation p. 118*  
