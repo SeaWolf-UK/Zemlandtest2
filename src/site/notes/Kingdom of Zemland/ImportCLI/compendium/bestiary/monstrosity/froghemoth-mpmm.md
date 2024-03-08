@@ -11,6 +11,7 @@ tags:
 aliases:
   - Froghemoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Froghemoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*  
