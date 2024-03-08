@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grandfather Zitembe
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grandfather Zitembe
 *Source: Tomb of Annihilation p. 20*  
