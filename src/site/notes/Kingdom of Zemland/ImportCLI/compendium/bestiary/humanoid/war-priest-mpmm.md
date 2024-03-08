@@ -11,6 +11,7 @@ tags:
 aliases:
   - War Priest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # War Priest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*  
