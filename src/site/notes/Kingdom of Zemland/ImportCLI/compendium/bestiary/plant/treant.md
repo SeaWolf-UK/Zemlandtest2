@@ -10,6 +10,7 @@ tags:
 aliases:
   - Treant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Treant
 *Source: Monster Manual p. 289, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
