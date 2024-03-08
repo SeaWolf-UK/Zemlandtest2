@@ -9,6 +9,7 @@ tags:
 aliases:
   - Wakanga O'tamu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wakanga O'tamu
 *Source: Tomb of Annihilation p. 27*  
