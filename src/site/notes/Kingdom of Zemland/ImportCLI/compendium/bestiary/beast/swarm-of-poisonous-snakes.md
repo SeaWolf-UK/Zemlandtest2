@@ -11,6 +11,7 @@ tags:
 aliases:
   - Swarm of Poisonous Snakes
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Poisonous Snakes
 *Source: Monster Manual p. 338, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
