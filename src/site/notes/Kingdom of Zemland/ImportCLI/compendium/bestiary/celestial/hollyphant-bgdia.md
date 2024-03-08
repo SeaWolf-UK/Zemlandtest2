@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hollyphant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hollyphant
 *Source: Baldur's Gate: Descent Into Avernus p. 237*  
