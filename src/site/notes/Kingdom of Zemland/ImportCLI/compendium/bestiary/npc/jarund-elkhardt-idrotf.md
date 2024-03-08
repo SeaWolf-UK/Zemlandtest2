@@ -9,6 +9,7 @@ tags:
 aliases:
   - Jarund Elkhardt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Jarund Elkhardt
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  
