@@ -14,6 +14,7 @@ tags:
 aliases:
   - Roc
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Roc
 *Source: Monster Manual p. 260, Curse of Strahd, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
