@@ -9,6 +9,7 @@ tags:
 aliases:
   - Albino Dwarf Spirit Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Albino Dwarf Spirit Warrior
 *Source: Tomb of Annihilation p. 210*  
