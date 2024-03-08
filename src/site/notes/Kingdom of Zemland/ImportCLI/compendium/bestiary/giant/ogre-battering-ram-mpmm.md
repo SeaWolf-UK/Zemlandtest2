@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ogre Battering Ram
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre Battering Ram
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
