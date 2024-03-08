@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snurrevin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snurrevin
 *Source: Tales from the Yawning Portal p. 53*  
