@@ -9,6 +9,7 @@ tags:
 aliases:
   - Diderius
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Diderius
 *Source: The Rise of Tiamat p. 40*  
