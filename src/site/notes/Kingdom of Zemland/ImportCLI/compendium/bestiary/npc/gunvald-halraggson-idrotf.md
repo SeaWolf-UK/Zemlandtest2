@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gunvald Halraggson
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gunvald Halraggson
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  
