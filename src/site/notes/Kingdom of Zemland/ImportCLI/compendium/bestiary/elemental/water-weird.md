@@ -11,6 +11,7 @@ tags:
 aliases:
   - Water Weird
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Water Weird
 *Source: Monster Manual p. 299, Tales from the Yawning Portal, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
