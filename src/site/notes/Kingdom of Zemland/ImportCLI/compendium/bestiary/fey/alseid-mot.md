@@ -9,6 +9,7 @@ tags:
 aliases:
   - Alseid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Alseid
 *Source: Mythic Odysseys of Theros p. 235*  
