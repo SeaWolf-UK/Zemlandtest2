@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stalker of Baphomet
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stalker of Baphomet
 *Source: Bigby Presents: Glory of the Giants p. 178*  
