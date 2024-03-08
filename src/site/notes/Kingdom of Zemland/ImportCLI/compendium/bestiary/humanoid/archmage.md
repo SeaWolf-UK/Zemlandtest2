@@ -10,6 +10,7 @@ tags:
 aliases:
   - Archmage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Archmage
 *Source: Monster Manual p. 342, Curse of Strahd, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
