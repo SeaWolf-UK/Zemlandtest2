@@ -11,6 +11,7 @@ tags:
 aliases:
   - Mouth of Grolantor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mouth of Grolantor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  
