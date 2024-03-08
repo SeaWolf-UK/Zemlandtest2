@@ -10,6 +10,7 @@ tags:
 aliases:
   - Tyrannosaurus Rex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tyrannosaurus Rex
 *Source: Monster Manual p. 80, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
