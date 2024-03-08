@@ -7,6 +7,7 @@ tags:
 aliases:
   - Bronze Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bronze Dragon
 
