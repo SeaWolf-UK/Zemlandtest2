@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aurak Draconian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aurak Draconian
 *Source: Dragonlance: Shadow of the Dragon Queen p. 196*  
