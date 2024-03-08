@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fomorian Warlock of the Dark
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fomorian Warlock of the Dark
 *Source: Bigby Presents: Glory of the Giants p. 144*  
