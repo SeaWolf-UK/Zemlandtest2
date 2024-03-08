@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shadow Demon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadow Demon
 *Source: Monster Manual p. 64, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden*  
