@@ -9,6 +9,7 @@ tags:
 aliases:
   - Valindra Shadowmantle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Valindra Shadowmantle
 *Source: Tomb of Annihilation p. 58*  
