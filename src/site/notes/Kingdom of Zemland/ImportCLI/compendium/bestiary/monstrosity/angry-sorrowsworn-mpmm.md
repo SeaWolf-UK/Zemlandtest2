@@ -11,6 +11,7 @@ tags:
 aliases:
   - Angry Sorrowsworn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Angry Sorrowsworn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
