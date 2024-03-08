@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mammoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mammoth
 *Source: Monster Manual p. 332, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
