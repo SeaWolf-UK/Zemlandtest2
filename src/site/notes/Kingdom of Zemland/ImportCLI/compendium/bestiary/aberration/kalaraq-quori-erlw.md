@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kalaraq Quori
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kalaraq Quori
 *Source: Eberron: Rising from the Last War p. 306*  
