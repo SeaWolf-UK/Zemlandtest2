@@ -13,6 +13,7 @@ tags:
 aliases:
   - Hyena
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hyena
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
