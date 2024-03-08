@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Object (Medium)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Object (Medium)
 *Source: Player's Handbook p. 213*  
