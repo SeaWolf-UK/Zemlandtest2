@@ -12,6 +12,7 @@ tags:
 aliases:
   - Meenlock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Meenlock
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
