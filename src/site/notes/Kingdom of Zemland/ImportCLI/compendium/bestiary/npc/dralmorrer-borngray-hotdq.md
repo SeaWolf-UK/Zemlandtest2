@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dralmorrer Borngray
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dralmorrer Borngray
 *Source: Hoard of the Dragon Queen p. 90*  
