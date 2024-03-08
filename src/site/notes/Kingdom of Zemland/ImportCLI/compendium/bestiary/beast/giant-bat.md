@@ -11,6 +11,7 @@ tags:
 aliases:
   - Giant Bat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Bat
 *Source: Monster Manual p. 323, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
