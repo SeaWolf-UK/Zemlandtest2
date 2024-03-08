@@ -11,6 +11,7 @@ tags:
 aliases:
   - Deep Scion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Scion
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
