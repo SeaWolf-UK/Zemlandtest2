@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Ape
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Ape
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
