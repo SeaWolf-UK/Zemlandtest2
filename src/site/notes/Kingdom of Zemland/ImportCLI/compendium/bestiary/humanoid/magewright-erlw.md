@@ -9,6 +9,7 @@ tags:
 aliases:
   - Magewright
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Magewright
 *Source: Eberron: Rising from the Last War p. 318*  
