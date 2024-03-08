@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ashdra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ashdra
 *Source: Tales from the Yawning Portal p. 158*  
