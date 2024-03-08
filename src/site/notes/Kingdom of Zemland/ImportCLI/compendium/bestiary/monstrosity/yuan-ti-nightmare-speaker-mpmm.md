@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yuan-ti Nightmare Speaker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Nightmare Speaker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
