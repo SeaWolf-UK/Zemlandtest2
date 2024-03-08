@@ -9,6 +9,7 @@ tags:
 aliases:
   - Elliach
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elliach
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  
