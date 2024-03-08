@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undead Spirit (Putrid, 9th-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undead Spirit (Putrid, 9th-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 114*  
