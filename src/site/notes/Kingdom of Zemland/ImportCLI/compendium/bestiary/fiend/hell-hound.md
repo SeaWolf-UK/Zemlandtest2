@@ -11,6 +11,7 @@ tags:
 aliases:
   - Hell Hound
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hell Hound
 *Source: Monster Manual p. 182, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
