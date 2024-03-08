@@ -11,6 +11,7 @@ tags:
 aliases:
   - Kenku
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kenku
 *Source: Monster Manual p. 194, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War*  
