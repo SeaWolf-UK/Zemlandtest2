@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flesh Golem
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flesh Golem
 *Source: Monster Manual p. 169, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
