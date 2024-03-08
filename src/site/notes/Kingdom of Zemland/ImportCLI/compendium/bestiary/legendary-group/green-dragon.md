@@ -7,6 +7,7 @@ tags:
 aliases:
   - Green Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Dragon
 
