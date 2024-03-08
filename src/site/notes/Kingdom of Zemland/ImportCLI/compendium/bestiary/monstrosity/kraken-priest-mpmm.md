@@ -11,6 +11,7 @@ tags:
 aliases:
   - Kraken Priest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kraken Priest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
