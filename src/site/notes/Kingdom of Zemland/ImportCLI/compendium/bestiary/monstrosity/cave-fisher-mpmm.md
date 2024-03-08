@@ -10,6 +10,7 @@ tags:
 aliases:
   - Cave Fisher
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cave Fisher
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
