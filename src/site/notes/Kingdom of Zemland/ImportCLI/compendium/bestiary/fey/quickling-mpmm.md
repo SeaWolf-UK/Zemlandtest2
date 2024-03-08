@@ -10,6 +10,7 @@ tags:
 aliases:
   - Quickling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quickling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
