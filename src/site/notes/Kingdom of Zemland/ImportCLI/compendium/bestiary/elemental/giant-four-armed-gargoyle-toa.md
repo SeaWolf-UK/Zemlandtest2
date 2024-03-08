@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Four-Armed Gargoyle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Four-Armed Gargoyle
 *Source: Tomb of Annihilation p. 221*  
