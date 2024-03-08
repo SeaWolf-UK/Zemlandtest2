@@ -9,6 +9,7 @@ tags:
 aliases:
   - Troll Amalgam
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Troll Amalgam
 *Source: Bigby Presents: Glory of the Giants p. 186*  
