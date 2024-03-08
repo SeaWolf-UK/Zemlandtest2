@@ -10,6 +10,7 @@ tags:
 aliases:
   - Beholder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beholder
 *Source: Monster Manual p. 28, Tomb of Annihilation, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
