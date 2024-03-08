@@ -13,6 +13,7 @@ tags:
 aliases:
   - Wastrilith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wastrilith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*  
