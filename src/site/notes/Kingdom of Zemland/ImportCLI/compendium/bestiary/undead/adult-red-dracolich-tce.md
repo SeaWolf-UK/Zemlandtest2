@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Red Dracolich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Red Dracolich
 *Source: Tasha's Cauldron of Everything p. 137*  
