@@ -14,6 +14,7 @@ tags:
 aliases:
   - Dire Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dire Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
