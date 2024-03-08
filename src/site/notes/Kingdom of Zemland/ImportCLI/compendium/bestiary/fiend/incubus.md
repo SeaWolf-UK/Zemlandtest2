@@ -10,6 +10,7 @@ tags:
 aliases:
   - Incubus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Incubus
 *Source: Monster Manual p. 285, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
