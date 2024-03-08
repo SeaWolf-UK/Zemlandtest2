@@ -11,6 +11,7 @@ tags:
 aliases:
   - Velociraptor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Velociraptor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
