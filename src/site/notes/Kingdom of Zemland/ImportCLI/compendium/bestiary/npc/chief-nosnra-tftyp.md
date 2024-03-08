@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chief Nosnra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chief Nosnra
 *Source: Tales from the Yawning Portal p. 170*  
