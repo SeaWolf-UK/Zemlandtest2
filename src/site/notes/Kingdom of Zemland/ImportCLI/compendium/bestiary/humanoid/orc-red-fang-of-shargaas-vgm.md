@@ -14,6 +14,7 @@ tags:
 aliases:
   - Orc Red Fang of Shargaas
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Red Fang of Shargaas
 *Source: Volo's Guide to Monsters p. 185*  
