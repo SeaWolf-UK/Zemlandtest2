@@ -10,6 +10,7 @@ tags:
 aliases:
   - Triceratops
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Triceratops
 *Source: Monster Manual p. 80, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
