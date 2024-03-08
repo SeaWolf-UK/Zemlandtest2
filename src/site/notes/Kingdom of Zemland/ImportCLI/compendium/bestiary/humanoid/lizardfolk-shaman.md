@@ -11,6 +11,7 @@ tags:
 aliases:
   - Lizardfolk Shaman
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lizardfolk Shaman
 *Source: Monster Manual p. 205, Tomb of Annihilation*  
