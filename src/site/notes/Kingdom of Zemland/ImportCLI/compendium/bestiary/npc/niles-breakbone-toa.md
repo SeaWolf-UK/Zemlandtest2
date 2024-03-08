@@ -9,6 +9,7 @@ tags:
 aliases:
   - Niles Breakbone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Niles Breakbone
 *Source: Tomb of Annihilation p. 47*  
