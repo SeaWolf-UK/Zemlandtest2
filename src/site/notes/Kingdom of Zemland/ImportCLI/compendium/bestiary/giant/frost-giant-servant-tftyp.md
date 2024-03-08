@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frost Giant Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant Servant
 *Source: Tales from the Yawning Portal p. 187*  
