@@ -9,6 +9,7 @@ tags:
 aliases:
   - Duodrone
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duodrone
 *Source: Monster Manual p. 225*  
