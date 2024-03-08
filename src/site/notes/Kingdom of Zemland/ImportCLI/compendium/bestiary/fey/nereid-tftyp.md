@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nereid
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nereid
 *Source: Tales from the Yawning Portal p. 240*  
