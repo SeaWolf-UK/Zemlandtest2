@@ -9,6 +9,7 @@ tags:
 aliases:
   - Undead Spirit (Skeletal, 6th-Level Spell)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Undead Spirit (Skeletal, 6th-Level Spell)
 *Source: Tasha's Cauldron of Everything p. 114*  
