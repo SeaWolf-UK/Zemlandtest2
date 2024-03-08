@@ -9,6 +9,7 @@ tags:
 aliases:
   - Leedara
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Leedara
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  
