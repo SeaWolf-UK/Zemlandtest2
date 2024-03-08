@@ -9,6 +9,7 @@ tags:
 aliases:
   - Astral Dreadnought
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Astral Dreadnought
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  
