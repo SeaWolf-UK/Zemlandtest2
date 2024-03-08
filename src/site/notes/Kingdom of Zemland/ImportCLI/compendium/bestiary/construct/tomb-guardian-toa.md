@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tomb Guardian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tomb Guardian
 *Source: Tomb of Annihilation p. 127*  
