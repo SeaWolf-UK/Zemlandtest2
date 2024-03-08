@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sandesyl Morgia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sandesyl Morgia
 *Source: Hoard of the Dragon Queen p. 81*  
