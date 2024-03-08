@@ -10,6 +10,7 @@ tags:
 aliases:
   - Faerie Dragon (Indigo)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Faerie Dragon (Indigo)
 *Source: Monster Manual p. 133*  
