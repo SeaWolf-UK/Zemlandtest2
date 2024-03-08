@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Soulblade
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Soulblade
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  
