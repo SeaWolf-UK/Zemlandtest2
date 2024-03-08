@@ -9,6 +9,7 @@ tags:
 aliases:
   - Avatar of Death (DMG)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Avatar of Death (DMG)
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  
