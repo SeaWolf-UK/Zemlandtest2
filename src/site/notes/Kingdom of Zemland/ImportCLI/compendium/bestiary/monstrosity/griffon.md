@@ -14,6 +14,7 @@ tags:
 aliases:
   - Griffon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Griffon
 *Source: Monster Manual p. 174, Hoard of the Dragon Queen, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
