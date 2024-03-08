@@ -11,6 +11,7 @@ tags:
 aliases:
   - Swarm of Rot Grubs
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Rot Grubs
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  
