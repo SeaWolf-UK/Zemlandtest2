@@ -10,6 +10,7 @@ tags:
 aliases:
   - Earth Elemental
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Earth Elemental
 *Source: Monster Manual p. 124, The Rise of Tiamat, Tomb of Annihilation, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
