@@ -9,6 +9,7 @@ tags:
 aliases:
   - Valenar Steed
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Valenar Steed
 *Source: Eberron: Rising from the Last War p. 313*  
