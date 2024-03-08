@@ -12,6 +12,7 @@ tags:
 aliases:
   - Raven
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Raven
 *Source: Monster Manual p. 335, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
