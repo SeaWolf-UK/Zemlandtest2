@@ -12,6 +12,7 @@ tags:
 aliases:
   - Boar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Boar
 *Source: Monster Manual p. 319, Tomb of Annihilation, Mythic Odysseys of Theros. Available in the SRD.*  
