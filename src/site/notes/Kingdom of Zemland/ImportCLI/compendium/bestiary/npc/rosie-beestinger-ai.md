@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rosie Beestinger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rosie Beestinger
 *Source: Acquisitions Incorporated p. 203*  
