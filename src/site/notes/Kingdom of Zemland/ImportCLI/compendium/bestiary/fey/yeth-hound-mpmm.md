@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yeth Hound
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yeth Hound
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  
