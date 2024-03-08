@@ -9,6 +9,7 @@ tags:
 aliases:
   - Returned Sentry
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Returned Sentry
 *Source: Mythic Odysseys of Theros p. 241*  
