@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rak Tulkhesh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rak Tulkhesh
 *Source: Eberron: Rising from the Last War p. 303*  
