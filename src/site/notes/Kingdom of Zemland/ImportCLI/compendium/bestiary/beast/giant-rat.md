@@ -13,6 +13,7 @@ tags:
 aliases:
   - Giant Rat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Rat
 *Source: Monster Manual p. 327, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
