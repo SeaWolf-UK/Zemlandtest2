@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cloud Giant Destiny Gambler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cloud Giant Destiny Gambler
 *Source: Bigby Presents: Glory of the Giants p. 124*  
