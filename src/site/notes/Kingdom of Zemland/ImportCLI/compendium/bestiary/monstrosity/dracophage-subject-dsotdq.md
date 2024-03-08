@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dracophage Subject
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dracophage Subject
 *Source: Dragonlance: Shadow of the Dragon Queen p. 118*  
