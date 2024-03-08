@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient Brass Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Brass Dragon
 *Source: Monster Manual p. 104. Available in the SRD.*  
