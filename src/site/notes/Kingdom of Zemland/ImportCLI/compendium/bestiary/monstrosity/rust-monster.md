@@ -10,6 +10,7 @@ tags:
 aliases:
   - Rust Monster
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rust Monster
 *Source: Monster Manual p. 262, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
