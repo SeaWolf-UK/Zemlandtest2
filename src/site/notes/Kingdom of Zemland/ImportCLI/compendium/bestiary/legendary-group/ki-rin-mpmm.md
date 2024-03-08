@@ -7,6 +7,7 @@ tags:
 aliases:
   - Ki-rin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ki-rin
 
