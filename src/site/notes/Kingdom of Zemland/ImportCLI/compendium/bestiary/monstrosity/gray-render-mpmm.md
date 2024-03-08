@@ -11,6 +11,7 @@ tags:
 aliases:
   - Gray Render
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gray Render
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
