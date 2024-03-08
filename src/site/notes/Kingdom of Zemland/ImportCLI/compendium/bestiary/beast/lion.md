@@ -13,6 +13,7 @@ tags:
 aliases:
   - Lion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lion
 *Source: Monster Manual p. 331, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
