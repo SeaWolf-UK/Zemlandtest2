@@ -9,6 +9,7 @@ tags:
 aliases:
   - Barovian Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Barovian Commoner
 *Source: Curse of Strahd p. 29*  
