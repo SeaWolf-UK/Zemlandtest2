@@ -12,6 +12,7 @@ tags:
 aliases:
   - Oblex Spawn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oblex Spawn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
