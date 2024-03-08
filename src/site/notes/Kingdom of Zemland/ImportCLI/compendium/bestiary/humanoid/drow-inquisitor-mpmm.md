@@ -11,6 +11,7 @@ tags:
 aliases:
   - Drow Inquisitor
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Inquisitor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*  
