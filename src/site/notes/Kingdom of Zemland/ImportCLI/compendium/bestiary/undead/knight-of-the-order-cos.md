@@ -9,6 +9,7 @@ tags:
 aliases:
   - Knight of the Order
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Knight of the Order
 *Source: Curse of Strahd p. 139*  
