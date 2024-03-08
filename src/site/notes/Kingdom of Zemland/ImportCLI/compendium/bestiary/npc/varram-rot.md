@@ -9,6 +9,7 @@ tags:
 aliases:
   - Varram
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Varram
 *Source: The Rise of Tiamat p. 9*  
