@@ -11,6 +11,7 @@ tags:
 aliases:
   - Giant Centipede
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Centipede
 *Source: Monster Manual p. 323, Hoard of the Dragon Queen, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
