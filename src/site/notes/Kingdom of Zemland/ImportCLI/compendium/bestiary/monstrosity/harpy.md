@@ -13,6 +13,7 @@ tags:
 aliases:
   - Harpy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Harpy
 *Source: Monster Manual p. 181, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
