@@ -11,6 +11,7 @@ tags:
 aliases:
   - Thorny Vegepygmy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thorny Vegepygmy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
