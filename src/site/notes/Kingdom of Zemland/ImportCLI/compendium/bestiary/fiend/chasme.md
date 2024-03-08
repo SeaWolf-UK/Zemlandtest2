@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chasme
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chasme
 *Source: Monster Manual p. 57, Baldur's Gate: Descent Into Avernus*  
