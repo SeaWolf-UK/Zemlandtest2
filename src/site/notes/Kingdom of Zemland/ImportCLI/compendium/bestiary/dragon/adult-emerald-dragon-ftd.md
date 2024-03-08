@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Emerald Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Emerald Dragon
 *Source: Fizban's Treasury of Dragons p. 196*  
