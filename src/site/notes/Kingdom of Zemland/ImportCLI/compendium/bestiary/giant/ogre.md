@@ -18,6 +18,7 @@ tags:
 aliases:
   - Ogre
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre
 *Source: Monster Manual p. 237, Hoard of the Dragon Queen, Lost Mine of Phandelver, The Rise of Tiamat, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
