@@ -12,6 +12,7 @@ tags:
 aliases:
   - Hobgoblin Iron Shadow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hobgoblin Iron Shadow
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
