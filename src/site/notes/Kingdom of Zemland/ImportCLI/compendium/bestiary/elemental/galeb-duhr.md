@@ -11,6 +11,7 @@ tags:
 aliases:
   - Galeb Duhr
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Galeb Duhr
 *Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  
