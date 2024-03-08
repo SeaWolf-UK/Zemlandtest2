@@ -10,6 +10,7 @@ tags:
 aliases:
   - Apprentice Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Apprentice Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  
