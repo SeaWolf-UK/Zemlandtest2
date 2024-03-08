@@ -16,6 +16,7 @@ tags:
 aliases:
   - Guard Drake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Guard Drake
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
