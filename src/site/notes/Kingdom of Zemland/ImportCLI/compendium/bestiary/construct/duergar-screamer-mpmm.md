@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Screamer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Screamer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  
