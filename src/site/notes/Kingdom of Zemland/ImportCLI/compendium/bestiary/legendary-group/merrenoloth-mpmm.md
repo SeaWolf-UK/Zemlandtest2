@@ -7,6 +7,7 @@ tags:
 aliases:
   - Merrenoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Merrenoloth
 
