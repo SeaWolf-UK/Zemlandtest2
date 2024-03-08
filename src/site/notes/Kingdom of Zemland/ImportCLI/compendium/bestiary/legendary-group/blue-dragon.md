@@ -7,6 +7,7 @@ tags:
 aliases:
   - Blue Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blue Dragon
 
