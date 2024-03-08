@@ -9,6 +9,7 @@ tags:
 aliases:
   - Githyanki Knight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githyanki Knight
 *Source: Monster Manual p. 160*  
