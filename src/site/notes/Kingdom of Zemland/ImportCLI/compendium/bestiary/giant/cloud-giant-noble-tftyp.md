@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cloud Giant Noble
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cloud Giant Noble
 *Source: Tales from the Yawning Portal p. 206*  
