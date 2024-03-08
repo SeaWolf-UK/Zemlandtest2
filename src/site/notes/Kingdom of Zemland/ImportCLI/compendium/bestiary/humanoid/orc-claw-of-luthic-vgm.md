@@ -11,6 +11,7 @@ tags:
 aliases:
   - Orc Claw of Luthic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Claw of Luthic
 *Source: Volo's Guide to Monsters p. 183*  
