@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gray Ooze
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gray Ooze
 *Source: Monster Manual p. 243, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal. Available in the SRD.*  
