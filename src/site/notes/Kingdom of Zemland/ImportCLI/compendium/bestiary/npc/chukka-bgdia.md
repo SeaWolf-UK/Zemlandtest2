@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chukka
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chukka
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
