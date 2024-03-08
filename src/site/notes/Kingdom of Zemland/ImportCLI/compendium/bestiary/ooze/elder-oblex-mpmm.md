@@ -12,6 +12,7 @@ tags:
 aliases:
   - Elder Oblex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Oblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  
