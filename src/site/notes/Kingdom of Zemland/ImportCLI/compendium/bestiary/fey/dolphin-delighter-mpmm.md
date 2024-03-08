@@ -11,6 +11,7 @@ tags:
 aliases:
   - Dolphin Delighter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dolphin Delighter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
