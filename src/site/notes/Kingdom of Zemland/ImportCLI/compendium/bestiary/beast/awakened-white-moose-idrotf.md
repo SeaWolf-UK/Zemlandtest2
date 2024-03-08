@@ -9,6 +9,7 @@ tags:
 aliases:
   - Awakened White Moose
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Awakened White Moose
 *Source: Icewind Dale: Rime of the Frostmaiden p. 82*  
