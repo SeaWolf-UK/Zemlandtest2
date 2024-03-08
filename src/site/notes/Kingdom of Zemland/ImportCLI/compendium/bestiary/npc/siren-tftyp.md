@@ -9,6 +9,7 @@ tags:
 aliases:
   - Siren
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Siren
 *Source: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros*  
