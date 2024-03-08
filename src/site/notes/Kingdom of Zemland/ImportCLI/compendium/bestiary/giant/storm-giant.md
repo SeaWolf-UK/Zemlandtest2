@@ -11,6 +11,7 @@ tags:
 aliases:
   - Storm Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Storm Giant
 *Source: Monster Manual p. 156, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
