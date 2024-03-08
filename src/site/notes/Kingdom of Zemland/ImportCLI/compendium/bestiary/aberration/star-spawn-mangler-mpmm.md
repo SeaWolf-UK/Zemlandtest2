@@ -9,6 +9,7 @@ tags:
 aliases:
   - Star Spawn Mangler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Star Spawn Mangler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
