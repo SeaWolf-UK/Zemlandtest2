@@ -12,6 +12,7 @@ tags:
 aliases:
   - Ettin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ettin
 *Source: Monster Manual p. 132, The Rise of Tiamat, Tales from the Yawning Portal. Available in the SRD.*  
