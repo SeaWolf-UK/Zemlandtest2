@@ -12,6 +12,7 @@ tags:
 aliases:
   - Corpse Flower
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Corpse Flower
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  
