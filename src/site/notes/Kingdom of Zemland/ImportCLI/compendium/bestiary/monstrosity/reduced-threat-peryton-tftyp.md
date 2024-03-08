@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Peryton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Peryton
 *Source: Tales from the Yawning Portal p. 113*  
