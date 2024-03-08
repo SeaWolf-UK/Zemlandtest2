@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bjornhild Solvigsdottir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bjornhild Solvigsdottir
 *Source: Icewind Dale: Rime of the Frostmaiden p. 306*  
