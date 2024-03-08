@@ -11,6 +11,7 @@ tags:
 aliases:
   - Young Silver Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Silver Dragon
 *Source: Monster Manual p. 118, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
