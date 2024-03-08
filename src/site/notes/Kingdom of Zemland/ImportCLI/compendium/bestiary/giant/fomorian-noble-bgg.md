@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fomorian Noble
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fomorian Noble
 *Source: Bigby Presents: Glory of the Giants p. 143*  
