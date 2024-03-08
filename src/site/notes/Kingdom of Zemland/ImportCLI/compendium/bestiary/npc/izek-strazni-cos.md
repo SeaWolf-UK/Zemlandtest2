@@ -9,6 +9,7 @@ tags:
 aliases:
   - Izek Strazni
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Izek Strazni
 *Source: Curse of Strahd p. 232*  
