@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clovin Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clovin Belview
 *Source: Curse of Strahd p. 147*  
