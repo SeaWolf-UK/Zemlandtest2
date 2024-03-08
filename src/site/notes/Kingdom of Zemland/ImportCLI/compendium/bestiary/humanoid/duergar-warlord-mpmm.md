@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Warlord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Warlord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
