@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grinning Cat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grinning Cat
 *Source: Bigby Presents: Glory of the Giants p. 156*  
