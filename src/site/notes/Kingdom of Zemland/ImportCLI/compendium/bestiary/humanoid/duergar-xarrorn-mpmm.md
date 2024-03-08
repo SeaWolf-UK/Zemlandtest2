@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Xarrorn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Xarrorn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*  
