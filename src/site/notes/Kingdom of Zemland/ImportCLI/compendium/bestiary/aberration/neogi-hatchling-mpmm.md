@@ -11,6 +11,7 @@ tags:
 aliases:
   - Neogi Hatchling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Neogi Hatchling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  
