@@ -9,6 +9,7 @@ tags:
 aliases:
   - Coldlight Walker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Coldlight Walker
 *Source: Icewind Dale: Rime of the Frostmaiden p. 284*  
