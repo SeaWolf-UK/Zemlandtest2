@@ -10,6 +10,7 @@ tags:
 aliases:
   - Satyr
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Satyr
 *Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*  
