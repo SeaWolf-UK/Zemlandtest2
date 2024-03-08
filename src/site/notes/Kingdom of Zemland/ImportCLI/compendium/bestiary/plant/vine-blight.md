@@ -10,6 +10,7 @@ tags:
 aliases:
   - Vine Blight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vine Blight
 *Source: Monster Manual p. 32, Curse of Strahd*  
