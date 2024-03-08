@@ -9,6 +9,7 @@ tags:
 aliases:
   - Black Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 168*  
