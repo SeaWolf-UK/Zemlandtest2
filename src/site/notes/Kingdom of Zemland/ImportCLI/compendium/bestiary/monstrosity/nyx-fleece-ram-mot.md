@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nyx-Fleece Ram
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nyx-Fleece Ram
 *Source: Mythic Odysseys of Theros p. 233*  
