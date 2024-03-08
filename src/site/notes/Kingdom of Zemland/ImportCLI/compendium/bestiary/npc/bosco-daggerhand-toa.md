@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bosco Daggerhand
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bosco Daggerhand
 *Source: Tomb of Annihilation p. 68*  
