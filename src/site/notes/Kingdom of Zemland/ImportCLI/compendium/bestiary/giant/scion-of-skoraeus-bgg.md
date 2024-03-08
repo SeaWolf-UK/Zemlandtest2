@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scion of Skoraeus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scion of Skoraeus
 *Source: Bigby Presents: Glory of the Giants p. 169*  
