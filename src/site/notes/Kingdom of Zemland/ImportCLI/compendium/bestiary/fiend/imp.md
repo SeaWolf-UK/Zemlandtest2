@@ -9,6 +9,7 @@ tags:
 aliases:
   - Imp
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Imp
 *Source: Monster Manual p. 76, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
