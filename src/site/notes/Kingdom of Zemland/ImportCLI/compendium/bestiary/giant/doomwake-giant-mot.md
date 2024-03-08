@@ -9,6 +9,7 @@ tags:
 aliases:
   - Doomwake Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Doomwake Giant
 *Source: Mythic Odysseys of Theros p. 224*  
