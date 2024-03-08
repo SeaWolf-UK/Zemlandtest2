@@ -10,6 +10,7 @@ tags:
 aliases:
   - Black Abishai
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
