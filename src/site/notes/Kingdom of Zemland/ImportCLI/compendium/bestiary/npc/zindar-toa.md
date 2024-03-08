@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zindar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zindar
 *Source: Tomb of Annihilation p. 239*  
