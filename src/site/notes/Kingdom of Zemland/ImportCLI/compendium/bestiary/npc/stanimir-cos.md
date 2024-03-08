@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stanimir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stanimir
 *Source: Curse of Strahd p. 20*  
