@@ -9,6 +9,7 @@ tags:
 aliases:
   - Two-Headed Cerberus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Two-Headed Cerberus
 *Source: Mythic Odysseys of Theros p. 215*  
