@@ -9,6 +9,7 @@ tags:
 aliases:
   - Salida
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Salida
 *Source: Tomb of Annihilation p. 35*  
