@@ -9,6 +9,7 @@ tags:
 aliases:
   - Avarice
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Avarice
 *Source: Icewind Dale: Rime of the Frostmaiden p. 269*  
