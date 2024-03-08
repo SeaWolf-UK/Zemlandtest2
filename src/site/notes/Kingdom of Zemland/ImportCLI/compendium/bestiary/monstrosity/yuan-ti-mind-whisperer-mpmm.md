@@ -12,6 +12,7 @@ tags:
 aliases:
   - Yuan-ti Mind Whisperer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Mind Whisperer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  
