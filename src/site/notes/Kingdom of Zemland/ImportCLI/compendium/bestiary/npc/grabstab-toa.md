@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grabstab
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grabstab
 *Source: Tomb of Annihilation p. 89*  
