@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonblood Ooze
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonblood Ooze
 *Source: Fizban's Treasury of Dragons p. 182*  
