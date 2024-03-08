@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tomb Dwarf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tomb Dwarf
 *Source: Tomb of Annihilation p. 135*  
