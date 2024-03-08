@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fensir Devourer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fensir Devourer
 *Source: Bigby Presents: Glory of the Giants p. 135*  
