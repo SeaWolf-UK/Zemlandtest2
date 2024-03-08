@@ -12,6 +12,7 @@ tags:
 aliases:
   - Hippogriff
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hippogriff
 *Source: Monster Manual p. 184, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
