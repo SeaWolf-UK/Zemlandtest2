@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lacedon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lacedon
 *Source: Tales from the Yawning Portal p. 147*  
