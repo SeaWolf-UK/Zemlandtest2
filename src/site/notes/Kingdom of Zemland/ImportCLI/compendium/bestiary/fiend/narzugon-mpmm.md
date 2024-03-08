@@ -9,6 +9,7 @@ tags:
 aliases:
   - Narzugon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Narzugon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
