@@ -9,6 +9,7 @@ tags:
 aliases:
   - Becklin Uth Viharin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Becklin Uth Viharin
 *Source: Dragonlance: Shadow of the Dragon Queen p. 55*  
