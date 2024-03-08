@@ -11,6 +11,7 @@ tags:
 aliases:
   - Shadar-kai Gloom Weaver
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadar-kai Gloom Weaver
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
