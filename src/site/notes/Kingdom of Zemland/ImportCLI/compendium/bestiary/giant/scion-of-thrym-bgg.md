@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scion of Thrym
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scion of Thrym
 *Source: Bigby Presents: Glory of the Giants p. 175*  
