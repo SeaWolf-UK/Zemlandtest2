@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll Pack Lord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Pack Lord
 *Source: Monster Manual p. 163, Baldur's Gate: Descent Into Avernus*  
