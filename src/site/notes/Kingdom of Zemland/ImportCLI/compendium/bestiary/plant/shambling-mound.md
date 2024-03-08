@@ -11,6 +11,7 @@ tags:
 aliases:
   - Shambling Mound
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shambling Mound
 *Source: Monster Manual p. 270, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD.*  
