@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hashalaq Quori
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hashalaq Quori
 *Source: Eberron: Rising from the Last War p. 305*  
