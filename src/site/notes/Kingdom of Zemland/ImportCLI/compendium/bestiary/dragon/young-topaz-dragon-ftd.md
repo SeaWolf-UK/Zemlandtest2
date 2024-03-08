@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Topaz Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Topaz Dragon
 *Source: Fizban's Treasury of Dragons p. 223*  
