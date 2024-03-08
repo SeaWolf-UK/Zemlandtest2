@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aldani (Lobsterfolk)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aldani (Lobsterfolk)
 *Source: Tomb of Annihilation p. 210*  
