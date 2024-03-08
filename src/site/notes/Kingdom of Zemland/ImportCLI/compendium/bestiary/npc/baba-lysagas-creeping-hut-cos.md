@@ -9,6 +9,7 @@ tags:
 aliases:
   - Baba Lysaga's Creeping Hut
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baba Lysaga's Creeping Hut
 *Source: Curse of Strahd p. 226*  
