@@ -10,6 +10,7 @@ tags:
 aliases:
   - Spectator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spectator
 *Source: Monster Manual p. 30, Lost Mine of Phandelver, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules.*  
