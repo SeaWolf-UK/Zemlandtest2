@@ -11,6 +11,7 @@ tags:
 aliases:
   - Doppelganger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Doppelganger
 *Source: Monster Manual p. 82, Hoard of the Dragon Queen, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
