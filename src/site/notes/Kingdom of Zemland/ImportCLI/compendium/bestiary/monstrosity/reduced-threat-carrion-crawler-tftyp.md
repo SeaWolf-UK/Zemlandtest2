@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Carrion Crawler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Carrion Crawler
 *Source: Tales from the Yawning Portal p. 113*  
