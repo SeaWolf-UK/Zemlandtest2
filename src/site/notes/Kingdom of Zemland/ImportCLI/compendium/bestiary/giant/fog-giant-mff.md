@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fog Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fog Giant
 *Source: Mordenkainen's Fiendish Folio p. 10*  
