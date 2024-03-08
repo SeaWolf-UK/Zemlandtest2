@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snow Leopard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snow Leopard
 *Source: Tales from the Yawning Portal p. 183*  
