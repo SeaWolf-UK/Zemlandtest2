@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Object (Large)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Object (Large)
 *Source: Player's Handbook p. 213*  
