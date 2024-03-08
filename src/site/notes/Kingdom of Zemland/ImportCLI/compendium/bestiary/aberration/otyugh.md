@@ -10,6 +10,7 @@ tags:
 aliases:
   - Otyugh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Otyugh
 *Source: Monster Manual p. 248, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD.*  
