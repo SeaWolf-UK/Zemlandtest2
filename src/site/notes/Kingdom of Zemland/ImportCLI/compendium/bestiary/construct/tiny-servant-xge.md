@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tiny Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tiny Servant
 *Source: Xanathar's Guide to Everything p. 169*  
