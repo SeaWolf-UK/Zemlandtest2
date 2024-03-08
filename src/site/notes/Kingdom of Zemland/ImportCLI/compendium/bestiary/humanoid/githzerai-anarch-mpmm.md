@@ -9,6 +9,7 @@ tags:
 aliases:
   - Githzerai Anarch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githzerai Anarch
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  
