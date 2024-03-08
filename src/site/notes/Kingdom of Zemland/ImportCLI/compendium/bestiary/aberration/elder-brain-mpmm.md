@@ -10,6 +10,7 @@ tags:
 aliases:
   - Elder Brain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Brain
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*  
