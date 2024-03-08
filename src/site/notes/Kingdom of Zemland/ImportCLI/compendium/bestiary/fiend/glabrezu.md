@@ -9,6 +9,7 @@ tags:
 aliases:
   - Glabrezu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Glabrezu
 *Source: Monster Manual p. 58, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
