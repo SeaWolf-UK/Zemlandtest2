@@ -9,6 +9,7 @@ tags:
 aliases:
   - Withers
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Withers
 *Source: Tomb of Annihilation p. 145*  
