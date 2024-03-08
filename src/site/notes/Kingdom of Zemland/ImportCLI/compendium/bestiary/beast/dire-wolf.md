@@ -11,6 +11,7 @@ tags:
 aliases:
   - Dire Wolf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dire Wolf
 *Source: Monster Manual p. 321, Curse of Strahd, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
