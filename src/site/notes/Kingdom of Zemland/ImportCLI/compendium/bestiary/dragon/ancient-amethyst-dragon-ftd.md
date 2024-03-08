@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Amethyst Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Amethyst Dragon
 *Source: Fizban's Treasury of Dragons p. 160*  
