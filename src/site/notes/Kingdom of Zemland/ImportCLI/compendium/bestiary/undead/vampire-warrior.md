@@ -10,6 +10,7 @@ tags:
 aliases:
   - Vampire Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vampire Warrior
 *Source: Monster Manual p. 298*  
