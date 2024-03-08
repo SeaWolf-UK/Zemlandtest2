@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Ochre Jelly
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Ochre Jelly
 *Source: Tales from the Yawning Portal p. 113*  
