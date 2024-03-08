@@ -9,6 +9,7 @@ tags:
 aliases:
   - Icewind Kobold Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Icewind Kobold Zombie
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  
