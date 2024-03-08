@@ -9,6 +9,7 @@ tags:
 aliases:
   - Azer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Azer
 *Source: Monster Manual p. 22. Available in the SRD.*  
