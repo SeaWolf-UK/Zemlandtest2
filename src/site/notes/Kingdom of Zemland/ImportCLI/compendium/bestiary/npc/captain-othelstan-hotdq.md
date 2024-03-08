@@ -9,6 +9,7 @@ tags:
 aliases:
   - Captain Othelstan
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Captain Othelstan
 *Source: Hoard of the Dragon Queen p. 89*  
