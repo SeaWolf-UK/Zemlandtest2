@@ -9,6 +9,7 @@ tags:
 aliases:
   - Thorn Slinger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thorn Slinger
 *Source: Tales from the Yawning Portal p. 246*  
