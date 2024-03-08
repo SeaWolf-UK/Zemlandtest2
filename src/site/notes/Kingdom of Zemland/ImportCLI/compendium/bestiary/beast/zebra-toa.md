@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zebra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zebra
 *Source: Tomb of Annihilation p. 106*  
