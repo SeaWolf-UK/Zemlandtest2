@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cyrus Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cyrus Belview
 *Source: Curse of Strahd p. 77*  
