@@ -9,6 +9,7 @@ tags:
 aliases:
   - Black Gauntlet of Bane
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Gauntlet of Bane
 *Source: Baldur's Gate: Descent Into Avernus p. 235*  
