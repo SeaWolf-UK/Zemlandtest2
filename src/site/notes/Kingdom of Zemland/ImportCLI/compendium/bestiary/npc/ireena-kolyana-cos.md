@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ireena Kolyana
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ireena Kolyana
 *Source: Curse of Strahd p. 44*  
