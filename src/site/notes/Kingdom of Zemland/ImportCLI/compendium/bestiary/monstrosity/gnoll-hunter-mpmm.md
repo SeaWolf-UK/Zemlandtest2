@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll Hunter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll Hunter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
