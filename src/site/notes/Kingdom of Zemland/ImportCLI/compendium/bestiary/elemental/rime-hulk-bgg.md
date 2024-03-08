@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rime Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rime Hulk
 *Source: Bigby Presents: Glory of the Giants p. 162*  
