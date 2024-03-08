@@ -10,6 +10,7 @@ tags:
 aliases:
   - Adult Green Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Green Dragon
 *Source: Monster Manual p. 94, The Rise of Tiamat. Available in the SRD.*  
