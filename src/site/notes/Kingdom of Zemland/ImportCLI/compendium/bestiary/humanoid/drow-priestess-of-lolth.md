@@ -10,6 +10,7 @@ tags:
 aliases:
   - Drow Priestess of Lolth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drow Priestess of Lolth
 *Source: Monster Manual p. 129, Tales from the Yawning Portal*  
