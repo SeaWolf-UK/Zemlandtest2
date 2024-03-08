@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hrigg Roundrook
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hrigg Roundrook
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
