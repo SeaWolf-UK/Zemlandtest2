@@ -9,6 +9,7 @@ tags:
 aliases:
   - Norker War Leader
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Norker War Leader
 *Source: Mordenkainen's Fiendish Folio p. 17*  
