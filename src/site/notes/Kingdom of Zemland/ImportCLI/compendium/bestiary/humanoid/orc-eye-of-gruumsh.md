@@ -16,6 +16,7 @@ tags:
 aliases:
   - Orc Eye of Gruumsh
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Eye of Gruumsh
 *Source: Monster Manual p. 247, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  
