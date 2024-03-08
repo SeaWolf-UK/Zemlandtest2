@@ -9,6 +9,7 @@ tags:
 aliases:
   - Distended Corpse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Distended Corpse
 *Source: Curse of Strahd p. 165*  
