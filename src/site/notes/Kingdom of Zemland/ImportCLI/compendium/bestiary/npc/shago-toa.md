@@ -9,6 +9,7 @@ tags:
 aliases:
   - Shago
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shago
 *Source: Tomb of Annihilation p. 35*  
