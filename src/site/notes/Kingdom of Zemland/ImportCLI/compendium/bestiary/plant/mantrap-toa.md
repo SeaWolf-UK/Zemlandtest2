@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mantrap
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mantrap
 *Source: Tomb of Annihilation p. 227*  
