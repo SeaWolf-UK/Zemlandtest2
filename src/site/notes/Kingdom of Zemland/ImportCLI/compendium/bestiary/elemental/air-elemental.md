@@ -11,6 +11,7 @@ tags:
 aliases:
   - Air Elemental
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Air Elemental
 *Source: Monster Manual p. 124, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
