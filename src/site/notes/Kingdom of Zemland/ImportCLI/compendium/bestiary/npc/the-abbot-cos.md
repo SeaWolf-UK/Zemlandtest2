@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Abbot
 dg-publish: "true"
+DG-publish: "True"
 ---
 # The Abbot
 *Source: Curse of Strahd p. 151*  
