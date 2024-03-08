@@ -7,6 +7,7 @@ tags:
 aliases:
   - Githzerai Anarch
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Githzerai Anarch
 
