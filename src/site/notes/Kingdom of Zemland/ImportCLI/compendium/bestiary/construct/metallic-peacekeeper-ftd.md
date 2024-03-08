@@ -9,6 +9,7 @@ tags:
 aliases:
   - Metallic Peacekeeper
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Metallic Peacekeeper
 *Source: Fizban's Treasury of Dragons p. 210*  
