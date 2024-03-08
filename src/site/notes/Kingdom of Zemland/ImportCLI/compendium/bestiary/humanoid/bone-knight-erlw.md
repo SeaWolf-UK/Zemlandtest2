@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bone Knight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bone Knight
 *Source: Eberron: Rising from the Last War p. 316*  
