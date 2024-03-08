@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fire Giant Royal Headsman
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant Royal Headsman
 *Source: Tales from the Yawning Portal p. 201*  
