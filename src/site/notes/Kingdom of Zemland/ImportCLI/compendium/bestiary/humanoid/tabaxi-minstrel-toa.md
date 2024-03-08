@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tabaxi Minstrel
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tabaxi Minstrel
 *Source: Tomb of Annihilation p. 233*  
