@@ -13,6 +13,7 @@ tags:
 aliases:
   - Giant Elk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Elk
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
