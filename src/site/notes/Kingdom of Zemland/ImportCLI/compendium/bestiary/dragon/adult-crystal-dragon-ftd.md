@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Crystal Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Crystal Dragon
 *Source: Fizban's Treasury of Dragons p. 171*  
