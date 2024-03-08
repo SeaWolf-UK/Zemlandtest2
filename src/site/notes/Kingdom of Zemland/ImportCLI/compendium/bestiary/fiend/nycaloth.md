@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nycaloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nycaloth
 *Source: Monster Manual p. 314, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything*  
