@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mortlock Vanthampur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mortlock Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 26*  
