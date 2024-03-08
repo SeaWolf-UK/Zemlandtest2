@@ -10,6 +10,7 @@ tags:
 aliases:
   - Giant Sea Horse
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Sea Horse
 *Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
