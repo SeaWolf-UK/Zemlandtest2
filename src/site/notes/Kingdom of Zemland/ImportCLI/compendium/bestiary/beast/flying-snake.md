@@ -13,6 +13,7 @@ tags:
 aliases:
   - Flying Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flying Snake
 *Source: Monster Manual p. 322, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
