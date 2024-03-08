@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vellynne Harpell
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vellynne Harpell
 *Source: Icewind Dale: Rime of the Frostmaiden p. 273*  
