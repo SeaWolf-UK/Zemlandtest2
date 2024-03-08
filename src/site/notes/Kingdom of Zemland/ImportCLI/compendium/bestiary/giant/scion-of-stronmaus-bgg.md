@@ -9,6 +9,7 @@ tags:
 aliases:
   - Scion of Stronmaus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scion of Stronmaus
 *Source: Bigby Presents: Glory of the Giants p. 171*  
