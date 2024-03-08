@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ettin Ceremorph
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ettin Ceremorph
 *Source: Bigby Presents: Glory of the Giants p. 133*  
