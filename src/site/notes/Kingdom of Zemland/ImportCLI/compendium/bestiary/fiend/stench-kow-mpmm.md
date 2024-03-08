@@ -11,6 +11,7 @@ tags:
 aliases:
   - Stench Kow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stench Kow
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
