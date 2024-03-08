@@ -10,6 +10,7 @@ tags:
 aliases:
   - Djinni
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Djinni
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the SRD.*  
