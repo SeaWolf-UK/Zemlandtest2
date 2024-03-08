@@ -12,6 +12,7 @@ tags:
 aliases:
   - Star Spawn Seer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Star Spawn Seer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  
