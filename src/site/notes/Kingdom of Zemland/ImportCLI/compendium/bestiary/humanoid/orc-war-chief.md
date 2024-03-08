@@ -16,6 +16,7 @@ tags:
 aliases:
   - Orc War Chief
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc War Chief
 *Source: Monster Manual p. 246, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden*  
