@@ -9,6 +9,7 @@ tags:
 aliases:
   - Burney the Barber
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Burney the Barber
 *Source: Baldur's Gate: Descent Into Avernus p. 129*  
