@@ -10,6 +10,7 @@ tags:
 aliases:
   - Scorpion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Scorpion
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
