@@ -12,6 +12,7 @@ tags:
 aliases:
   - Hungry Sorrowsworn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hungry Sorrowsworn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
