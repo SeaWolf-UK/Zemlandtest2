@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Ox
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Ox
 *Source: Bigby Presents: Glory of the Giants p. 152*  
