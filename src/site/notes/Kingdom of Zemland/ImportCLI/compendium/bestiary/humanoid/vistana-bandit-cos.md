@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Bandit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Bandit
 *Source: Curse of Strahd p. 28*  
