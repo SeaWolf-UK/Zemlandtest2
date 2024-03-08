@@ -11,6 +11,7 @@ tags:
 aliases:
   - Babau
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Babau
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
