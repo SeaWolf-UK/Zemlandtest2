@@ -11,6 +11,7 @@ tags:
 aliases:
   - Adult Blue Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Blue Dragon
 *Source: Monster Manual p. 91, Hoard of the Dragon Queen, The Rise of Tiamat, Mythic Odysseys of Theros. Available in the SRD.*  
