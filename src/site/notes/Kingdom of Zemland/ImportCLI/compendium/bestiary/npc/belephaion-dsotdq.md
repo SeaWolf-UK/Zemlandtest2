@@ -9,6 +9,7 @@ tags:
 aliases:
   - Belephaion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Belephaion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 157*  
