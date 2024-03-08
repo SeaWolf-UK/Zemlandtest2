@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mind Flayer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mind Flayer
 *Source: Monster Manual p. 222, Tales from the Yawning Portal, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
