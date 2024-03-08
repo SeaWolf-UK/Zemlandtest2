@@ -11,6 +11,7 @@ tags:
 aliases:
   - Plesiosaurus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Plesiosaurus
 *Source: Monster Manual p. 80, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
