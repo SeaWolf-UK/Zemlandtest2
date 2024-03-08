@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cradle of the Hill Scion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cradle of the Hill Scion
 *Source: Bigby Presents: Glory of the Giants p. 164*  
