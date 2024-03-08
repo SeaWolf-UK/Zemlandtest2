@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dyrrn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dyrrn
 *Source: Eberron: Rising from the Last War p. 288*  
