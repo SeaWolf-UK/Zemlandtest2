@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kelson Darktreader
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kelson Darktreader
 *Source: Tales from the Yawning Portal p. 132*  
