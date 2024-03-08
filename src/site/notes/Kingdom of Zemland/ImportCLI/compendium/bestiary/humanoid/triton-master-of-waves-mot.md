@@ -9,6 +9,7 @@ tags:
 aliases:
   - Triton Master of Waves
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Triton Master of Waves
 *Source: Mythic Odysseys of Theros p. 245*  
