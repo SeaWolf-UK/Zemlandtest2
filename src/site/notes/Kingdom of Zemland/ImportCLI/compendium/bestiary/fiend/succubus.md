@@ -10,6 +10,7 @@ tags:
 aliases:
   - Succubus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Succubus
 *Source: Monster Manual p. 285, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
