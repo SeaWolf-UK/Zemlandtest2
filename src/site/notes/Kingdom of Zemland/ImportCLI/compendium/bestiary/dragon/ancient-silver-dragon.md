@@ -11,6 +11,7 @@ tags:
 aliases:
   - Ancient Silver Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Silver Dragon
 *Source: Monster Manual p. 116. Available in the SRD.*  
