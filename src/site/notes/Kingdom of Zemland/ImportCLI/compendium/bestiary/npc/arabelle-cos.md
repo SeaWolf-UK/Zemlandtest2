@@ -9,6 +9,7 @@ tags:
 aliases:
   - Arabelle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Arabelle
 *Source: Curse of Strahd p. 38*  
