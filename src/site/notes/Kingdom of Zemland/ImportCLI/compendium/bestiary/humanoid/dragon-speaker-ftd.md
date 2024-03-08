@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Speaker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Speaker
 *Source: Fizban's Treasury of Dragons p. 189*  
