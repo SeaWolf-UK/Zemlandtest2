@@ -9,6 +9,7 @@ tags:
 aliases:
   - Moonstone Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Moonstone Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 213*  
