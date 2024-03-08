@@ -11,6 +11,7 @@ tags:
 aliases:
   - Phoenix
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phoenix
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
