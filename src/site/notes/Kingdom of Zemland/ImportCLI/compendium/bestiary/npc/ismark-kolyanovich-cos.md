@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ismark Kolyanovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ismark Kolyanovich
 *Source: Curse of Strahd p. 43*  
