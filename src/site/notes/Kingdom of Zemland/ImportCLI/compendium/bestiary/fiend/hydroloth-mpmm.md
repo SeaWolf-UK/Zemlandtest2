@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hydroloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hydroloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  
