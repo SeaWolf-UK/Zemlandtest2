@@ -10,6 +10,7 @@ tags:
 aliases:
   - Blink Dog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Blink Dog
 *Source: Monster Manual p. 318, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
