@@ -9,6 +9,7 @@ tags:
 aliases:
   - Duergar Spy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Spy
 *Source: Tales from the Yawning Portal p. 234*  
