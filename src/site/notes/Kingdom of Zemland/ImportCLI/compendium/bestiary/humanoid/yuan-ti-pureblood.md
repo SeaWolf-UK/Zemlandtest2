@@ -13,6 +13,7 @@ tags:
 aliases:
   - Yuan-ti Pureblood
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Pureblood
 *Source: Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Tomb of Annihilation*  
