@@ -7,6 +7,7 @@ tags:
 aliases:
   - Elder Brain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elder Brain
 
