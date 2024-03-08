@@ -9,6 +9,7 @@ tags:
 aliases:
   - Redbrand Ruffian
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Redbrand Ruffian
 *Source: Lost Mine of Phandelver p. 61*  
