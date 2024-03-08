@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aspect of Bahamut
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aspect of Bahamut
 *Source: Fizban's Treasury of Dragons p. 165*  
