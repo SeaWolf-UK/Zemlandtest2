@@ -11,6 +11,7 @@ tags:
 aliases:
   - Mimic
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mimic
 *Source: Monster Manual p. 220, Curse of Strahd, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
