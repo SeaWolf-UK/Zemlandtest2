@@ -17,6 +17,7 @@ tags:
 aliases:
   - Veteran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Veteran
 *Source: Monster Manual p. 350, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
