@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Cat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Cat
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
