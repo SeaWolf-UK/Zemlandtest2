@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tabaxi Hunter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tabaxi Hunter
 *Source: Tomb of Annihilation p. 232*  
