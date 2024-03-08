@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Kavalrachni
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Kavalrachni
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
