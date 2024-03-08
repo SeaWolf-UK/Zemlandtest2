@@ -18,6 +18,7 @@ tags:
 aliases:
   - Tribal Warrior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tribal Warrior
 *Source: Monster Manual p. 350, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
