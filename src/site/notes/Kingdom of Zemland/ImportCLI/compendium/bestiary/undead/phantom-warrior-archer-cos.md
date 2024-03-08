@@ -9,6 +9,7 @@ tags:
 aliases:
   - Phantom Warrior (Archer)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Phantom Warrior (Archer)
 *Source: Curse of Strahd p. 142*  
