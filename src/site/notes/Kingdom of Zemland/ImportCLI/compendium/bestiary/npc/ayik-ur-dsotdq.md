@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ayik Ur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ayik Ur
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
