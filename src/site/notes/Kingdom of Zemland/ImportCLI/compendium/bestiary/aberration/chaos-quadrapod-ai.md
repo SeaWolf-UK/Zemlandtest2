@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chaos Quadrapod
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chaos Quadrapod
 *Source: Acquisitions Incorporated p. 209*  
