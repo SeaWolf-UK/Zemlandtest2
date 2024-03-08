@@ -9,6 +9,7 @@ tags:
 aliases:
   - Returned Palamnite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Returned Palamnite
 *Source: Mythic Odysseys of Theros p. 241*  
