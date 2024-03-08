@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spider
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
