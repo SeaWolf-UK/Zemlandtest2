@@ -14,6 +14,7 @@ tags:
 aliases:
   - Hobgoblin Captain
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hobgoblin Captain
 *Source: Monster Manual p. 186, Hoard of the Dragon Queen, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen*  
