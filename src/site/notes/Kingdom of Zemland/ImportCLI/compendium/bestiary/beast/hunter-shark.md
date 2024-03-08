@@ -10,6 +10,7 @@ tags:
 aliases:
   - Hunter Shark
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hunter Shark
 *Source: Monster Manual p. 330, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
