@@ -9,6 +9,7 @@ tags:
 aliases:
   - Caradoc
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Caradoc
 *Source: Dragonlance: Shadow of the Dragon Queen p. 193*  
