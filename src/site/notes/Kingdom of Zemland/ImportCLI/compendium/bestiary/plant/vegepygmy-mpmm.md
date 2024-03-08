@@ -11,6 +11,7 @@ tags:
 aliases:
   - Vegepygmy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vegepygmy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
