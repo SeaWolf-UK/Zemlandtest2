@@ -9,6 +9,7 @@ tags:
 aliases:
   - Verbeeg Longstrider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Verbeeg Longstrider
 *Source: Icewind Dale: Rime of the Frostmaiden p. 311*  
