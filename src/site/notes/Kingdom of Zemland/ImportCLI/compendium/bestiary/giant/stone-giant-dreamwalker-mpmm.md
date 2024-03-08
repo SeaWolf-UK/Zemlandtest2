@@ -12,6 +12,7 @@ tags:
 aliases:
   - Stone Giant Dreamwalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Giant Dreamwalker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
