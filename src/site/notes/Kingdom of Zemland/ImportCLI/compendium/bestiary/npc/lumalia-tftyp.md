@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lumalia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lumalia
 *Source: Tales from the Yawning Portal p. 153*  
