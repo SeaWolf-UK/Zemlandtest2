@@ -18,6 +18,7 @@ tags:
 aliases:
   - Stirge
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stirge
 *Source: Monster Manual p. 284, Hoard of the Dragon Queen, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  
