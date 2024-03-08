@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Burning Hands
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Burning Hands
 *Source: Eberron: Rising from the Last War p. 298*  
