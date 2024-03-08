@@ -9,6 +9,7 @@ tags:
 aliases:
   - Theran Chimera
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Theran Chimera
 *Source: Mythic Odysseys of Theros p. 216*  
