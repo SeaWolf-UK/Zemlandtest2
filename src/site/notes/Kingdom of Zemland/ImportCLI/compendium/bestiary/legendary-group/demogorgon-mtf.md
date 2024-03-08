@@ -7,6 +7,7 @@ tags:
 aliases:
   - Demogorgon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demogorgon
 
