@@ -9,6 +9,7 @@ tags:
 aliases:
   - Talis the White
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Talis the White
 *Source: Hoard of the Dragon Queen p. 93*  
