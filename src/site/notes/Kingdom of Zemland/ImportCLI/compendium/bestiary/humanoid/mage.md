@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mage
 *Source: Monster Manual p. 347, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
