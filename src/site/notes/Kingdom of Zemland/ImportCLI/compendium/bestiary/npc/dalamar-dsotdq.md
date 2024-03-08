@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dalamar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dalamar
 *Source: Dragonlance: Shadow of the Dragon Queen p. 111*  
