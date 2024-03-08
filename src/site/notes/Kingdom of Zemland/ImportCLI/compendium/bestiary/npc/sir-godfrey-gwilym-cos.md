@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sir Godfrey Gwilym
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sir Godfrey Gwilym
 *Source: Curse of Strahd p. 139*  
