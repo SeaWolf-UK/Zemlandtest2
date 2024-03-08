@@ -11,6 +11,7 @@ tags:
 aliases:
   - Alkilith
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Alkilith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
