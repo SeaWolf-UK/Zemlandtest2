@@ -10,6 +10,7 @@ tags:
 aliases:
   - Aboleth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aboleth
 *Source: Monster Manual p. 13, Tomb of Annihilation. Available in the SRD.*  
