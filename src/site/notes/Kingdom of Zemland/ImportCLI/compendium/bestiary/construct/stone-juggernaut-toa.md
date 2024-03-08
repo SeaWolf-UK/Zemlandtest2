@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stone Juggernaut
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Juggernaut
 *Source: Tomb of Annihilation p. 231*  
