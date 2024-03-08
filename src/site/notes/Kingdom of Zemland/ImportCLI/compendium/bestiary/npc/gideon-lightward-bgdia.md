@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gideon Lightward
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gideon Lightward
 *Source: Baldur's Gate: Descent Into Avernus p. 65*  
