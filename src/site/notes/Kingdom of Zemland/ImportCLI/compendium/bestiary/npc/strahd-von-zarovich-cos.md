@@ -9,6 +9,7 @@ tags:
 aliases:
   - Strahd von Zarovich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Strahd von Zarovich
 *Source: Curse of Strahd p. 240*  
