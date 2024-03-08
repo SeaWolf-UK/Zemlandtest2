@@ -9,6 +9,7 @@ tags:
 aliases:
   - Brain in a Jar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brain in a Jar
 *Source: Van Richten's Guide to Ravenloft p. 278, Icewind Dale: Rime of the Frostmaiden p. 278*  
