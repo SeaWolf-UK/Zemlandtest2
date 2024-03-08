@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aerosaur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aerosaur
 *Source: Bigby Presents: Glory of the Giants p. 128*  
