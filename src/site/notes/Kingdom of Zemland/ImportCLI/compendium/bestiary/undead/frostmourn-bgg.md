@@ -9,6 +9,7 @@ tags:
 aliases:
   - Frostmourn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frostmourn
 *Source: Bigby Presents: Glory of the Giants p. 147*  
