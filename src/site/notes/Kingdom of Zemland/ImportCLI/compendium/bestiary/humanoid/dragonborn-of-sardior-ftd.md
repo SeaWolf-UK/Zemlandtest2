@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragonborn of Sardior
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragonborn of Sardior
 *Source: Fizban's Treasury of Dragons p. 185*  
