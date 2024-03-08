@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spellix Romwod
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spellix Romwod
 *Source: Icewind Dale: Rime of the Frostmaiden p. 144*  
