@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aphemia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aphemia
 *Source: Mythic Odysseys of Theros p. 226*  
