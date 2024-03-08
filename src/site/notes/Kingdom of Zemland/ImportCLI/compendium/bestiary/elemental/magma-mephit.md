@@ -10,6 +10,7 @@ tags:
 aliases:
   - Magma Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Magma Mephit
 *Source: Monster Manual p. 216, Tomb of Annihilation. Available in the SRD.*  
