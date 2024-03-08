@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Bronze Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Bronze Dragon
 *Source: Monster Manual p. 108. Available in the SRD.*  
