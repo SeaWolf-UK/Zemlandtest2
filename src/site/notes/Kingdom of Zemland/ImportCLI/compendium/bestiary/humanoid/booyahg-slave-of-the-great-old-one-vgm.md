@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Slave of the Great Old One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Slave of the Great Old One
 *Source: Volo's Guide to Monsters p. 42*  
