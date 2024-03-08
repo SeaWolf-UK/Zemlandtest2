@@ -9,6 +9,7 @@ tags:
 aliases:
   - Helga Ruvak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Helga Ruvak
 *Source: Curse of Strahd p. 64*  
