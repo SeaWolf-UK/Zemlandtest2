@@ -7,6 +7,7 @@ tags:
 aliases:
   - Green Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Hag
 
