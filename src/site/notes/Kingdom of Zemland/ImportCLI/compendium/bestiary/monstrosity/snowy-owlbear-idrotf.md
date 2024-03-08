@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snowy Owlbear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snowy Owlbear
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  
