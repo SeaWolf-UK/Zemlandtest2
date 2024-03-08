@@ -9,6 +9,7 @@ tags:
 aliases:
   - Inspired
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Inspired
 *Source: Eberron: Rising from the Last War p. 294*  
