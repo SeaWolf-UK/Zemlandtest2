@@ -11,6 +11,7 @@ tags:
 aliases:
   - Poltergeist
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Poltergeist
 *Source: Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden*  
