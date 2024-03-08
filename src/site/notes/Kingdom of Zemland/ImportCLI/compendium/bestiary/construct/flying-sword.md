@@ -9,6 +9,7 @@ tags:
 aliases:
   - Flying Sword
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flying Sword
 *Source: Monster Manual p. 20, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
