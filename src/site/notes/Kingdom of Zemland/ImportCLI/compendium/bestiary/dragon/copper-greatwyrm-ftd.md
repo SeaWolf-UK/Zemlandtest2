@@ -9,6 +9,7 @@ tags:
 aliases:
   - Copper Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Copper Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 208*  
