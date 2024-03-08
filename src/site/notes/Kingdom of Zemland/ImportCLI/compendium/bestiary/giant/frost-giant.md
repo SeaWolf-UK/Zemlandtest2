@@ -11,6 +11,7 @@ tags:
 aliases:
   - Frost Giant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant
 *Source: Monster Manual p. 155, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
