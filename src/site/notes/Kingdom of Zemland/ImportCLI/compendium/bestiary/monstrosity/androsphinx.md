@@ -10,6 +10,7 @@ tags:
 aliases:
   - Androsphinx
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Androsphinx
 *Source: Monster Manual p. 281, Mythic Odysseys of Theros. Available in the SRD.*  
