@@ -9,6 +9,7 @@ tags:
 aliases:
   - Booyahg Whip
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Booyahg Whip
 *Source: Volo's Guide to Monsters p. 42*  
