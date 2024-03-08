@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Griffon (Tiny)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Griffon (Tiny)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 163*  
