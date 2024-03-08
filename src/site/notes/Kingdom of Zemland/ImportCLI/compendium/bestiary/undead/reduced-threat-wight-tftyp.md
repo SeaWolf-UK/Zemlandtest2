@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Wight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Wight
 *Source: Tales from the Yawning Portal p. 113*  
