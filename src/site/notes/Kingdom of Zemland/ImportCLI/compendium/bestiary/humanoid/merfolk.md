@@ -11,6 +11,7 @@ tags:
 aliases:
   - Merfolk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Merfolk
 *Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  
