@@ -10,6 +10,7 @@ tags:
 aliases:
   - Rothé
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rothé
 *Source: Volo's Guide to Monsters p. 208*  
