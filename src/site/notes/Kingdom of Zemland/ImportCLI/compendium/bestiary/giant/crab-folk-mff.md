@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crab Folk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crab Folk
 *Source: Mordenkainen's Fiendish Folio p. 6*  
