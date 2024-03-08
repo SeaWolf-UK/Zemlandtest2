@@ -10,6 +10,7 @@ tags:
 aliases:
   - Illusionist Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Illusionist Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*  
