@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconian Dreadnought
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconian Dreadnought
 *Source: Fizban's Treasury of Dragons p. 177*  
