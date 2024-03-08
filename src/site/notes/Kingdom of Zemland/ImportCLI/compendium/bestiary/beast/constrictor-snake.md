@@ -13,6 +13,7 @@ tags:
 aliases:
   - Constrictor Snake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Constrictor Snake
 *Source: Monster Manual p. 320, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  
