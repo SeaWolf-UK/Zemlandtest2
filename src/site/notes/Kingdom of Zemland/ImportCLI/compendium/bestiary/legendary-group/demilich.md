@@ -7,6 +7,7 @@ tags:
 aliases:
   - Demilich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demilich
 
