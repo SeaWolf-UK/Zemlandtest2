@@ -16,6 +16,7 @@ tags:
 aliases:
   - Commoner
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Commoner
 *Source: Monster Manual p. 345, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
