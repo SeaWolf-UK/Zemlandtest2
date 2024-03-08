@@ -9,6 +9,7 @@ tags:
 aliases:
   - Drufi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Drufi
 *Source: Tomb of Annihilation p. 64*  
