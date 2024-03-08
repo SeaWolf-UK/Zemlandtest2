@@ -10,6 +10,7 @@ tags:
 aliases:
   - Death Tyrant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Death Tyrant
 *Source: Monster Manual p. 29*  
