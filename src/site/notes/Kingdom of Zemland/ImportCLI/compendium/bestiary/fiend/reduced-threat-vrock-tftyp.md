@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Vrock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Vrock
 *Source: Tales from the Yawning Portal p. 113*  
