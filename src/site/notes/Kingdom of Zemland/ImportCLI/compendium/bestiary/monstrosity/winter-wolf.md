@@ -10,6 +10,7 @@ tags:
 aliases:
   - Winter Wolf
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Winter Wolf
 *Source: Monster Manual p. 340, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
