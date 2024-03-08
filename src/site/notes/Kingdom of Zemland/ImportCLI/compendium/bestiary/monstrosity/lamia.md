@@ -10,6 +10,7 @@ tags:
 aliases:
   - Lamia
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lamia
 *Source: Monster Manual p. 201, Mythic Odysseys of Theros. Available in the SRD.*  
