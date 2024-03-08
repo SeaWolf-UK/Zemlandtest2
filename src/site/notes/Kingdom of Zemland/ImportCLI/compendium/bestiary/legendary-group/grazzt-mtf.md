@@ -7,6 +7,7 @@ tags:
 aliases:
   - Graz'zt
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Graz'zt
 
