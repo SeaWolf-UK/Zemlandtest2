@@ -10,6 +10,7 @@ tags:
 aliases:
   - Flameskull
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flameskull
 *Source: Monster Manual p. 134, Curse of Strahd, Lost Mine of Phandelver, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the Basic Rules.*  
