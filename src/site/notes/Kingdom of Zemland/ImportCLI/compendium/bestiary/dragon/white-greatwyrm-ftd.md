@@ -9,6 +9,7 @@ tags:
 aliases:
   - White Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # White Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 168*  
