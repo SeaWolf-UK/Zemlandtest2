@@ -9,6 +9,7 @@ tags:
 aliases:
   - Auspicia Dran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Auspicia Dran
 *Source: Acquisitions Incorporated p. 208*  
