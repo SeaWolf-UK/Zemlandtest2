@@ -9,6 +9,7 @@ tags:
 aliases:
   - Returned Drifter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Returned Drifter
 *Source: Mythic Odysseys of Theros p. 240*  
