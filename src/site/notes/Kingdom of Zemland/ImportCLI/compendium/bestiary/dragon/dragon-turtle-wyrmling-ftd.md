@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dragon Turtle Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Turtle Wyrmling
 *Source: Fizban's Treasury of Dragons p. 192*  
