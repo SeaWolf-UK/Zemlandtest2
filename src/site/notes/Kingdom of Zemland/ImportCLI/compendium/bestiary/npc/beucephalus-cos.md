@@ -9,6 +9,7 @@ tags:
 aliases:
   - Beucephalus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beucephalus
 *Source: Curse of Strahd p. 93*  
