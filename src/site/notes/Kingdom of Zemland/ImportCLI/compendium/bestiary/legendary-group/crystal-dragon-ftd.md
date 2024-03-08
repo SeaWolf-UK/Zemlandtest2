@@ -7,6 +7,7 @@ tags:
 aliases:
   - Crystal Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crystal Dragon
 
