@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ancient Topaz Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Topaz Dragon
 *Source: Fizban's Treasury of Dragons p. 220*  
