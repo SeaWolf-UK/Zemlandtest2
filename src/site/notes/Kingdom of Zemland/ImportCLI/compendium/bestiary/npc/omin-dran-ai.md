@@ -9,6 +9,7 @@ tags:
 aliases:
   - Omin Dran
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Omin Dran
 *Source: Acquisitions Incorporated p. 196*  
