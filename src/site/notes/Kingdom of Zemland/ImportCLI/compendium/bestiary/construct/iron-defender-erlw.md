@@ -9,6 +9,7 @@ tags:
 aliases:
   - Iron Defender
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Iron Defender
 *Source: Eberron: Rising from the Last War p. 293*  
