@@ -9,6 +9,7 @@ tags:
 aliases:
   - K'thriss Drow'b
 dg-publish: "true"
+DG-publish: "True"
 ---
 # K'thriss Drow'b
 *Source: Acquisitions Incorporated p. 202*  
