@@ -12,6 +12,7 @@ tags:
 aliases:
   - Brown Bear
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Brown Bear
 *Source: Monster Manual p. 319, Tales from the Yawning Portal, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
