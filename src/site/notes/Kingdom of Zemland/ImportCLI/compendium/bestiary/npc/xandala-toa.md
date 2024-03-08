@@ -9,6 +9,7 @@ tags:
 aliases:
   - Xandala
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Xandala
 *Source: Tomb of Annihilation p. 236*  
