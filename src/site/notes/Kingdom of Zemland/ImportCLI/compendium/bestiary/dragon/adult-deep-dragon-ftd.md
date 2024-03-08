@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Deep Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Deep Dragon
 *Source: Fizban's Treasury of Dragons p. 174*  
