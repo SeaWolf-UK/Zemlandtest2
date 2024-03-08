@@ -9,6 +9,7 @@ tags:
 aliases:
   - Kwayothé
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kwayothé
 *Source: Tomb of Annihilation p. 26*  
