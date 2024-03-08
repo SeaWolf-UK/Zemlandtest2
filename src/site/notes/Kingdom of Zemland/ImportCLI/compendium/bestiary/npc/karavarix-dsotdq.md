@@ -9,6 +9,7 @@ tags:
 aliases:
   - Karavarix
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Karavarix
 *Source: Dragonlance: Shadow of the Dragon Queen p. 183*  
