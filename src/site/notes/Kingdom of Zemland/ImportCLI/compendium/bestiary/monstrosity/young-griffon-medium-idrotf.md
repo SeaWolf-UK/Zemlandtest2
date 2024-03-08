@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Griffon (Medium)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Griffon (Medium)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 163*  
