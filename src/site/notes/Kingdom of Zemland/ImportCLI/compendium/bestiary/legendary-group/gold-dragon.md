@@ -7,6 +7,7 @@ tags:
 aliases:
   - Gold Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gold Dragon
 
