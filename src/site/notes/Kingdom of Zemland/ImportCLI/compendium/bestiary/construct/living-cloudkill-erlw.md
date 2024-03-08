@@ -9,6 +9,7 @@ tags:
 aliases:
   - Living Cloudkill
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Living Cloudkill
 *Source: Eberron: Rising from the Last War p. 299*  
