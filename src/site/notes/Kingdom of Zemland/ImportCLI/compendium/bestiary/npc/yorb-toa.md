@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yorb
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yorb
 *Source: Tomb of Annihilation p. 108*  
