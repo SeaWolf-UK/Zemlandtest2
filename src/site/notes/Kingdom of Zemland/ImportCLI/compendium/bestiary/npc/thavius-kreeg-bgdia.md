@@ -9,6 +9,7 @@ tags:
 aliases:
   - Thavius Kreeg
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thavius Kreeg
 *Source: Baldur's Gate: Descent Into Avernus p. 42*  
