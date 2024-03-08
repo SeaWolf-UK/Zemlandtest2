@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mister Threadneedle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mister Threadneedle
 *Source: Tomb of Annihilation p. 183*  
