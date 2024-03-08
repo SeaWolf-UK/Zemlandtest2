@@ -9,6 +9,7 @@ tags:
 aliases:
   - Splugoth the Returned
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Splugoth the Returned
 *Source: Acquisitions Incorporated p. 213*  
