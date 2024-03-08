@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Baboon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Baboon
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
