@@ -16,6 +16,7 @@ tags:
 aliases:
   - Swarm of Beetles
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Swarm of Beetles
 *Source: Monster Manual p. 338. Available in the SRD.*  
