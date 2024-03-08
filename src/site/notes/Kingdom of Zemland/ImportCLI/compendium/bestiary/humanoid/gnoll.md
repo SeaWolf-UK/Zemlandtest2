@@ -13,6 +13,7 @@ tags:
 aliases:
   - Gnoll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gnoll
 *Source: Monster Manual p. 163, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
