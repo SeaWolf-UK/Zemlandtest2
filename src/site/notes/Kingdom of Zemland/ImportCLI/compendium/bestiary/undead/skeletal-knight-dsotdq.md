@@ -9,6 +9,7 @@ tags:
 aliases:
   - Skeletal Knight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skeletal Knight
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  
