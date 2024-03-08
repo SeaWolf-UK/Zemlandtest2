@@ -9,6 +9,7 @@ tags:
 aliases:
   - Emerald Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Emerald Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 201*  
