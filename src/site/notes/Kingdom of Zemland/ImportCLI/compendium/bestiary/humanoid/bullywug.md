@@ -10,6 +10,7 @@ tags:
 aliases:
   - Bullywug
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bullywug
 *Source: Monster Manual p. 35, Hoard of the Dragon Queen*  
