@@ -9,6 +9,7 @@ tags:
 aliases:
   - Majesto
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Majesto
 *Source: Curse of Strahd p. 115*  
