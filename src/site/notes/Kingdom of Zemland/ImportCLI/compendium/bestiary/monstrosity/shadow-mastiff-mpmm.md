@@ -12,6 +12,7 @@ tags:
 aliases:
   - Shadow Mastiff
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadow Mastiff
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
