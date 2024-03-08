@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mwaxanaré
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mwaxanaré
 *Source: Tomb of Annihilation p. 228*  
