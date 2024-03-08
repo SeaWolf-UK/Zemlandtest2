@@ -9,6 +9,7 @@ tags:
 aliases:
   - Titanothere
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Titanothere
 *Source: Bigby Presents: Glory of the Giants p. 185*  
