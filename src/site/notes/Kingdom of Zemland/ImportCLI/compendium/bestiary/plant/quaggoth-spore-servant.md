@@ -10,6 +10,7 @@ tags:
 aliases:
   - Quaggoth Spore Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Quaggoth Spore Servant
 *Source: Monster Manual p. 230, Icewind Dale: Rime of the Frostmaiden*  
