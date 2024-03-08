@@ -9,6 +9,7 @@ tags:
 aliases:
   - Setessan Hoplite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Setessan Hoplite
 *Source: Mythic Odysseys of Theros p. 229*  
