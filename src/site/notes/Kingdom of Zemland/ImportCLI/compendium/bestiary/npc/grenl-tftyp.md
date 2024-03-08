@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grenl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grenl
 *Source: Tales from the Yawning Portal p. 25*  
