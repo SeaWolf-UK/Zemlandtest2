@@ -10,6 +10,7 @@ tags:
 aliases:
   - Mud Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mud Mephit
 *Source: Monster Manual p. 216, Tomb of Annihilation*  
