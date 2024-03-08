@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nalfeshnee
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nalfeshnee
 *Source: Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
