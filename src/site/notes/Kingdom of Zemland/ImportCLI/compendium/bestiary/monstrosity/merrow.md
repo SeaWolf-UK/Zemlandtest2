@@ -11,6 +11,7 @@ tags:
 aliases:
   - Merrow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Merrow
 *Source: Monster Manual p. 219, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
