@@ -9,6 +9,7 @@ tags:
 aliases:
   - Andir Valmakos
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Andir Valmakos
 *Source: Dragonlance: Shadow of the Dragon Queen p. 210*  
