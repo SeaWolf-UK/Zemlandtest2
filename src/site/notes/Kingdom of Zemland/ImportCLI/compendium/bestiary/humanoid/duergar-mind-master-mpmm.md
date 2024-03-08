@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Mind Master
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Mind Master
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*  
