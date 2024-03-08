@@ -9,6 +9,7 @@ tags:
 aliases:
   - Polukranos
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Polukranos
 *Source: Mythic Odysseys of Theros p. 231*  
