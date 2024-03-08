@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bronze Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bronze Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 208*  
