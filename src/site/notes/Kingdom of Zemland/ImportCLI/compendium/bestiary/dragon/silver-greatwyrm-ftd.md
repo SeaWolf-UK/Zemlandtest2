@@ -9,6 +9,7 @@ tags:
 aliases:
   - Silver Greatwyrm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Silver Greatwyrm
 *Source: Fizban's Treasury of Dragons p. 208*  
