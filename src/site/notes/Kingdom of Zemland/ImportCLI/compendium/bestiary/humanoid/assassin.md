@@ -10,6 +10,7 @@ tags:
 aliases:
   - Assassin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Assassin
 *Source: Monster Manual p. 343, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  
