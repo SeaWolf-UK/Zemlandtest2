@@ -13,6 +13,7 @@ tags:
 aliases:
   - Darkling Elder
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Darkling Elder
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
