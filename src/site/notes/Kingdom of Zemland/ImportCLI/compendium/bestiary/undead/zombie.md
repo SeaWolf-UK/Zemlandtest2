@@ -10,6 +10,7 @@ tags:
 aliases:
   - Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zombie
 *Source: Monster Manual p. 316, Curse of Strahd, Lost Mine of Phandelver, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
