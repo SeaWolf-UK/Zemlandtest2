@@ -11,6 +11,7 @@ tags:
 aliases:
   - Adult Red Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Red Dragon
 *Source: Monster Manual p. 98, The Rise of Tiamat, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
