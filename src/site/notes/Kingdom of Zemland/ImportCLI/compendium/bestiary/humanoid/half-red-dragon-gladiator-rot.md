@@ -9,6 +9,7 @@ tags:
 aliases:
   - Half-Red Dragon Gladiator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Half-Red Dragon Gladiator
 *Source: The Rise of Tiamat p. 56*  
