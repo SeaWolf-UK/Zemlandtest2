@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tree Blight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tree Blight
 *Source: Curse of Strahd p. 230*  
