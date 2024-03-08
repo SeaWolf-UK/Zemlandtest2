@@ -7,6 +7,7 @@ tags:
 aliases:
   - Fraz-Urb'luu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fraz-Urb'luu
 
