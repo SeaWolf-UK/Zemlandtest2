@@ -10,6 +10,7 @@ tags:
 aliases:
   - Devourer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Devourer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  
