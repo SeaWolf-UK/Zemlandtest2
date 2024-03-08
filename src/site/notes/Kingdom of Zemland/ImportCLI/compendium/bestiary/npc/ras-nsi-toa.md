@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ras Nsi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ras Nsi
 *Source: Tomb of Annihilation p. 230*  
