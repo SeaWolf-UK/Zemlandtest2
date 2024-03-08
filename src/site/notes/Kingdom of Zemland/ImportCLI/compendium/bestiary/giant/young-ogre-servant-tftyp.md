@@ -9,6 +9,7 @@ tags:
 aliases:
   - Young Ogre Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Ogre Servant
 *Source: Tales from the Yawning Portal p. 171*  
