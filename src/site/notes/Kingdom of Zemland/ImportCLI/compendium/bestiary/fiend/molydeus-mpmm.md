@@ -9,6 +9,7 @@ tags:
 aliases:
   - Molydeus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Molydeus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
