@@ -9,6 +9,7 @@ tags:
 aliases:
   - Assassin Vine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Assassin Vine
 *Source: Tomb of Annihilation p. 213*  
