@@ -10,6 +10,7 @@ tags:
 aliases:
   - Twig Blight
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Twig Blight
 *Source: Monster Manual p. 32, Curse of Strahd, Lost Mine of Phandelver, Tales from the Yawning Portal. Available in the Basic Rules.*  
