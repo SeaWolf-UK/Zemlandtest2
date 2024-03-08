@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aquatic Troll
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Aquatic Troll
 *Source: The Rise of Tiamat p. 36*  
