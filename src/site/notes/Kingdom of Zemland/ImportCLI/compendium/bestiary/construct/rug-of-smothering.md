@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rug of Smothering
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rug of Smothering
 *Source: Monster Manual p. 20, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
