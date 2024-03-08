@@ -9,6 +9,7 @@ tags:
 aliases:
   - Girallon Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Girallon Zombie
 *Source: Tomb of Annihilation p. 240*  
