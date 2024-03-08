@@ -9,6 +9,7 @@ tags:
 aliases:
   - Liara Portyr
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Liara Portyr
 *Source: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus*  
