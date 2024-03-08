@@ -11,6 +11,7 @@ tags:
 aliases:
   - Young Gold Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Gold Dragon
 *Source: Monster Manual p. 115. Available in the SRD.*  
