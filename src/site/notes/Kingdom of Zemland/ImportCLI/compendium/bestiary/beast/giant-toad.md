@@ -14,6 +14,7 @@ tags:
 aliases:
   - Giant Toad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Toad
 *Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
