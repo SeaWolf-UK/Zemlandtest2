@@ -10,6 +10,7 @@ tags:
 aliases:
   - Bone Naga (Guardian)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bone Naga (Guardian)
 *Source: Monster Manual p. 233, Tomb of Annihilation*  
