@@ -13,6 +13,7 @@ tags:
 aliases:
   - Eagle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eagle
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
