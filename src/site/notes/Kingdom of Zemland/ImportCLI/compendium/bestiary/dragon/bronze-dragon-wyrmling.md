@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bronze Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bronze Dragon Wyrmling
 *Source: Monster Manual p. 109. Available in the SRD.*  
