@@ -10,6 +10,7 @@ tags:
 aliases:
   - Banderhobb
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Banderhobb
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  
