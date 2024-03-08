@@ -11,6 +11,7 @@ tags:
 aliases:
   - Morkoth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Morkoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
