@@ -9,6 +9,7 @@ tags:
 aliases:
   - Isarr Kronenstrom
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Isarr Kronenstrom
 *Source: Icewind Dale: Rime of the Frostmaiden p. 307*  
