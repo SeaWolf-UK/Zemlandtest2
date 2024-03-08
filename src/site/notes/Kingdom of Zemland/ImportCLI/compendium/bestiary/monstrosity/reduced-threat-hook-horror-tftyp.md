@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reduced-Threat Hook Horror
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Reduced-Threat Hook Horror
 *Source: Tales from the Yawning Portal p. 113*  
