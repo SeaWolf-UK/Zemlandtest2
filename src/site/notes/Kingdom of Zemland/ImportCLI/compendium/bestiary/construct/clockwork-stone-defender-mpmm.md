@@ -13,6 +13,7 @@ tags:
 aliases:
   - Clockwork Stone Defender
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clockwork Stone Defender
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
