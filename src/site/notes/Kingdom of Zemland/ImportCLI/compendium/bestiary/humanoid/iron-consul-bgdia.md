@@ -9,6 +9,7 @@ tags:
 aliases:
   - Iron Consul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Iron Consul
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  
