@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-  - compendium/src/5e/phb
-aliases:
-  - Skills
-dg-publish: "True"
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/import-cli/rules/skills/","tags":["compendium/src/5e/phb"]}
 ---
+
 # Skills
 
 ## Acrobatics
