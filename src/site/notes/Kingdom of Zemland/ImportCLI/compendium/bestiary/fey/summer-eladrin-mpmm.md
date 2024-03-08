@@ -11,6 +11,7 @@ tags:
 aliases:
   - Summer Eladrin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Summer Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
