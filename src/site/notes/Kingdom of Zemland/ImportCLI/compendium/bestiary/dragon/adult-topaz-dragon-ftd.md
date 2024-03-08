@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Topaz Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Topaz Dragon
 *Source: Fizban's Treasury of Dragons p. 221*  
