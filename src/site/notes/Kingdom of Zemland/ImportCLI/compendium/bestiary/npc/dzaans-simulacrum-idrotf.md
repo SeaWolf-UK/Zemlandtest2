@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dzaan's Simulacrum
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dzaan's Simulacrum
 *Source: Icewind Dale: Rime of the Frostmaiden p. 270*  
