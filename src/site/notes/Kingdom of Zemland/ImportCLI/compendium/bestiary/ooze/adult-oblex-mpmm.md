@@ -12,6 +12,7 @@ tags:
 aliases:
   - Adult Oblex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Oblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*  
