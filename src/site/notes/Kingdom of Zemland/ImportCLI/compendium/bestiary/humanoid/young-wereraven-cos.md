@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Wereraven
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Wereraven
 *Source: Curse of Strahd p. 98*  
