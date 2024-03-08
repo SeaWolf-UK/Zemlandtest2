@@ -10,6 +10,7 @@ tags:
 aliases:
   - Young Remorhaz
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Young Remorhaz
 *Source: Monster Manual p. 258, Icewind Dale: Rime of the Frostmaiden*  
