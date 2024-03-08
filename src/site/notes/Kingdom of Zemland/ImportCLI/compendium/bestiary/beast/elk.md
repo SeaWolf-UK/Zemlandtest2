@@ -12,6 +12,7 @@ tags:
 aliases:
   - Elk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Elk
 *Source: Monster Manual p. 322, Hoard of the Dragon Queen, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
