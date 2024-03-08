@@ -9,6 +9,7 @@ tags:
 aliases:
   - Venomfang
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Venomfang
 *Source: Lost Mine of Phandelver p. 63*  
