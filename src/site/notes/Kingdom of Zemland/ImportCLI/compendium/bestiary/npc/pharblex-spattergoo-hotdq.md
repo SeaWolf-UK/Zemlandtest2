@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pharblex Spattergoo
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pharblex Spattergoo
 *Source: Hoard of the Dragon Queen p. 91*  
