@@ -9,6 +9,7 @@ tags:
 aliases:
   - Nedylene
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Nedylene
 *Source: Tales from the Yawning Portal p. 209*  
