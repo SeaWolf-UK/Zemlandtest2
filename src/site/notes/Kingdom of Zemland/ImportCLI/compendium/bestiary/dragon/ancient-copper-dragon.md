@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ancient Copper Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ancient Copper Dragon
 *Source: Monster Manual p. 110, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
