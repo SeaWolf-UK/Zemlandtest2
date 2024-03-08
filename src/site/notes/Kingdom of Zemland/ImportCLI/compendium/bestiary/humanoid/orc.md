@@ -1,22 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/orc
-aliases:
-  - Orc
-dg-publish: "true"
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/import-cli/compendium/bestiary/humanoid/orc/","tags":["compendium/src/5e/mm","monster/cr/1-2","monster/environment/arctic","monster/environment/forest","monster/environment/grassland","monster/environment/hill","monster/environment/mountain","monster/environment/swamp","monster/environment/underdark","monster/size/medium","monster/type/humanoid/orc"]}
 ---
+
 # Orc
 *Source: Monster Manual p. 246, Hoard of the Dragon Queen, Lost Mine of Phandelver, Tales from the Yawning Portal, Tomb of Annihilation, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
 
@@ -81,8 +66,8 @@ title: Orc
 ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (`1d12 + 3`) slashing damage.
 
 ***Javelin.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
-```
-^statblock
+```{ #statblock}
+
 
 ## Environment
 
