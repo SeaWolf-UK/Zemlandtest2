@@ -15,6 +15,7 @@ tags:
 aliases:
   - Orog
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orog
 *Source: Monster Manual p. 247, Tales from the Yawning Portal*  
