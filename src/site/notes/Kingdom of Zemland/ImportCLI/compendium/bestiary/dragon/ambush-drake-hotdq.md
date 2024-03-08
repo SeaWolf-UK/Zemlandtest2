@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ambush Drake
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ambush Drake
 *Source: Hoard of the Dragon Queen p. 88*  
