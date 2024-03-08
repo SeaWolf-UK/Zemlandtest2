@@ -9,6 +9,7 @@ tags:
 aliases:
   - Wine Weird
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Wine Weird
 *Source: Tomb of Annihilation p. 141*  
