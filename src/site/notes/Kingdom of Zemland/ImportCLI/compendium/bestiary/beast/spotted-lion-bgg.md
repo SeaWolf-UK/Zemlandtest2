@@ -9,6 +9,7 @@ tags:
 aliases:
   - Spotted Lion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spotted Lion
 *Source: Bigby Presents: Glory of the Giants p. 177*  
