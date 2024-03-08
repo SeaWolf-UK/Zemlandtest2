@@ -9,6 +9,7 @@ tags:
 aliases:
   - Morgantha
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Morgantha
 *Source: Curse of Strahd p. 48*  
