@@ -14,6 +14,7 @@ tags:
 aliases:
   - Orc Nurtured One of Yurtrus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Orc Nurtured One of Yurtrus
 *Source: Volo's Guide to Monsters p. 184*  
