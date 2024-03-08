@@ -7,6 +7,7 @@ tags:
 aliases:
   - Emerald Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Emerald Dragon
 
