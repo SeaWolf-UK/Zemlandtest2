@@ -9,6 +9,7 @@ tags:
 aliases:
   - Deep Dragon Wyrmling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Dragon Wyrmling
 *Source: Fizban's Treasury of Dragons p. 175*  
