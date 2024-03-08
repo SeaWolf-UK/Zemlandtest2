@@ -12,6 +12,7 @@ tags:
 aliases:
   - Canoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Canoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  
