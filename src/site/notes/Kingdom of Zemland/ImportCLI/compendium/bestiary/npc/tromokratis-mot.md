@@ -9,6 +9,7 @@ tags:
 aliases:
   - Tromokratis
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Tromokratis
 *Source: Mythic Odysseys of Theros p. 254*  
