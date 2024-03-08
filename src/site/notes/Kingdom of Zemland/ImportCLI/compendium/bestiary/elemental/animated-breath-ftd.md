@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Breath
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Breath
 *Source: Fizban's Treasury of Dragons p. 163*  
