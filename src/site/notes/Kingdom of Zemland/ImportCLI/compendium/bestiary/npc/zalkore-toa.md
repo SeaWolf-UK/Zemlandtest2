@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zalkoré
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zalkoré
 *Source: Tomb of Annihilation p. 79*  
