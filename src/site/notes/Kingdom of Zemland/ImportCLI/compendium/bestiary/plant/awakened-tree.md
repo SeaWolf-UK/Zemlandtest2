@@ -10,6 +10,7 @@ tags:
 aliases:
   - Awakened Tree
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Awakened Tree
 *Source: Monster Manual p. 317, The Rise of Tiamat, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
