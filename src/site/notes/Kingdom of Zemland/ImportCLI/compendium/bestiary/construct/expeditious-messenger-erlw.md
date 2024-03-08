@@ -9,6 +9,7 @@ tags:
 aliases:
   - Expeditious Messenger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Expeditious Messenger
 *Source: Eberron: Rising from the Last War p. 293*  
