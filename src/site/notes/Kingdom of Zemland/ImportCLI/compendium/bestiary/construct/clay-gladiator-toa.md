@@ -9,6 +9,7 @@ tags:
 aliases:
   - Clay Gladiator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clay Gladiator
 *Source: Tomb of Annihilation p. 100*  
