@@ -12,6 +12,7 @@ tags:
 aliases:
   - Flail Snail
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Flail Snail
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
