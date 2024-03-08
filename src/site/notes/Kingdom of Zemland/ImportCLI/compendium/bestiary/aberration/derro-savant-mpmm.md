@@ -10,6 +10,7 @@ tags:
 aliases:
   - Derro Savant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Derro Savant
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
