@@ -9,6 +9,7 @@ tags:
 aliases:
   - Grutha
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Grutha
 *Source: Tales from the Yawning Portal p. 170*  
