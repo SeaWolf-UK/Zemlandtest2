@@ -10,6 +10,7 @@ tags:
 aliases:
   - White Abishai
 dg-publish: "true"
+DG-publish: "True"
 ---
 # White Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
