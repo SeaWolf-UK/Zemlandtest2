@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mezzoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mezzoloth
 *Source: Monster Manual p. 313, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus*  
