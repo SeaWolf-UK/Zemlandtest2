@@ -9,6 +9,7 @@ tags:
 aliases:
   - Half-Blue Dragon Gladiator
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Half-Blue Dragon Gladiator
 *Source: The Rise of Tiamat p. 55*  
