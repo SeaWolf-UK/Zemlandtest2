@@ -10,6 +10,7 @@ tags:
 aliases:
   - Transmuter Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Transmuter Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*  
