@@ -9,6 +9,7 @@ tags:
 aliases:
   - Faroul
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Faroul
 *Source: Tomb of Annihilation p. 34*  
