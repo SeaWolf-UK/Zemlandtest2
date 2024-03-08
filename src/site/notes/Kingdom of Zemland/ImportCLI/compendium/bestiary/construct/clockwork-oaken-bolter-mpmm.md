@@ -13,6 +13,7 @@ tags:
 aliases:
   - Clockwork Oaken Bolter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clockwork Oaken Bolter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
