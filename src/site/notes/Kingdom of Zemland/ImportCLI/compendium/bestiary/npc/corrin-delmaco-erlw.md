@@ -9,6 +9,7 @@ tags:
 aliases:
   - Corrin Delmaco
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Corrin Delmaco
 *Source: Eberron: Rising from the Last War p. 271*  
