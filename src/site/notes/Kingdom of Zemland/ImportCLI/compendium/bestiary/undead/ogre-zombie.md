@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ogre Zombie
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre Zombie
 *Source: Monster Manual p. 316, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
