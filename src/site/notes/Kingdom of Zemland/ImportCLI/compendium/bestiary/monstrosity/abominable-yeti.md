@@ -10,6 +10,7 @@ tags:
 aliases:
   - Abominable Yeti
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Abominable Yeti
 *Source: Monster Manual p. 306, Icewind Dale: Rime of the Frostmaiden*  
