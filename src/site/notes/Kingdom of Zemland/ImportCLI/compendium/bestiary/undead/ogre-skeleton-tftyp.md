@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ogre Skeleton
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ogre Skeleton
 *Source: Tales from the Yawning Portal p. 54*  
