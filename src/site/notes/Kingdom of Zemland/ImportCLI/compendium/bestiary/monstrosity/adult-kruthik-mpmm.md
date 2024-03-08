@@ -12,6 +12,7 @@ tags:
 aliases:
   - Adult Kruthik
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
