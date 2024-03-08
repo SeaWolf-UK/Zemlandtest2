@@ -13,6 +13,7 @@ tags:
 aliases:
   - Yuan-ti Abomination
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Abomination
 *Source: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation*  
