@@ -9,6 +9,7 @@ tags:
 aliases:
   - Donavich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Donavich
 *Source: Curse of Strahd p. 46*  
