@@ -9,6 +9,7 @@ tags:
 aliases:
   - Deep Crow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deep Crow
 *Source: Acquisitions Incorporated p. 210*  
