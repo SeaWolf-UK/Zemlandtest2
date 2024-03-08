@@ -10,6 +10,7 @@ tags:
 aliases:
   - Black Pudding
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Black Pudding
 *Source: Monster Manual p. 241, Curse of Strahd, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
