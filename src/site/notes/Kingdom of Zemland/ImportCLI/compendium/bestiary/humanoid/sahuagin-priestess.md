@@ -11,6 +11,7 @@ tags:
 aliases:
   - Sahuagin Priestess
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sahuagin Priestess
 *Source: Monster Manual p. 264, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus*  
