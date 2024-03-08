@@ -10,6 +10,7 @@ tags:
 aliases:
   - Master Thief
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Master Thief
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
