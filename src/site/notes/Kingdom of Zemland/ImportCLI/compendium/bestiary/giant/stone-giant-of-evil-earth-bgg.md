@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stone Giant of Evil Earth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stone Giant of Evil Earth
 *Source: Bigby Presents: Glory of the Giants p. 179*  
