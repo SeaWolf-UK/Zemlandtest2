@@ -9,6 +9,7 @@ tags:
 aliases:
   - Juiblex
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Juiblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151*  
