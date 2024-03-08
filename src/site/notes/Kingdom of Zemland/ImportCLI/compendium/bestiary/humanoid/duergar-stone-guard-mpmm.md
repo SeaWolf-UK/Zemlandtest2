@@ -11,6 +11,7 @@ tags:
 aliases:
   - Duergar Stone Guard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duergar Stone Guard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  
