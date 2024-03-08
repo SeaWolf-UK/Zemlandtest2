@@ -10,6 +10,7 @@ tags:
 aliases:
   - Intellect Devourer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Intellect Devourer
 *Source: Monster Manual p. 191, Eberron: Rising from the Last War*  
