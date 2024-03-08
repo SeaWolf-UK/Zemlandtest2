@@ -9,6 +9,7 @@ tags:
 aliases:
   - Beast of the Sea
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Beast of the Sea
 *Source: Tasha's Cauldron of Everything p. 61*  
