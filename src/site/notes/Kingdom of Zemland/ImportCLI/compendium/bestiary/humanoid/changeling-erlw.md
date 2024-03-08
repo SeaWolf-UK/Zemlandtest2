@@ -10,6 +10,7 @@ tags:
 aliases:
   - Changeling
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Changeling
 *Source: Eberron: Rising from the Last War p. 317*  
