@@ -10,6 +10,7 @@ tags:
 aliases:
   - Werejaguar
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Werejaguar
 *Source: Tales from the Yawning Portal p. 79*  
