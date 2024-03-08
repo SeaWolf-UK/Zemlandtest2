@@ -10,6 +10,7 @@ tags:
 aliases:
   - Hydra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hydra
 *Source: Monster Manual p. 190, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  
