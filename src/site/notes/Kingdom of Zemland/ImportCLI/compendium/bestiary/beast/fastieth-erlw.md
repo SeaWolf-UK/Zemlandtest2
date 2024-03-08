@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fastieth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fastieth
 *Source: Eberron: Rising from the Last War p. 289*  
