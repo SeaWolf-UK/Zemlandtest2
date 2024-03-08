@@ -1,8 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-dg-publish: "true"
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/import-cli/compendium/bestiary/construct/construct/"}
 ---
+
 # Index of Construct
 
 - [Amber Golem](amber-golem-cos.md)
