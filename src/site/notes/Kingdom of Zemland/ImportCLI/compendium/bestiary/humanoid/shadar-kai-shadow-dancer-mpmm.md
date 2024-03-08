@@ -12,6 +12,7 @@ tags:
 aliases:
   - Shadar-kai Shadow Dancer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Shadar-kai Shadow Dancer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*  
