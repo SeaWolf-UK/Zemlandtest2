@@ -9,6 +9,7 @@ tags:
 aliases:
   - Erky Timbers
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Erky Timbers
 *Source: Tales from the Yawning Portal p. 22*  
