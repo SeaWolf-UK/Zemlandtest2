@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bitter Breath
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bitter Breath
 *Source: Baldur's Gate: Descent Into Avernus p. 90*  
