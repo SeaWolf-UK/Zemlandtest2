@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lightning Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lightning Hulk
 *Source: Bigby Presents: Glory of the Giants p. 158*  
