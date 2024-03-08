@@ -10,6 +10,7 @@ tags:
 aliases:
   - Rakshasa
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Rakshasa
 *Source: Monster Manual p. 257, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
