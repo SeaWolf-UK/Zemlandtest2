@@ -10,6 +10,7 @@ tags:
 aliases:
   - Davian Martikov
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Davian Martikov
 *Source: Curse of Strahd p. 173*  
