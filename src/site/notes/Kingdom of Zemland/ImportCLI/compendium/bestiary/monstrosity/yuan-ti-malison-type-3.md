@@ -13,6 +13,7 @@ tags:
 aliases:
   - Yuan-ti Malison (Type 3)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Tomb of Annihilation*  
