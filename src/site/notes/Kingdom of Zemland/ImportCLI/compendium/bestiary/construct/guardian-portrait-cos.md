@@ -9,6 +9,7 @@ tags:
 aliases:
   - Guardian Portrait
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Guardian Portrait
 *Source: Curse of Strahd p. 227*  
