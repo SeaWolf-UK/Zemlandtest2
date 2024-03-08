@@ -7,6 +7,7 @@ tags:
 aliases:
   - Illithilich
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Illithilich
 
