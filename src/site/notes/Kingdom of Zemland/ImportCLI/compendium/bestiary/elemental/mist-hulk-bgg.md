@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mist Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mist Hulk
 *Source: Bigby Presents: Glory of the Giants p. 160*  
