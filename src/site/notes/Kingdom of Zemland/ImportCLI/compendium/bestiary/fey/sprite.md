@@ -10,6 +10,7 @@ tags:
 aliases:
   - Sprite
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sprite
 *Source: Monster Manual p. 283, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War. Available in the SRD.*  
