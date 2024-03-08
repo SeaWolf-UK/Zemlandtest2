@@ -10,6 +10,7 @@ tags:
 aliases:
   - Gazer
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gazer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  
