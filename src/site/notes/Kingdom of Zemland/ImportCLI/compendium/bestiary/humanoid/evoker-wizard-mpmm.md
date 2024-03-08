@@ -10,6 +10,7 @@ tags:
 aliases:
   - Evoker Wizard
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Evoker Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
