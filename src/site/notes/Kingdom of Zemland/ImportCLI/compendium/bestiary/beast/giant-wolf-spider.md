@@ -14,6 +14,7 @@ tags:
 aliases:
   - Giant Wolf Spider
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Wolf Spider
 *Source: Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
