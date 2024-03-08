@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vistana Spy
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vistana Spy
 *Source: Curse of Strahd p. 28*  
