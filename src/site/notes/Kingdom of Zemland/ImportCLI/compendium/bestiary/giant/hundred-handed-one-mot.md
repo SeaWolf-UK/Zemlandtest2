@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hundred-Handed One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hundred-Handed One
 *Source: Mythic Odysseys of Theros p. 225*  
