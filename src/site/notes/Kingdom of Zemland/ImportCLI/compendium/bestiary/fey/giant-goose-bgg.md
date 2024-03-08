@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Goose
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Goose
 *Source: Bigby Presents: Glory of the Giants p. 150*  
