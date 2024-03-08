@@ -10,6 +10,7 @@ tags:
 aliases:
   - Deathlock Mastermind
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Deathlock Mastermind
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
