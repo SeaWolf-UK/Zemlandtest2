@@ -11,6 +11,7 @@ tags:
 aliases:
   - Lizard King
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lizard King
 *Source: Monster Manual p. 205, Tasha's Cauldron of Everything*  
