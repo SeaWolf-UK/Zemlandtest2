@@ -11,6 +11,7 @@ tags:
 aliases:
   - Dragon Turtle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dragon Turtle
 *Source: Monster Manual p. 119, Tomb of Annihilation, Mythic Odysseys of Theros. Available in the SRD.*  
