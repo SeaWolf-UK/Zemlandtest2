@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sharwyn Hucrele
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sharwyn Hucrele
 *Source: Tales from the Yawning Portal p. 242*  
