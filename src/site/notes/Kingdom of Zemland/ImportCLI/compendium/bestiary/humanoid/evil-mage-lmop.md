@@ -9,6 +9,7 @@ tags:
 aliases:
   - Evil Mage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Evil Mage
 *Source: Lost Mine of Phandelver p. 57*  
