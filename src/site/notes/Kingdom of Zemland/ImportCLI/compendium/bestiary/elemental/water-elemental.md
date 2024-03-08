@@ -12,6 +12,7 @@ tags:
 aliases:
   - Water Elemental
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Water Elemental
 *Source: Monster Manual p. 125, The Rise of Tiamat, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  
