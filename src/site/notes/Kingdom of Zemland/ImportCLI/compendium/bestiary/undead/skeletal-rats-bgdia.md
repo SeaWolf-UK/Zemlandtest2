@@ -9,6 +9,7 @@ tags:
 aliases:
   - Skeletal Rats
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Skeletal Rats
 *Source: Baldur's Gate: Descent Into Avernus p. 23*  
