@@ -9,6 +9,7 @@ tags:
 aliases:
   - Zygfrek Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Zygfrek Belview
 *Source: Curse of Strahd p. 148*  
