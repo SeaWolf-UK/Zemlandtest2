@@ -9,6 +9,7 @@ tags:
 aliases:
   - Duskwalker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Duskwalker
 *Source: Dragonlance: Shadow of the Dragon Queen p. 150*  
