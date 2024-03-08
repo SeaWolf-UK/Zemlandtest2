@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sentient Gray Ooze
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sentient Gray Ooze
 *Source: Tales from the Yawning Portal p. 158*  
