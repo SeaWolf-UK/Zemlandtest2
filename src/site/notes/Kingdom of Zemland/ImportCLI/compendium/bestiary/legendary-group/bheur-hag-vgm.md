@@ -7,6 +7,7 @@ tags:
 aliases:
   - Bheur Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bheur Hag
 
