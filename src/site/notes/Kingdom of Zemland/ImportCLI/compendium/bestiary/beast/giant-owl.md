@@ -12,6 +12,7 @@ tags:
 aliases:
   - Giant Owl
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Owl
 *Source: Monster Manual p. 327, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
