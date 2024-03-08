@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bronze Sable
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bronze Sable
 *Source: Mythic Odysseys of Theros p. 210*  
