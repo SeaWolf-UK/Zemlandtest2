@@ -10,6 +10,7 @@ tags:
 aliases:
   - Carrion Crawler
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Carrion Crawler
 *Source: Monster Manual p. 37, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
