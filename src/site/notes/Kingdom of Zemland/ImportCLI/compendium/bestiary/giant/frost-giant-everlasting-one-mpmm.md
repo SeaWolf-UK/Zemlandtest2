@@ -10,6 +10,7 @@ tags:
 aliases:
   - Frost Giant Everlasting One
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Frost Giant Everlasting One
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
