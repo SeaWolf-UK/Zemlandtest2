@@ -9,6 +9,7 @@ tags:
 aliases:
   - Homunculus Servant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Homunculus Servant
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
