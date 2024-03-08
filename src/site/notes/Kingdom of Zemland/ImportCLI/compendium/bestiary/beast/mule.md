@@ -12,6 +12,7 @@ tags:
 aliases:
   - Mule
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mule
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
