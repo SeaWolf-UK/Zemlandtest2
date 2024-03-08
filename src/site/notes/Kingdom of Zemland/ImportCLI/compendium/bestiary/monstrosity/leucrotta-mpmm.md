@@ -11,6 +11,7 @@ tags:
 aliases:
   - Leucrotta
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Leucrotta
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
