@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bugbear Lieutenant
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bugbear Lieutenant
 *Source: Tales from the Yawning Portal p. 173*  
