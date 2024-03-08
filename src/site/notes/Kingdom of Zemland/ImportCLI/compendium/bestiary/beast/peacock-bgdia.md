@@ -9,6 +9,7 @@ tags:
 aliases:
   - Peacock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Peacock
 *Source: Baldur's Gate: Descent Into Avernus p. 195*  
