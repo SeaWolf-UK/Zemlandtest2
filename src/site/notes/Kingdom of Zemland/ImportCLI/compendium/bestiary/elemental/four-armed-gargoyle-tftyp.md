@@ -9,6 +9,7 @@ tags:
 aliases:
   - Four-Armed Gargoyle
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Four-Armed Gargoyle
 *Source: Tales from the Yawning Portal p. 129*  
