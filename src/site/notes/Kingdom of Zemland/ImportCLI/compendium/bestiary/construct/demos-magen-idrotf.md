@@ -9,6 +9,7 @@ tags:
 aliases:
   - Demos Magen
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Demos Magen
 *Source: Icewind Dale: Rime of the Frostmaiden p. 300*  
