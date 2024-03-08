@@ -9,6 +9,7 @@ tags:
 aliases:
   - Naergoth Bladelord
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Naergoth Bladelord
 *Source: The Rise of Tiamat p. 90*  
