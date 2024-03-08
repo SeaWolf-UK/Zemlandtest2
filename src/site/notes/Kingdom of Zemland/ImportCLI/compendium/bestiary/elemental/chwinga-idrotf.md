@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chwinga
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chwinga
 *Source: Icewind Dale: Rime of the Frostmaiden p. 282*  
