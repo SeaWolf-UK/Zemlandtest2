@@ -13,6 +13,7 @@ tags:
 aliases:
   - Clockwork Bronze Scout
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Clockwork Bronze Scout
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
