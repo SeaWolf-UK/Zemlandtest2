@@ -9,6 +9,7 @@ tags:
 aliases:
   - Cradle of the Fire Scion
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Cradle of the Fire Scion
 *Source: Bigby Presents: Glory of the Giants p. 172*  
