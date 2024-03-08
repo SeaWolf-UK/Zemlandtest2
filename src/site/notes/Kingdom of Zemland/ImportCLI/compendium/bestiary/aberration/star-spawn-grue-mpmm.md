@@ -11,6 +11,7 @@ tags:
 aliases:
   - Star Spawn Grue
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Star Spawn Grue
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
