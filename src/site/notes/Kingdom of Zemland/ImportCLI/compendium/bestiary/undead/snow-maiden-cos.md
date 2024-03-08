@@ -9,6 +9,7 @@ tags:
 aliases:
   - Snow Maiden
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Snow Maiden
 *Source: Curse of Strahd p. 159*  
