@@ -10,6 +10,7 @@ tags:
 aliases:
   - Yeti
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Yeti
 *Source: Monster Manual p. 305, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules.*  
