@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Hare
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Hare
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
