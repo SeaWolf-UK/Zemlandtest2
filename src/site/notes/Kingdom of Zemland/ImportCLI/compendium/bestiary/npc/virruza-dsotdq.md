@@ -9,6 +9,7 @@ tags:
 aliases:
   - Virruza
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Virruza
 *Source: Dragonlance: Shadow of the Dragon Queen p. 119*  
