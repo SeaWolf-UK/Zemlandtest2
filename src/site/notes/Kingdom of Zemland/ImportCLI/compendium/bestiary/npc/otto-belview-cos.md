@@ -9,6 +9,7 @@ tags:
 aliases:
   - Otto Belview
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Otto Belview
 *Source: Curse of Strahd p. 147*  
