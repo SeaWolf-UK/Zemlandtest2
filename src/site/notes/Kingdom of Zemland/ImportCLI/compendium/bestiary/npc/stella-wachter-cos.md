@@ -9,6 +9,7 @@ tags:
 aliases:
   - Stella Wachter
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Stella Wachter
 *Source: Curse of Strahd p. 113*  
