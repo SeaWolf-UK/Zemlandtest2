@@ -18,6 +18,7 @@ tags:
 aliases:
   - Winged Kobold
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Winged Kobold
 *Source: Monster Manual p. 195, Hoard of the Dragon Queen, Tomb of Annihilation*  
