@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Moonstone Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Moonstone Dragon
 *Source: Fizban's Treasury of Dragons p. 212*  
