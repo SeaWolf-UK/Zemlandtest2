@@ -11,6 +11,7 @@ tags:
 aliases:
   - Neogi
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Neogi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
