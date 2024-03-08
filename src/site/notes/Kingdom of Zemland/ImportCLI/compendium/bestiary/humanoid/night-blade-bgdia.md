@@ -9,6 +9,7 @@ tags:
 aliases:
   - Night Blade
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Night Blade
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
