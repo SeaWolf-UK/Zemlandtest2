@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ironscale Hydra
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ironscale Hydra
 *Source: Mythic Odysseys of Theros p. 231*  
