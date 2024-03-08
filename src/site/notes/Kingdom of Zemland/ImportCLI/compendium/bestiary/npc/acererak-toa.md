@@ -9,6 +9,7 @@ tags:
 aliases:
   - Acererak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Acererak
 *Source: Tomb of Annihilation p. 209*  
