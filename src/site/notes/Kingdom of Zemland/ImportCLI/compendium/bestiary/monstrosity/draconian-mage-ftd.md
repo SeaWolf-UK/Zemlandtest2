@@ -9,6 +9,7 @@ tags:
 aliases:
   - Draconian Mage
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Draconian Mage
 *Source: Fizban's Treasury of Dragons p. 179*  
