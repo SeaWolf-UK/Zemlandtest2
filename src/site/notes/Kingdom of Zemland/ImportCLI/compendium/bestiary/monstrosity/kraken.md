@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kraken
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kraken
 *Source: Monster Manual p. 197, Mythic Odysseys of Theros. Available in the SRD.*  
