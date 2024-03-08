@@ -9,6 +9,7 @@ tags:
 aliases:
   - Anastrasya Karelova
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Anastrasya Karelova
 *Source: Curse of Strahd p. 93*  
