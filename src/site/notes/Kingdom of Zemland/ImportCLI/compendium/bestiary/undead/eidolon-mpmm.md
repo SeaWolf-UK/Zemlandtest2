@@ -15,6 +15,7 @@ tags:
 aliases:
   - Eidolon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Eidolon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
