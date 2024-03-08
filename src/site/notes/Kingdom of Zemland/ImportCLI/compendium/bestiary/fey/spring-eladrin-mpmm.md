@@ -11,6 +11,7 @@ tags:
 aliases:
   - Spring Eladrin
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Spring Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
