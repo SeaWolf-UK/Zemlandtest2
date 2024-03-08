@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lulu
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lulu
 *Source: Baldur's Gate: Descent Into Avernus p. 5*  
