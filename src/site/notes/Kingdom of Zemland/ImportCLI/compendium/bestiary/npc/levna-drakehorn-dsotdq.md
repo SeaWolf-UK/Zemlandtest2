@@ -9,6 +9,7 @@ tags:
 aliases:
   - Levna Drakehorn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Levna Drakehorn
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
