@@ -9,6 +9,7 @@ tags:
 aliases:
   - Adult Sapphire Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Adult Sapphire Dragon
 *Source: Fizban's Treasury of Dragons p. 215*  
