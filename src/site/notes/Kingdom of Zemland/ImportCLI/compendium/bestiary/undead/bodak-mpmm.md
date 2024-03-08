@@ -12,6 +12,7 @@ tags:
 aliases:
   - Bodak
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Bodak
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
