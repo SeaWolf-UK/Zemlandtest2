@@ -10,6 +10,7 @@ tags:
 aliases:
   - Umber Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Umber Hulk
 *Source: Monster Manual p. 292, Icewind Dale: Rime of the Frostmaiden*  
