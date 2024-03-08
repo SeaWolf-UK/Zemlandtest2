@@ -9,6 +9,7 @@ tags:
 aliases:
   - Dust Hulk
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dust Hulk
 *Source: Bigby Presents: Glory of the Giants p. 131*  
