@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hellfire Engine
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Hellfire Engine
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  
