@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lady Illmarrow
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lady Illmarrow
 *Source: Eberron: Rising from the Last War p. 296*  
