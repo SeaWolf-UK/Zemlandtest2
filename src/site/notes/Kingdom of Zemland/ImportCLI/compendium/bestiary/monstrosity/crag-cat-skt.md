@@ -9,6 +9,7 @@ tags:
 aliases:
   - Crag Cat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Crag Cat
 *Source: Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden*  
