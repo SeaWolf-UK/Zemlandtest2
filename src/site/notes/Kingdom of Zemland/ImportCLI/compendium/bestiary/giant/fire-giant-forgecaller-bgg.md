@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fire Giant Forgecaller
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Fire Giant Forgecaller
 *Source: Bigby Presents: Glory of the Giants p. 138*  
