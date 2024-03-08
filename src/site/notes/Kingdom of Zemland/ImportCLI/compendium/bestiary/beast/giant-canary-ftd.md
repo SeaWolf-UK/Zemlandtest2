@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Canary
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Canary
 *Source: Fizban's Treasury of Dragons p. 23*  
