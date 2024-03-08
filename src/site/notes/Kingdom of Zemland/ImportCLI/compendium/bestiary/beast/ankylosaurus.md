@@ -10,6 +10,7 @@ tags:
 aliases:
   - Ankylosaurus
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Ankylosaurus
 *Source: Monster Manual p. 79, Tomb of Annihilation. Available in the Basic Rules.*  
