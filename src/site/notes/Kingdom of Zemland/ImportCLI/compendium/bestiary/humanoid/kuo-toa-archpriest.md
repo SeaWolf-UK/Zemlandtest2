@@ -10,6 +10,7 @@ tags:
 aliases:
   - Kuo-toa Archpriest
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Kuo-toa Archpriest
 *Source: Monster Manual p. 200*  
