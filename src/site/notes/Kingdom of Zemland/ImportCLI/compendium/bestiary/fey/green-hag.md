@@ -12,6 +12,7 @@ tags:
 aliases:
   - Green Hag
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Green Hag
 *Source: Monster Manual p. 177, Tomb of Annihilation, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  
