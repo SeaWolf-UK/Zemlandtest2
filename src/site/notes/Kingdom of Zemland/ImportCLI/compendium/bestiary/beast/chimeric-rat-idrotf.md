@@ -9,6 +9,7 @@ tags:
 aliases:
   - Chimeric Rat
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Chimeric Rat
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
