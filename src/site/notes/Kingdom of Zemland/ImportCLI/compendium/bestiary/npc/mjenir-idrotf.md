@@ -9,6 +9,7 @@ tags:
 aliases:
   - Mjenir
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Mjenir
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  
