@@ -9,6 +9,7 @@ tags:
 aliases:
   - Animated Halberd
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Animated Halberd
 *Source: Curse of Strahd p. 59*  
