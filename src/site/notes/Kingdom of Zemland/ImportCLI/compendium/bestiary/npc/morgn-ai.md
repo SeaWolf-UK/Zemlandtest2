@@ -9,6 +9,7 @@ tags:
 aliases:
   - Môrgæn
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Môrgæn
 *Source: Acquisitions Incorporated p. 199*  
