@@ -11,6 +11,7 @@ tags:
 aliases:
   - Purple Worm
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Purple Worm
 *Source: Monster Manual p. 255, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  
