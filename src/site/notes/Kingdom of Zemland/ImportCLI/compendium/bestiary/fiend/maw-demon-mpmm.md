@@ -10,6 +10,7 @@ tags:
 aliases:
   - Maw Demon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Maw Demon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
