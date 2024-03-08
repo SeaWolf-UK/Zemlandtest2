@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Lord of Blades
 dg-publish: "true"
+DG-publish: "True"
 ---
 # The Lord of Blades
 *Source: Eberron: Rising from the Last War p. 300*  
