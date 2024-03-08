@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pendragon Beestinger
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Pendragon Beestinger
 *Source: Acquisitions Incorporated p. 206*  
