@@ -9,6 +9,7 @@ tags:
 aliases:
   - Gargantua
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Gargantua
 *Source: Bigby Presents: Glory of the Giants p. 149*  
