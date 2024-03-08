@@ -11,6 +11,7 @@ tags:
 aliases:
   - Slithering Tracker
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Slithering Tracker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  
