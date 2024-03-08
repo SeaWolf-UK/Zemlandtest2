@@ -10,6 +10,7 @@ tags:
 aliases:
   - Dryad
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Dryad
 *Source: Monster Manual p. 121, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
