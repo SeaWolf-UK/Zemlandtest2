@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vilnius
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vilnius
 *Source: Curse of Strahd p. 185*  
