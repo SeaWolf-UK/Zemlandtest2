@@ -10,6 +10,7 @@ tags:
 aliases:
   - Smoke Mephit
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Smoke Mephit
 *Source: Monster Manual p. 217, Curse of Strahd, Tomb of Annihilation*  
