@@ -9,6 +9,7 @@ tags:
 aliases:
   - Sir Braford
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Sir Braford
 *Source: Tales from the Yawning Portal p. 243*  
