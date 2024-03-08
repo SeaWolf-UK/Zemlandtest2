@@ -9,6 +9,7 @@ tags:
 aliases:
   - Thurstwell Vanthampur
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Thurstwell Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 34*  
