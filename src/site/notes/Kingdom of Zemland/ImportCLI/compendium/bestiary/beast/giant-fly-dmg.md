@@ -9,6 +9,7 @@ tags:
 aliases:
   - Giant Fly (DMG)
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Giant Fly (DMG)
 *Source: Dungeon Master's Guide p. 169*  
