@@ -9,6 +9,7 @@ tags:
 aliases:
   - Lesser Death Dragon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Lesser Death Dragon
 *Source: Dragonlance: Shadow of the Dragon Queen p. 195*  
