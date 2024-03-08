@@ -9,6 +9,7 @@ tags:
 aliases:
   - Vrock
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Vrock
 *Source: Monster Manual p. 64, Curse of Strahd, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  
