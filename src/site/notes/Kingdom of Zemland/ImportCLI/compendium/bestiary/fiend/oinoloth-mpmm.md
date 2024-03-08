@@ -11,6 +11,7 @@ tags:
 aliases:
   - Oinoloth
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Oinoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  
