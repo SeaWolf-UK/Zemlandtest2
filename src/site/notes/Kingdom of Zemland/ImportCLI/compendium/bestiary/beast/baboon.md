@@ -11,6 +11,7 @@ tags:
 aliases:
   - Baboon
 dg-publish: "true"
+DG-publish: "True"
 ---
 # Baboon
 *Source: Monster Manual p. 318, Tales from the Yawning Portal, Tomb of Annihilation, Curse of Strahd. Available in the SRD and the Basic Rules.*  
