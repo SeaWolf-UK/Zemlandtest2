@@ -6,7 +6,7 @@
 
 Lives at Shingen manor.  About half a days travel from [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]].  Inbetween city and Black Forrest.
 
-Elderly [[Kingdom of Zemland/ImportCLI/compendium/races/elf\|elf]] 
+Elderly [[elf\|elf]] 
 
 Has a sister, much younger.
 
