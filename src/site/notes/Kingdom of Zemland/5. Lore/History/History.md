@@ -8,7 +8,7 @@
 
 ### **KINGDOM OF ZEMLAND**
 
-The continent of Zemland is the home of the [[Kingdom of Zemland/ImportCLI/compendium/races/dragonborn\|dragonborn]] .
+The continent of Zemland is the home of the [[dragonborn\|dragonborn]] .
 
 Legend speaks of a time when dragons ruled Zemland, their mighty wings casting shadows over the land. It was during this era that the Dragonborns emerged, born of dragon blood and destined to lead.
 
@@ -63,7 +63,7 @@ Beneath the veneer of unity, tensions simmer among the noble houses, each vying 
 
 #### **The [[Kingdom of Zemland/5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]] **:
 
-A clandestine cult dedicated to the dark goddess of dragons, [[Kingdom of Zemland/ImportCLI/compendium/bestiary/npc/tiamat-rot\|Tiamat]]  , seeks to undermine the Dragonborn rule and resurrect ancient evils. Their shadowy influence spreads like a poison, corrupting hearts and minds.
+A clandestine cult dedicated to the dark goddess of dragons, [[tiamat-rot\|Tiamat]]  , seeks to undermine the Dragonborn rule and resurrect ancient evils. Their shadowy influence spreads like a poison, corrupting hearts and minds.
 
 #### **The Prophecy of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Drakor\|Drakor]] **: 
 
