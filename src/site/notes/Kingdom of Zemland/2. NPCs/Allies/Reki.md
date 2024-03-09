@@ -4,7 +4,7 @@
 
 
 
-[[Kingdom of Zemland/ImportCLI/compendium/bestiary/legendary-group/black-dragon\|black-dragon]] 
+[[black-dragon\|black-dragon]] 
 
 Freed from imprisonment in tunnels under [[Kingdom of Zemland/3. Locations/Town/Rose Falls\|Rose Falls]] 
 
